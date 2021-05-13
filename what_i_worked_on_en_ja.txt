@@ -10,312 +10,312 @@ February 2021
 
 Before college the two main things I worked on, outside of school, were writing and programming. I didn't write essays. I wrote what beginning writers were supposed to write then, and probably still are: short stories. My stories were awful. They had hardly any plot, just characters with strong feelings, which I imagined made them deep.
 
-大学に入る前は、学校以外でやっていたことといえば、文章を書くこととプログラミングでした。エッセイは書きませんでした。当時も今も書き始めの作家が書くことになっている短編小説を書いていました。私の物語はひどかったです。筋書きはほとんどなく、ただ強い感情を持った登場人物がいるだけで、それが物語に深みを持たせていると想像していました。
+大学に入る前は、学校以外でやっていたことといえば、文章を書くこととプログラミングでした。エッセイは書きませんでした。当時も、そしておそらく今でも、書き始めの作家が書くことになっているものといえば短編小説です。私はそれを書いていました。私の物語はひどいものでした。筋書きはほとんどなく、ただ強い感情を持った登場人物がいるだけで、それが物語に深みを持たせていると想像していました。
 
 
 The first programs I tried writing were on the IBM 1401 that our school district used for what was then called "data processing." This was in 9th grade, so I was 13 or 14. The school district's 1401 happened to be in the basement of our junior high school, and my friend Rich Draves and I got permission to use it. It was like a mini Bond villain's lair down there, with all these alien-looking machines — CPU, disk drives, printer, card reader — sitting up on a raised floor under bright fluorescent lights.
 
-私が最初に書こうとしたのは、学区が当時「データ処理」と呼ばれていたIBM 1401を使ったプログラムでした。それは9年生の時ですから、私は13歳か14歳でした。学区の1401はたまたま中学校の地下にあり、友人のリッチ・ドレイブスと私はそれを使う許可を得ました。そこはまるでボンドの悪役の隠れ家のようで、CPU、ディスクドライブ、プリンタ、カードリーダーなどのエイリアンのような機械が、明るい蛍光灯の下、床を高くして座っていました。
+私が最初に書こうとしたプログラムは、学区が当時「データ処理」と呼ばれていたことに使っていたIBM 1401のものでした。それは9年生の時ですから、私は13歳か14歳でした。学区の1401はたまたま中学校の地下にあり、友人のリッチ・ドレイブスと私はそれを使う許可を得ました。そこはまるでボンドの悪役の隠れ家のようで、CPU、ディスクドライブ、プリンタ、カードリーダーなどのエイリアンのような機械が、明るい蛍光灯の下、OAフロアの上に鎮座していました。
 
 
 The language we used was an early version of Fortran. You had to type programs on punch cards, then stack them in the card reader and press a button to load the program into memory and run it. The result would ordinarily be to print something on the spectacularly loud printer.
 
-私たちが使っていた言語はFortranの初期バージョンでした。パンチカードにプログラムを入力し、それをカードリーダーに重ねてボタンを押すと、プログラムがメモリに読み込まれて実行されました。その結果、通常は大音量のプリンタで何かを印刷しなければなりませんでした。
+私たちが使っていた言語はFortranの初期バージョンでした。パンチカードにプログラムを入力し、それをカードリーダーに積んでボタンを押すと、プログラムがメモリに読み込まれて実行されました。その結果は、通常は大音量のプリンタで何かを印刷するということになりました。
 
 
 I was puzzled by the 1401. I couldn't figure out what to do with it. And in retrospect there's not much I could have done with it. The only form of input to programs was data stored on punched cards, and I didn't have any data stored on punched cards. The only other option was to do things that didn't rely on any input, like calculate approximations of pi, but I didn't know enough math to do anything interesting of that type. So I'm not surprised I can't remember any programs I wrote, because they can't have done much. My clearest memory is of the moment I learned it was possible for programs not to terminate, when one of mine didn't. On a machine without time-sharing, this was a social as well as a technical error, as the data center manager's expression made clear.
 
-私は1401に戸惑った。どうすればいいのかわからなかった。振り返ってみると、これを使ってできることはあまりなかった。プログラムへの入力形態はパンチングカードに保存されたデータしかなく、パンチングカードに保存されたデータは何も持っていなかった。唯一の選択肢は、円周率の近似値を計算するなど、入力に頼らないことをすることでしたが、私はその種の面白いことをするのに十分な数学の知識がありませんでした。だから、自分が書いたプログラムは大したことができなかったはずなので、覚えていても不思議ではありません。私の最も鮮明な記憶は、私のプログラムの一つが終了しなかったときに、プログラムが終了しないことが可能であることを知った瞬間です。タイムシェアリングのないマシンでは、これは技術的なミスだけでなく、社会的なミスでもありました。
+私は1401に戸惑いました。どうすればいいのかわかりませんでした。振り返ってみると、これを使ってできることはあまりありませんでした。プログラムが入力を受け取る形式はパンチカードに保存されたデータだけだったのですが、パンチカードに保存されたデータなんて持っていませんでした。唯一の選択肢は、円周率の近似値を計算するなど、入力に頼らないことをすることでしたが、私はその種の面白いことをするのに十分な数学の知識がありませんでした。だから、自分が書いたプログラムは大したことができなかったはずなので、覚えていないのも不思議ではありません。私の最も鮮明な記憶は、私のプログラムの一つが終了しなかったときに、プログラムが終了しないということがありうることを知った瞬間です。タイムシェアリングのないマシンでは、これは技術的な失敗というだけでなく、社会的な失敗でもありました。私はそれを、データセンターの管理人に叱られることによって学びました。
 
 
 With microcomputers, everything changed. Now you could have a computer sitting right in front of you, on a desk, that could respond to your keystrokes as it was running instead of just churning through a stack of punch cards and then stopping. [1]
 
-マイクロコンピュータでは、すべてが変わりました。今では目の前にコンピュータがあり、机の上に座っていて、実行中のキーストロークに反応することができるようになりましたが、それはパンチカードのスタックを処理してから停止するのではなく。[1]
+マイクロコンピュータでは、何もかもが変わっていました。今では目の前にコンピュータがあり、机の上に鎮座しています。また、それはパンチカードの山を処理してから停止するのではなく、実行中のキーストロークに反応することができるようになっていました。[1]
 
 
 The first of my friends to get a microcomputer built it himself. It was sold as a kit by Heathkit. I remember vividly how impressed and envious I felt watching him sitting in front of it, typing programs right into the computer.
 
-初めてマイコンを手に入れた友人が自作しました。それはヒースキットからキットとして販売されていました。彼がマイクロコンピュータの前に座ってプログラムを入力しているのを見て、どれほど感銘を受け、うらやましく思ったかを鮮明に覚えています。
+初めてマイコンを手に入れたのは、マイコンを自作した友人でした。ヒースキットからキットとして販売されていたものです。彼がマイクロコンピュータの前に座ってプログラムを入力しているのを見て、どれほど感銘を受け、うらやましく思ったかを鮮明に覚えています。
 
 
 Computers were expensive in those days and it took me years of nagging before I convinced my father to buy one, a TRS-80, in about 1980. The gold standard then was the Apple II, but a TRS-80 was good enough. This was when I really started programming. I wrote simple games, a program to predict how high my model rockets would fly, and a word processor that my father used to write at least one book. There was only room in memory for about 2 pages of text, so he'd write 2 pages at a time and then print them out, but it was a lot better than a typewriter.
 
-当時のコンピュータは高価で、1980年頃に父を説得してTRS-80を購入するまで、私は何年も口うるさくてたまりませんでした。当時の金字塔はApple IIでしたが、TRS-80で十分でした。私が本格的にプログラミングを始めたのはこの頃です。簡単なゲームを書いたり、模型ロケットの高さを予測するプログラムを書いたり、父が少なくとも1冊の本を書くのに使っていたワープロを書いたりしました。メモリには2ページ分のテキストを書けるスペースしかなかったので、父は一度に2ページずつ書いて印刷していましたが、タイプライターよりははるかに優れていました。
+当時のコンピュータは高価で、1980年頃に父を説得してTRS-80を購入するまで、私は何年も口うるさくせがみ続けました。当時の金字塔はApple IIでしたが、TRS-80でも十分でした。私が本格的にプログラミングを始めたのはこの時です。簡単なゲームを書いたり、模型ロケットの飛ぶ高さを予測するプログラムを書いたり、ワープロを書いたりしました。そのワープロを使って、父は少なくとも1冊の本を書きました。メモリには2ページ分のテキストを書けるスペースしかなかったので、父は一度に2ページずつ書いて印刷していましたが、タイプライターよりはずっとましだったのです。
 
 
 Though I liked programming, I didn't plan to study it in college. In college I was going to study philosophy, which sounded much more powerful. It seemed, to my naive high school self, to be the study of the ultimate truths, compared to which the things studied in other fields would be mere domain knowledge. What I discovered when I got to college was that the other fields took up so much of the space of ideas that there wasn't much left for these supposed ultimate truths. All that seemed left for philosophy were edge cases that people in other fields felt could safely be ignored.
 
-プログラミングは好きでしたが、大学では勉強するつもりはありませんでした。大学では哲学を勉強するつもりでした。他の分野で勉強していることが単なる領域の知識になってしまうのに比べて、究極の真理を究める学問だと思っていました。大学に入ってわかったことは、他の分野があまりにも多くのアイデアの空間を占めていて、究極の真理と思われるものがあまり残っていないということでした。哲学に残されているのは、他の分野の人たちが無視してもいいと思っているようなエッジケースばかりだったのです。
+プログラミングは好きでしたが、大学では勉強するつもりはありませんでした。大学では哲学を勉強するつもりでした。他の分野で勉強していることが単なる個別領域の知識になってしまうのに比べて、哲学は究極の真理を究める学問だと、高校時代の未熟な自分は思っていました。大学に入ってわかったことは、他の分野があまりにも多くの考えのスペースを占めていて、究極の真理と思われるもののためのスペースはあまり残っていないということでした。哲学に残されているのは、他の分野の人たちが無視してもいいと思っているようなエッジケースばかりだったのです。
 
 
 I couldn't have put this into words when I was 18. All I knew at the time was that I kept taking philosophy courses and they kept being boring. So I decided to switch to AI.
 
-18歳の時には、このことを言葉にすることはできませんでした。その時に知っていたのは、哲学の授業を受け続けていて、つまらなかったということだけだった。そこで私はAIに転向することにしました。
+18歳の時には、このことを言葉にすることはできませんでした。その時にわかったのは、哲学の授業を受け続けていて、つまらなかったということだけでした。そこで私はAIに転向することにしました。
 
 
 AI was in the air in the mid 1980s, but there were two things especially that made me want to work on it: a novel by Heinlein called The Moon is a Harsh Mistress, which featured an intelligent computer called Mike, and a PBS documentary that showed Terry Winograd using SHRDLU. I haven't tried rereading The Moon is a Harsh Mistress, so I don't know how well it has aged, but when I read it I was drawn entirely into its world. It seemed only a matter of time before we'd have Mike, and when I saw Winograd using SHRDLU, it seemed like that time would be a few years at most. All you had to do was teach SHRDLU more words.
 
-1980年代半ばにはAIが流行していましたが、特にAIに取り組みたいと思わせてくれたものが2つありました。それは、ハインラインの小説「The Moon is a Harsh Mistress」で、マイクと呼ばれる知能コンピュータが登場するというものと、テリー・ウィノグラッドがSHRDLUを使っているというPBSのドキュメンタリーでした。私はThe Moon is a Harsh Mistressを再読していないので、どのくらい熟成されているのかはわかりませんが、読んだときはその世界にすっかり引き込まれてしまいました。マイクがいるのは時間の問題だと思っていたし、ウィノグラッドがSHRDLUを使っているのを見て、その時間はせいぜい数年だろうと思っていた。SHRDLUにもっと単語を教えればよかったのに。
+1980年代半ばにはAIが流行していましたが、特にAIに取り組みたいと思わせてくれたものが2つありました。それは、マイクと呼ばれる知能コンピュータが登場するハインラインの小説「月は無慈悲な夜の女王」と、テリー・ウィノグラッドがSHRDLUを使っているというPBSのドキュメンタリーでした。私は「月は無慈悲な夜の女王」を再読していないので、今ではどのくらい時代遅れになっているのかはわかりませんが、読んだときはその世界にすっかり引き込まれてしまいました。マイクを作れるようになるのは時間の問題だと思っていましたし、ウィノグラッドがSHRDLUを使っているのを見て、その時間はせいぜい数年だろうと思っていました。SHRDLUにもっとたくさん単語を教えるだけじゃないか、と。
 
 
 There weren't any classes in AI at Cornell then, not even graduate classes, so I started trying to teach myself. Which meant learning Lisp, since in those days Lisp was regarded as the language of AI. The commonly used programming languages then were pretty primitive, and programmers' ideas correspondingly so. The default language at Cornell was a Pascal-like language called PL/I, and the situation was similar elsewhere. Learning Lisp expanded my concept of a program so fast that it was years before I started to have a sense of where the new limits were. This was more like it; this was what I had expected college to do. It wasn't happening in a class, like it was supposed to, but that was ok. For the next couple years I was on a roll. I knew what I was going to do.
 
-当時コーネル大学には AIの授業はありませんでした 大学院の授業でさえもありませんでした それで独学で勉強し始めました 当時はLispがAIの言語とみなされていたので、Lispを学ぶことになりました。当時、一般的に使われていたプログラミング言語はかなり原始的なもので、プログラマーの考え方もそれに準じたものでした。コーネル大学でのデフォルト言語はPL/Iと呼ばれるPascalに似た言語で、他の場所でも同じような状況でした。Lispを学んだことで、プログラムの概念があっという間に広がったので、新しい限界がどこにあるのかがわかるようになるまでには何年もかかりました。これは、私が大学で期待していたことでした。これは、私が大学でやっていると思っていたことでした。それからの数年間、私は調子に乗っていました。自分が何をしようとしているのかわかっていました。
+当時コーネル大学にはAIの授業はありませんでした。大学院の授業にさえもありませんでした。それで独学での勉強を始めました。当時はLispがAIの言語とみなされていたので、Lispを学ぶことになりました。当時、一般的に使われていたプログラミング言語はかなり原始的なもので、プログラマーの考え方もそれに準じたレベルでした。コーネル大学でのデフォルト言語はPL/Iと呼ばれるPascalに似た言語で、他の場所でも同じような状況でした。Lispを学んだことで、私のプログラムの概念があっという間に広がったので、新しい限界がどこにあるのかがわかるようになるまでには何年もかかりました。これこそが、私が大学に期待していたことでした。本来なら、そういう学びは教室で得るものなのでしょうが、そうでなくても問題ありませんでした。それからの数年間、私はいい調子でした。自分の進む道がわかっていました。
 
 
 For my undergraduate thesis, I reverse-engineered SHRDLU. My God did I love working on that program. It was a pleasing bit of code, but what made it even more exciting was my belief — hard to imagine now, but not unique in 1985 — that it was already climbing the lower slopes of intelligence.
 
-学部の卒業論文では、SHRDLUをリバースエンジニアリングしました。そのプログラムに取り組むのが大好きでした。それは楽しいコードでしたが、それをさらに興奮させたのは、今では想像しにくいですが、1985年にはユニークなものではありませんでした。
+学部の卒業論文では、SHRDLUをリバースエンジニアリングしました。もう夢中でした。コードも楽しいものでしたが、私をわくわくさせていたのは、SHRDLUが人工知能という山の裾野をすでに登りかけているという私の信念でした。今では想像しにくいですが、1985年にはそう思っている人は私だけではありませんでした。
 
 
 I had gotten into a program at Cornell that didn't make you choose a major. You could take whatever classes you liked, and choose whatever you liked to put on your degree. I of course chose "Artificial Intelligence." When I got the actual physical diploma, I was dismayed to find that the quotes had been included, which made them read as scare-quotes. At the time this bothered me, but now it seems amusingly accurate, for reasons I was about to discover.
 
-私はコーネル大学のプログラムに入っていたのですが、そのプログラムでは専攻を選択することはできませんでした。あなたは好きなクラスを何でも履修でき、学位を取得するために好きなものを何でも選ぶことができました。私はもちろん「人工知能」を選んだ 実際に物理的な卒業証書を手にした時引用符が含まれていたのを見つけて落胆したそれは恐怖の引用符のように読ませた 当時はこれが気になっていましたが、今では面白いほど正確に思えます。
+私はコーネル大学のプログラムに入っていたのですが、そのプログラムでは専攻を選択する必要はありませんでした。好きなクラスを何でも履修でき、学位につける名前も好きなものを何でも選ぶことができました。私はもちろん“人工知能”にしました。実際に物理的な卒業証書を手にしたとき、学位に引用符まで含まれてしまっていることに気づき、がっかりしました。それは皮肉の引用符のように見えたからです。当時は嫌な気持ちになっていましたが、今では面白いほど正確に思えます。それにはいくつかの理由があるのですが、当時の私もそれらに気づき始めていたところでした。
 
 
 I applied to 3 grad schools: MIT and Yale, which were renowned for AI at the time, and Harvard, which I'd visited because Rich Draves went there, and was also home to Bill Woods, who'd invented the type of parser I used in my SHRDLU clone. Only Harvard accepted me, so that was where I went.
 
-私は3つの大学院に出願しました。当時AIで有名だったMITとイェール、そしてリッチ・ドレイブスが通っていたので訪れたことのあるハーバード、そして私のSHRDLUクローンで使ったパーサを発明したビル・ウッズの家でもあります。ハーバードだけが私を受け入れてくれたので、そこに行きました。
+私は3つの大学院に出願しました。当時AIで有名だったMIT、イェール、そしてリッチ・ドレイブスが通っていたので訪れたことのあるハーバードです。ハーバードは、私のSHRDLUクローンで使ったパーサを発明したビル・ウッズの母校でもあります。通ったのはハーバードだけだったので、そこに行きました。
 
 
 I don't remember the moment it happened, or if there even was a specific moment, but during the first year of grad school I realized that AI, as practiced at the time, was a hoax. By which I mean the sort of AI in which a program that's told "the dog is sitting on the chair" translates this into some formal representation and adds it to the list of things it knows.
 
-その時のことは覚えていませんが、大学院の最初の年に、当時実践されていたAIはデマだと気づきました。つまり、「犬が椅子に座っている」と言われたプログラムが、これを何らかの形式的な表現に変換して、それが知っていることのリストに追加するAIのようなものを意味します。
+いつのことかは覚えていません。ある特定の瞬間に起こったというわけではないかもしれません。とにかく、大学院の最初の年に、当時実践されていたAIはインチキだと私は気づいてしまったのです。当時のAIというのは、「犬が椅子に座っている」と言われたプログラムが、それを何らかの形式的な表現に変換して、自分が知っていることのリストに追加するようなもののことです。
 
 
 What these programs really showed was that there's a subset of natural language that's a formal language. But a very proper subset. It was clear that there was an unbridgeable gap between what they could do and actually understanding natural language. It was not, in fact, simply a matter of teaching SHRDLU more words. That whole way of doing AI, with explicit data structures representing concepts, was not going to work. Its brokenness did, as so often happens, generate a lot of opportunities to write papers about various band-aids that could be applied to it, but it was never going to get us Mike.
 
-これらのプログラムが実際に示したのは、自然言語には形式言語のサブセットがあるということです。しかし、非常に適切なサブセットです。彼らができることと実際に自然言語を理解することとの間には 橋渡し不可能なギャップがあることが明らかになりました。それは、実際には、単にSHRDLUにもっと多くの言葉を教えればいいという問題ではありませんでした。概念を表す明示的なデータ構造を持つAIのやり方では、うまくいかないのである。その壊れた状態は、よくあるように、それに適用できる様々なバンドエイドについての論文を書く機会を多く生み出しましたが、マイクを手に入れることはできませんでした。
+これらのプログラムが実際に示したのは、自然言語には、それが形式言語となるような部分集合があるということです。しかし、それは非常に限られた部分集合です。それでできることと、実際に自然言語を理解することとの間には 橋渡し不可能なギャップがあることは明らかでした。それは、実際には、単にSHRDLUにもっと多くの言葉を教えればいいという問題ではありませんでした。概念を表す明示的なデータ構造を持つというAIのやり方では、うまくいかないのです。それが壊れていたおかげで、よくあるように、それに貼りつけるさまざまなバンドエイドについての論文を書く機会が多く生み出されましたが、いくらそれをやってもマイクにはならないのです。
 
 
 So I looked around to see what I could salvage from the wreckage of my plans, and there was Lisp. I knew from experience that Lisp was interesting for its own sake and not just for its association with AI, even though that was the main reason people cared about it at the time. So I decided to focus on Lisp. In fact, I decided to write a book about Lisp hacking. It's scary to think how little I knew about Lisp hacking when I started writing that book. But there's nothing like writing a book about something to help you learn it. The book, On Lisp, wasn't published till 1993, but I wrote much of it in grad school.
 
-そこで、私は自分の計画の残骸から何かを救い出すことができないかと周りを見回してみましたが、そこにはLispがありました。経験上、LispはAIとの関連性だけでなく、それ自体のためにも興味深いものであることはわかっていましたが、それが当時人々がLispに注目していた主な理由でした。そこで、私はLispに焦点を当てることにしました。実際、Lispのハッキングについての本を書くことにしました。その本を書き始めたときに、自分がどれだけLispハッキングのことを知らなかったかを考えると恐ろしいです。しかし、何かについての本を書くことで、それを学ぶのに役立つものは何もありません。On Lispという本は1993年まで出版されていませんでしたが、私は大学院でその多くを書きました。
+そこで、私は自分の計画の残骸から何かを救い出すことができないかと周りを見回してみました。そこにあったのはLispでした。Lispが当時人々に注目されていたのはAIとの関連性からでしたが、私は経験から、Lispはそれ自体として興味深いものであるということをわかっていました。そこで、私はLispに焦点を当てることにしました。Lispのハッキングについての本を書くことにしたのです。その本を書き始めたときに、自分がどれだけLispハッキングのことを知らなかったかを考えると恐ろしいぐらいです。しかし、何かについての本を書くことほど、それを学ぶのに役立つことはありません。On Lispという本が出版されたのはようやく1993年になってからのことでしたが、その多くは大学院時代に書いたものです。
 
 
 Computer Science is an uneasy alliance between two halves, theory and systems. The theory people prove things, and the systems people build things. I wanted to build things. I had plenty of respect for theory — indeed, a sneaking suspicion that it was the more admirable of the two halves — but building things seemed so much more exciting.
 
-コンピュータサイエンスは、理論とシステムという2つの側面の間にある不安な同盟関係です。理論の人は物事を証明し、システムの人は物事を構築する。私は物を作りたいと思っていました。私は理論に敬意を持っていました - 実際、それは2つの半分のうちのより立派なものではないかとひそかに疑っていました - しかし、物事を構築することは非常にエキサイティングに思えました。
+コンピュータサイエンスは、理論とシステムという2つの側面の間にある不安定な同盟関係です。理論の人は何かを証明し、システムの人は何かを作ります。私は何かを作りたいと思っていました。私は理論に敬意を持っていました - 実際、それは2つの半分のうちのより立派なものではないかとひそかに疑っていました - しかし、何かを作ることはそれよりずっとエキサイティングに思えたのです。
 
 
 The problem with systems work, though, was that it didn't last. Any program you wrote today, no matter how good, would be obsolete in a couple decades at best. People might mention your software in footnotes, but no one would actually use it. And indeed, it would seem very feeble work. Only people with a sense of the history of the field would even realize that, in its time, it had been good.
 
-しかし、システムの仕事の問題点は、それが続かないことでした。あなたが今日書いたプログラムがどんなに優れていたとしても、せいぜい数十年後には時代遅れになってしまうでしょう。人々はあなたのソフトウェアについて脚注で言及するかもしれませんが、実際に使う人はいないでしょう。そして実際には、それは非常に弱々しい仕事に見えるでしょう。この分野の歴史を知っている人だけが、その時代には優れたものであったことに気づくでしょう。
+しかし、システムの仕事の問題点は、それが後に残らないということでした。あなたが今日書いたプログラムがどんなに優れていたとしても、せいぜい数十年後には時代遅れになってしまうでしょう。そのころには、人々はあなたのソフトウェアについて脚注で言及するかもしれませんが、実際に使う人はいなくなっているでしょう。また、それは非常にしょぼいものに見えるはずです。この分野の歴史を知っている人だけが、当時はそれが優れたものであったということに気づいてくれるかもしれません。
 
 
 There were some surplus Xerox Dandelions floating around the computer lab at one point. Anyone who wanted one to play around with could have one. I was briefly tempted, but they were so slow by present standards; what was the point? No one else wanted one either, so off they went. That was what happened to systems work.
 
-コンピュータラボには、余ったゼロックスのタンポポがいくつか浮かんでいた。欲しい人は誰でも持っていた。私は一瞬誘惑に駆られましたが、現在の基準ではとても遅く、何の意味があるのでしょうか？他の誰も欲しがっていなかったので、彼らは行ってしまいました。それがシステムの仕事に起こったことです。
+コンピュータラボには、余ったゼロックスのDandelionがいくつか転がっていました。誰でも、欲しいと思えば自分のものにできました。私は一瞬誘惑に駆られましたが、その時点での基準ではとても遅いものでした。もらって何になるでしょうか？ 他に欲しがる人もいなかったので、そのまま捨てられてしまいました。システムの仕事もそういうものでした。
 
 
 I wanted not just to build things, but to build things that would last.
 
-私はただ物を作るだけではなく、長持ちする物を作りたかったのです。
+私は、ただ物を作るというのではなく、長く残る物を作りたかったのです。
 
 
 In this dissatisfied state I went in 1988 to visit Rich Draves at CMU, where he was in grad school. One day I went to visit the Carnegie Institute, where I'd spent a lot of time as a kid. While looking at a painting there I realized something that might seem obvious, but was a big surprise to me. There, right on the wall, was something you could make that would last. Paintings didn't become obsolete. Some of the best ones were hundreds of years old.
 
-そんな不満な状態の中、私は1988年、彼が大学院にいたCMUのリッチ・ドレイブスを訪ねに行きました。ある日、私は子供の頃によく通っていたカーネギー・インスティテュートを訪ねました。そこで絵を見ているうちに、当たり前のように見えるかもしれないが、私にとっては大きな驚きだったことに気がついたのです。そこの壁には、あなたが作ることができる、長持ちするものがあったのです。絵画は時代遅れになることはありませんでした。最高のものは何百年も前のものもあります。
+そんな不満な状態の中、私は1988年、CMUの大学院にいたリッチ・ドレイブスを訪ねに行きました。ある日、私は子供の頃によく通っていたカーネギー・インスティテュートを訪ねました。そこで絵を見ているうちに、当たり前のように思えるかもしれませんが、私にとっては大きな驚きだったことに気がついたのです。そこの壁には、自分にも作ることができる、長く残るものがあったのです。絵画は時代遅れになることはありません。最高のものは何百年も前のものもあるのです。
 
 
 And moreover this was something you could make a living doing. Not as easily as you could by writing software, of course, but I thought if you were really industrious and lived really cheaply, it had to be possible to make enough to survive. And as an artist you could be truly independent. You wouldn't have a boss, or even need to get research funding.
 
-しかも、これはあなたが生計を立てられるものでした。もちろん、ソフトウェアを書くほど簡単にはいかないけれど、本当に勤勉で、本当に安く暮らしていれば、生きていけるだけのものは作れるはずだと思っていました。そして、アーティストとして本当に独立することができます。上司もいないし、研究資金も必要ない。
+しかも、それで生計を立てることもできるのです。もちろん、ソフトウェアを書くほど簡単にはいかないけれど、本当に勤勉で、本当に倹約して暮らしていれば、生きていけるだけのものは作れるはずだと思っていました。そして、芸術家であれば、本当の意味で独立することができます。上司もいないし、研究資金も必要ありません。
 
 
 I had always liked looking at paintings. Could I make them? I had no idea. I'd never imagined it was even possible. I knew intellectually that people made art — that it didn't just appear spontaneously — but it was as if the people who made it were a different species. They either lived long ago or were mysterious geniuses doing strange things in profiles in Life magazine. The idea of actually being able to make art, to put that verb before that noun, seemed almost miraculous.
 
-昔から絵を見るのが好きだったんです。作れるのか？分からなかった 想像もしていませんでした 人が芸術を作ることは知的には知っていましたが、それは自然発生的なものではなく、まるで芸術を作る人たちが別の種族であるかのようでした。大昔に生きていたのか、あるいはライフ誌のプロフィールで不思議なことをしている謎の天才だったのか。名詞の前に動詞をつけて、実際にアートを作れるようになったことが奇跡的に思えたのです。
+昔から絵を見るのは好きでした。しかし、作れるのかどうかはわからりませんでした。そんな可能性があると想像したこともありませんでした。知識としては、芸術は人が作るものであり、自然に湧いてくるものではないということは知っていました。しかし、芸術を作る人たちは別の種族のような気がしていました。大昔の人だったり、あるいはライフ誌の人物紹介ページで不思議なことをしている謎の天才だったり。実際に「芸術」を「作る」ということ、その名詞にその動詞をつなげるということは、ほとんど奇跡のように思えました。
 
 
 That fall I started taking art classes at Harvard. Grad students could take classes in any department, and my advisor, Tom Cheatham, was very easy going. If he even knew about the strange classes I was taking, he never said anything.
 
-その秋、私はハーバード大学で美術の授業を受け始めました。院生はどこの学部でも授業を受けられるし、指導教官のトム・チーサムはとても気さくな人だった。彼は私が受けている奇妙な授業のことを知っていても、何も言わなかった。
+その秋、私はハーバード大学で美術の授業を受け始めました。院生はどこの学部でも授業を受けられるし、指導教官のトム・チーサムはとても気さくな人でした。彼は私が受けている奇妙な授業のことを知っていたかどうかはわかりませんが、知っていたとしても、そのことについては何も言いませんでした。
 
 
 So now I was in a PhD program in computer science, yet planning to be an artist, yet also genuinely in love with Lisp hacking and working away at On Lisp. In other words, like many a grad student, I was working energetically on multiple projects that were not my thesis.
 
-だから今、私はコンピュータサイエンスの博士課程にいて、アーティストになろうと思っていましたが、Lispハッキングに純粋に恋をして、On Lispで仕事をしていました。つまり、他の大学院生と同じように、論文ではない複数のプロジェクトに精力的に取り組んでいました。
+そういうわけで、私はコンピュータサイエンスの博士課程に在籍しつつ、芸術家になろうと思いつつ、Lispハッキングに純粋に恋をしつつ、せっせとOn Lispを執筆していました。つまり、大学院生にはよくあることですが、自分の論文のテーマとは違う複数のプロジェクトに精力的に取り組んでいたというわけです。
 
 
 I didn't see a way out of this situation. I didn't want to drop out of grad school, but how else was I going to get out? I remember when my friend Robert Morris got kicked out of Cornell for writing the internet worm of 1988, I was envious that he'd found such a spectacular way to get out of grad school.
 
-この状況から抜け出す方法はありませんでした。大学院を中退したくはありませんでしたが、他にどうやって抜け出すつもりだったのでしょうか？友人のロバート・モリスが1988年にインターネットワームを書いたことでコーネル大学を追い出されたとき、私は彼が大学院を出るための素晴らしい方法を見つけたことをうらやましく思ったのを覚えています。
+この状況からどう抜け出せばいいかわかりませんでした。大学院を中退したくはありませんでしたが、それ以外でどうやって抜け出せばいいのでしょうか？友人のロバート・モリスが1988年にインターネットワームを書いたことでコーネル大学を追い出されたとき、私は彼が大学院を出るための素晴らしい方法を見つけたことをうらやましく思ったのを覚えています。
 
 
 Then one day in April 1990 a crack appeared in the wall. I ran into professor Cheatham and he asked if I was far enough along to graduate that June. I didn't have a word of my dissertation written, but in what must have been the quickest bit of thinking in my life, I decided to take a shot at writing one in the 5 weeks or so that remained before the deadline, reusing parts of On Lisp where I could, and I was able to respond, with no perceptible delay "Yes, I think so. I'll give you something to read in a few days."
 
-そして1990年4月のある日、壁に亀裂が入りました。私はチーサム教授に出くわし、彼は私がその6月に卒業するのに十分なレベルにあるかどうかを尋ねました。私はまだ論文を書いていなかったのですが、人生で一番頭の回転が速かったのでしょう、締め切りまでに残った5週間ほどの間に、On Lispの一部を再利用して、論文を書いてみることにしました。数日後に何か読み物をあげよう。"
+そして1990年4月のある日、救いの手が現れました。私はチーサム教授に出くわし、彼は私がその6月に卒業するのに十分なレベルにあるかどうかを尋ねました。私はまだ一文字も論文を書いていなかったのですが、人生で一番頭の回転が速かったのでしょう、その瞬間に、締め切りまでに残った5週間ほどの間にOn Lispの一部を再利用して論文を書いてみることに決めて、ほぼ間を置かずに「はい、大丈夫です。いま書いているものを数日後にお見せします。」と答えることができました。
 
 
 I picked applications of continuations as the topic. In retrospect I should have written about macros and embedded languages. There's a whole world there that's barely been explored. But all I wanted was to get out of grad school, and my rapidly written dissertation sufficed, just barely.
 
-私は連続体の応用をテーマに選びました。今思えば、マクロや組み込み言語のことを書くべきだった。そこには、ほとんど探求されていない世界があります。しかし、私が望んだのは大学院を卒業することだったのですが、急いで書き上げた論文は、かろうじてそれで十分でした。
+私は継続の応用をテーマに選びました。今思えば、マクロや埋め込み言語のことを書くべきでした。そこには、ほとんど探求されていない世界がありました。しかし、私が望んだのは大学院を卒業することだけでした。急いで書き上げた論文は、かろうじて卒業レベルに達していました。
 
 
 Meanwhile I was applying to art schools. I applied to two: RISD in the US, and the Accademia di Belli Arti in Florence, which, because it was the oldest art school, I imagined would be good. RISD accepted me, and I never heard back from the Accademia, so off to Providence I went.
 
-その間、私は美術学校に出願していました。二つの大学に出願しました。アメリカのRISDとフィレンツェのAccademia di Belli Artiです。RISDは私を受け入れてくれたのですが、アカデミアからは何の連絡もなく、私はプロビデンスに行きました。
+その間、私は美術学校に出願していました。二つの大学に出願しました。アメリカのRISDとフィレンツェ美術学校です。後者は、一番古い美術学校なので、いいんじゃないかと思ったのです。RISDは私を受け入れてくれたのですが、フィレンツェ美術学校からは何の連絡もなかったので、私はRISDのあるプロビデンスに行きました。
 
 
 I'd applied for the BFA program at RISD, which meant in effect that I had to go to college again. This was not as strange as it sounds, because I was only 25, and art schools are full of people of different ages. RISD counted me as a transfer sophomore and said I had to do the foundation that summer. The foundation means the classes that everyone has to take in fundamental subjects like drawing, color, and design.
 
-RISDのBFAプログラムに申し込んでいたので、実質的にはもう一度大学に行かなければならなかったのです。なぜなら、私はまだ25歳で、美術学校には様々な年齢の人たちが集まっているからです。RISDは私を編入学の2年生としてカウントしてくれて、その夏にファンデーションをしなければならないと言ってくれました。ファンデーションとは、デッサンや色彩、デザインなどの基礎的な科目を全員が履修しなければならない授業のことです。
+私が申し込んだのはRISDのBFAプログラムなので、実質的にもう一度大学に行かなければならないということでした。これは普通考えるほど変なことではありません。私はまだ25歳でしたし、美術学校にはさまざまな年齢の人たちが集まっているからです。RISDは私を編入学の2年生として扱ってくれ、その夏のうちに基礎をやるよう言われました。基礎というのは、デッサンや色彩、デザインなどの全員が履修しなければならない基礎的な科目の授業のことです。
 
 
 Toward the end of the summer I got a big surprise: a letter from the Accademia, which had been delayed because they'd sent it to Cambridge England instead of Cambridge Massachusetts, inviting me to take the entrance exam in Florence that fall. This was now only weeks away. My nice landlady let me leave my stuff in her attic. I had some money saved from consulting work I'd done in grad school; there was probably enough to last a year if I lived cheaply. Now all I had to do was learn Italian.
 
-アカデミアからの手紙は、マサチューセッツ州のケンブリッジではなく、イギリスのケンブリッジに送ったために遅れていたのですが、秋にフィレンツェで行われる入学試験の招待状でした。それもあと数週間後のことだった。素敵な大家さんが屋根裏部屋に荷物を置かせてくれました。大学院でやったコンサルティングの仕事で貯めたお金もありました。あとはイタリア語を勉強するだけ。
+夏の終わりごろ、びっくりするような出来事がありました。フィレンツェ美術学校（アカデミア）から手紙が来たのです。その手紙は、私が住んでいたマサチューセッツ州のケンブリッジではなく、イギリスのケンブリッジに送られていたために遅れていたのです。秋にフィレンツェで行われる入学試験が受けられるとのでした。あと数週間しかありません。素敵な大家さんが屋根裏部屋に私の荷物を置いてもいいといってくれました。大学院でやったコンサルティングの仕事で貯めたお金もありました。節約すれば一年は暮らせるでしょう。あとはイタリア語を勉強するだけです。
 
 
 Only stranieri (foreigners) had to take this entrance exam. In retrospect it may well have been a way of excluding them, because there were so many stranieri attracted by the idea of studying art in Florence that the Italian students would otherwise have been outnumbered. I was in decent shape at painting and drawing from the RISD foundation that summer, but I still don't know how I managed to pass the written exam. I remember that I answered the essay question by writing about Cezanne, and that I cranked up the intellectual level as high as I could to make the most of my limited vocabulary. [2]
 
-この入学試験を受けなければならなかったのは、ストラニエリ（外国人）だけでした。振り返ってみると、これは外国人を排除するための方法だったのかもしれませんが、フィレンツェで美術を学ぼうという考えに惹かれたストラニエリがたくさんいたので、イタリア人の学生は数で勝てなかったでしょう。私はその夏、RISDの財団から絵を描いたり、絵を描いたりするのはそれなりに得意だったのですが、どうやって筆記試験に合格したのかは今でもよくわかりません。小論文の問題にセザンヌについて書くことで答えたことと、限られた語彙を最大限に活用するために、知的レベルをできるだけ高くしたことを覚えています。[2]
+この入学試験を受けなければならなかったのは、ストラニエリ（外国人）だけでした。振り返ってみると、これは外国人を排除するための方法だったのかもしれませんが、フィレンツェで美術を学ぼうという考えに惹かれたストラニエリがたくさんいたので、そうでもしないとイタリア人の学生が少数派になってしまっていたでしょう。私はその夏、RISDの基礎コースを受けていたので、デッサンや絵を描くことはそれなりに得意だったのですが、どうやって筆記試験に合格したのかは今でもよくわかりません。小論文の問題にセザンヌについて書くことで答えたことと、限られた語彙を最大限に活用して知的レベルをできるだけ高くしたことを覚えています。[2]
 
 
 I'm only up to age 25 and already there are such conspicuous patterns. Here I was, yet again about to attend some august institution in the hopes of learning about some prestigious subject, and yet again about to be disappointed. The students and faculty in the painting department at the Accademia were the nicest people you could imagine, but they had long since arrived at an arrangement whereby the students wouldn't require the faculty to teach anything, and in return the faculty wouldn't require the students to learn anything. And at the same time all involved would adhere outwardly to the conventions of a 19th century atelier. We actually had one of those little stoves, fed with kindling, that you see in 19th century studio paintings, and a nude model sitting as close to it as possible without getting burned. Except hardly anyone else painted her besides me. The rest of the students spent their time chatting or occasionally trying to imitate things they'd seen in American art magazines.
 
-私はまだ25歳になったばかりなのに、すでにこのようなパターンが目立っています。私はここでまたしても、何か権威のある教育機関に通うことになったのだが、またしてもがっかりしてしまった。アカデミアの絵画科の学生と教員は、想像できる限りでは最も親切な人たちだったが、学生は教員に何かを教える必要はなく、その代わりに教員は学生に何かを学ばせる必要はないという取り決めをとっくの昔にしていた。そして同時に、関係者全員が外見的には19世紀のアトリエの慣習に従うことになっていました。私たちは実際に、19世紀のアトリエ絵画に見られるような小さなストーブを持っていて、薪を入れて火傷しないようにヌードのモデルがその近くに座っていました。私以外に彼女を描いた人はほとんどいませんでしたが。残りの学生たちは、おしゃべりをしたり、時々アメリカの美術雑誌で見たものを真似したりして時間を過ごしていました。
+私はまだ25歳になったばかりなのに、もうわかりやすいパターンが見えてきています。私はここでまたしても、何か一流のことを学ぼうと思ってどこかの権威ある教育機関に通い、またしてもがっかりすることになったのです。アカデミアの絵画科の学生と教員は、想像できる限りでは最も感じのいい人たちでしたが、学生は教員に何かを教えてもらうことを求めず、その代わりに教員は学生に何かを学んでもらうことを求めない、という取り決めをとっくの昔にしていたのです。そして同時に、関係者全員が外見的には19世紀のアトリエの慣習に従うことになっていました。私たちは実際に、19世紀のアトリエ絵画に見られるような薪を入れる小さなストーブを持っていて、ヌードモデルはやけどをしないぎりぎりのところまでその近くに座っていました。私以外に彼女を描いた人はほとんどいませんでしたが。残りの学生たちは、おしゃべりをしたり、アメリカの美術雑誌で見たものを時々真似してみたりして時間を過ごしていました。
 
 
 Our model turned out to live just down the street from me. She made a living from a combination of modelling and making fakes for a local antique dealer. She'd copy an obscure old painting out of a book, and then he'd take the copy and maltreat it to make it look old. [3]
 
-私たちのモデルは、私のすぐ近くに住んでいることが判明しました。彼女はモデルと地元の骨董屋のための偽物を作って生計を立てていました。彼女は本から無名の古い絵画をコピーした後、彼はコピーを取って古びたように見せるために手を加えた。[3]
+私たちのモデルは、私のすぐ近くに住んでいることがわかりました。彼女はモデルと地元の骨董屋に売るための贋作を作ることで生計を立てていました。彼女が本に載っている無名の古い絵画を模写した後、骨董屋がそれを受け取って、傷をつけて古いもののように見えるようにするのです。[3]
 
 
 While I was a student at the Accademia I started painting still lives in my bedroom at night. These paintings were tiny, because the room was, and because I painted them on leftover scraps of canvas, which was all I could afford at the time. Painting still lives is different from painting people, because the subject, as its name suggests, can't move. People can't sit for more than about 15 minutes at a time, and when they do they don't sit very still. So the traditional m.o. for painting people is to know how to paint a generic person, which you then modify to match the specific person you're painting. Whereas a still life you can, if you want, copy pixel by pixel from what you're seeing. You don't want to stop there, of course, or you get merely photographic accuracy, and what makes a still life interesting is that it's been through a head. You want to emphasize the visual cues that tell you, for example, that the reason the color changes suddenly at a certain point is that it's the edge of an object. By subtly emphasizing such things you can make paintings that are more realistic than photographs not just in some metaphorical sense, but in the strict information-theoretic sense. [4]
 
-アカデミアに在籍していた頃、私は夜になると寝室で静物画を描き始めました。部屋が狭いのと、当時手に入ったキャンバスの端切れを使って描いたからです。静物を描くことは、人間を描くこととは違い、その名の通り、被写体が動くことができないからです。人は一度に15分以上は座ることができませんし、座っていてもじっとしていることはありません。だから、人物を描くための伝統的な手口は、一般的な人物を描く方法を知っていて、それをあなたが描いている特定の人物に合わせて修正することです。一方、静物画では、あなたが見ているものをピクセルごとにコピーすることができます。もちろん、それだけで終わらせてはいけませんが、そうしないと単なる写真の正確さが失われてしまいます。例えば、ある地点で色が急に変わるのは、物体の端っこだからだ、という視覚的な手がかりを強調したい。そういうことを微妙に強調することで、比喩的な意味だけでなく、厳密な情報理論的な意味でも、写真よりもリアルな絵画を作ることができるのです。[4]
+アカデミアに在籍していた頃、私は夜になると寝室で静物画を描き始めました。絵は小さいものでした。部屋も小さかったし、当時手に入ったのはキャンバスの端切れぐらいだったからです。静物を描くことは、人間を描くこととは違います。その名の通り、被写体が動くことができないからです。人は一度に15分以上は座ることができませんし、座っていてもじっとしていることはありません。だから、人物を描くための伝統的な手口は、一般的な人物を描く方法を覚えて、それをあなたが描いている特定の人物に合わせて修正することです。一方、静物画では、あなたが見ているものをピクセル単位でコピーすることができます。もちろん、それだけで終わらせてしまうと、写真のような正確さしか得られません。静物画の面白さは、それが人間の頭を通して描かれるところにあります。例えば、ある地点で色が急に変わるのは、物体の端っこだからだ、という視覚的な手がかりを強調したいということがあります。そういうことを微妙に強調することで、比喩的な意味だけでなく、厳密な情報理論的な意味でも、写真よりもリアルな絵画を作ることができるのです。[4]
 
 
 I liked painting still lives because I was curious about what I was seeing. In everyday life, we aren't consciously aware of much we're seeing. Most visual perception is handled by low-level processes that merely tell your brain "that's a water droplet" without telling you details like where the lightest and darkest points are, or "that's a bush" without telling you the shape and position of every leaf. This is a feature of brains, not a bug. In everyday life it would be distracting to notice every leaf on every bush. But when you have to paint something, you have to look more closely, and when you do there's a lot to see. You can still be noticing new things after days of trying to paint something people usually take for granted, just as you can still be noticing new things after days of trying to write an essay about something people usually take for granted.
 
-静物を描くのが好きだったのは、自分が見ているものに興味があったからです。日常生活の中では、私たちが見ているものの多くを意識的に意識しているわけではありません。ほとんどの視覚知覚は低レベルの処理によって処理されていて、「これは水滴だ」と脳に伝えるだけで、明点と暗点がどこにあるのかとか、「これは茂みだ」と葉っぱの形や位置を教えてくれません。これは脳の特徴であって、虫ではない。日常生活では、すべての茂みの葉っぱに気づくのは気が散ってしまいます。しかし、何かを描かなければならない時には、もっとよく見なければならないし、見るべきものがたくさんあります。人が当たり前だと思っているものを何日もかけて描いてみても、新しいことに気づくことができます。
+静物を描くのが好きだったのは、自分が見ているものに興味があったからです。日常生活の中では、私たちが見ているものの多くを意識しているわけではありません。ほとんどの視覚知覚は低レベルの処理によって処理されていて、「これは水滴だ」と脳に伝えるだけで、明点と暗点がどこにあるのかは伝えなかったり、「これは茂みだ」と伝えるだけで、すべての葉っぱの形や位置を教えてくれなかったりします。これは脳の特徴であって、バグではありません。日常生活では、すべての茂みの葉っぱに意識を向けていては気が散ってしまいます。しかし、何かを描かなければならない時には、もっとよく見なければならないし、よく見れば見るべきものがたくさんあります。人が当たり前だと思っているものを何日もかけて描いてみても、新しいことに気づくことができます。それは、人が当たり前だと思っていることについて何日もエッセイを書いてみても、新しいことに気づくことができるのと同じです。
 
 
 This is not the only way to paint. I'm not 100% sure it's even a good way to paint. But it seemed a good enough bet to be worth trying.
 
-これが唯一の描き方ではありません。それが100％良い描き方であるかどうかもわからない。しかし、試してみる価値は十分にあると思いました。
+これが唯一の描き方ではありません。それが100％良い描き方であるかどうかもわかりません。しかし、試してみる価値は十分にあると思いました。
 
 
 Our teacher, professor Ulivi, was a nice guy. He could see I worked hard, and gave me a good grade, which he wrote down in a sort of passport each student had. But the Accademia wasn't teaching me anything except Italian, and my money was running out, so at the end of the first year I went back to the US.
 
-私たちの先生であるウリヴィ教授はいい人でした。彼は私が一生懸命働いているのを見て、良い成績を残してくれました。でも、アカデミアではイタリア語以外は教えてくれませんでしたし、お金も尽きていたので、１年目の終わりにはアメリカに戻りました。
+私たちの先生であるウリヴィ教授はいい人でした。彼は私が一生懸命やっているのを見て、良い成績をつけてくれました。その成績は、学生ごとに持っていたパスポートのようなものに記録されていました。でも、アカデミアではイタリア語以外は教えてくれませんでしたし、お金も尽きていたので、１年目の終わりにはアメリカに戻りました。
 
 
 I wanted to go back to RISD, but I was now broke and RISD was very expensive, so I decided to get a job for a year and then return to RISD the next fall. I got one at a company called Interleaf, which made software for creating documents. You mean like Microsoft Word? Exactly. That was how I learned that low end software tends to eat high end software. But Interleaf still had a few years to live yet. [5]
 
-RISDに戻りたいと思っていたのですが、お金がなく、RISDはとても高かったので、1年間就職して、次の秋にRISDに戻ることにしました。就職したのはインターリーフという会社で、文書を作成するためのソフトを作っていました。Microsoft Wordのようなものですか？その通りです。ローエンドのソフトウェアは ハイエンドのソフトウェアを 食べる傾向があることを 学んだのです でも インターリーフは まだ数年は生きていた [5]
+RISDに戻りたいと思っていたのですが、お金がなく、RISDは学費がとても高かったので、1年間就職して、次の秋にRISDに戻ることにしました。就職したのはインターリーフという会社で、文書を作成するためのソフトを作っていました。Microsoft Wordのようなものかって？ その通りです。ハイエンドのソフトウェアはローエンドのソフトウェアに市場を食われがちだということを学んだのは、そういうわけです。でも、インターリーフがなくなるまでは、まだ数年はありました。[5]
 
 
 Interleaf had done something pretty bold. Inspired by Emacs, they'd added a scripting language, and even made the scripting language a dialect of Lisp. Now they wanted a Lisp hacker to write things in it. This was the closest thing I've had to a normal job, and I hereby apologize to my boss and coworkers, because I was a bad employee. Their Lisp was the thinnest icing on a giant C cake, and since I didn't know C and didn't want to learn it, I never understood most of the software. Plus I was terribly irresponsible. This was back when a programming job meant showing up every day during certain working hours. That seemed unnatural to me, and on this point the rest of the world is coming around to my way of thinking, but at the time it caused a lot of conflict. Toward the end of the year I spent much of my time surreptitiously working on On Lisp, which I had by this time gotten a contract to publish.
 
-インターリーフはかなり大胆なことをしていました。Emacsにインスパイアされてスクリプト言語を追加し、さらにそのスクリプト言語をLispの方言にしたのです。そこで彼らは、LispハッカーにLispで何かを書いてもらおうとしたのです。これは私が普通の仕事をしていた時に最も近いものでした。上司と同僚に謝罪します。彼らのLispは巨大なCのケーキの上の最も薄いアイシングで、私はCを知らないし、それを学ぶ気もなかったので、ソフトウェアのほとんどを理解することはありませんでした。それに、私はひどく無責任でした。プログラミングの仕事は、毎日決まった時間に出勤することを意味していました。それが不自然に思えたので、この点では世間も私の考え方を理解しつつありますが、当時はそれが多くの葛藤を生んでいました。年末になると、私は密かにOn Lispに時間を費やしていましたが、この頃には出版契約を結んでいました。
+インターリーフはかなり大胆なことをしていました。Emacsにインスパイアされてスクリプト言語を追加し、さらにそのスクリプト言語をLispの方言にしたのです。そこで彼らは、LispハッカーにLispで何かを書いてもらおうとしたのです。これは私がしたことの中で最も普通の仕事に近いものでした。ここで、上司と同僚に謝罪します。私はいい従業員ではなかったからです。そこのLispは巨大なCの塊の上の薄い薄い層に過ぎませんでした。また私はCを知らず、それを学ぶ気もなかったので、そのソフトウェアのほとんどを理解できないままでした。それに、私はひどく無責任でした。これは、プログラミングの仕事が、毎日決まった時間に出勤する仕事だったころの話です。それは不自然に思えました。今ではこの点で世間も私の考え方に近づきつつありますが、当時はそれが多くのいざこざの原因となっていました。年末になると、私は密かにOn Lispに時間を費やしていまして、この頃には出版契約を結んでいました。
 
 
 The good part was that I got paid huge amounts of money, especially by art student standards. In Florence, after paying my part of the rent, my budget for everything else had been $7 a day. Now I was getting paid more than 4 times that every hour, even when I was just sitting in a meeting. By living cheaply I not only managed to save enough to go back to RISD, but also paid off my college loans.
 
-良いところは、特に美大生の基準では大金をもらっていたことです。フィレンツェでは、家賃の一部を払った後、それ以外のすべての予算は1日7ドルでした。今では、会議で座っているだけの時でさえ、毎時その4倍以上の給料をもらっていました。安く生活することで、RISDに戻るのに十分なお金を貯めることができただけでなく、大学のローンも完済することができました。
+良いところは、特に美大生の基準で考えると、大金をもらっていたことです。フィレンツェでは、家賃を払った後、それ以外のすべての予算は1日7ドルでした。今では、会議で座っているだけの時でさえ、1時間ごとにその4倍以上の給料をもらっていました。生活費を抑えることで、RISDに戻るのに十分なお金を貯めることができただけでなく、大学のローンも完済することができました。
 
 
 I learned some useful things at Interleaf, though they were mostly about what not to do. I learned that it's better for technology companies to be run by product people than sales people (though sales is a real skill and people who are good at it are really good at it), that it leads to bugs when code is edited by too many people, that cheap office space is no bargain if it's depressing, that planned meetings are inferior to corridor conversations, that big, bureaucratic customers are a dangerous source of money, and that there's not much overlap between conventional office hours and the optimal time for hacking, or conventional offices and the optimal place for it.
 
-インターリーフでは、やってはいけないことを中心に、いくつかの有益なことを学びました。テクノロジー企業は営業よりも製品担当者が経営している方が良いということ（営業は本当のスキルであり、得意な人は本当に得意なのだが）、コードを多くの人が編集するとバグが発生すること、安いオフィススペースは鬱陶しいとお得ではないこと、計画的な会議は廊下での会話よりも劣ること、官僚的な大口顧客は危険な資金源であること、そして従来のオフィスの営業時間とハッキングに最適な時間、または従来のオフィスとハッキングに最適な場所の間にはあまり重なりがないことを学んだのだ。
+インターリーフでは、いくつかの有益なことを学びました。といっても、ほとんどは「何をやってはいけないか」ということでした。テクノロジー企業は営業よりも製品担当者が経営している方が良いということ（営業はちゃんとしたスキルであり、それが得意な人は本当に得意なのですが）、コードに関わる人が多すぎるとバグを招くこと、気が滅入るようなオフィススペース、たとえ安かったとしても避けたほうがいいということ、計画的な会議よりも廊下での雑談のほうが役に立つということ、官僚的な大口顧客は危険な資金源であること、そして、従来の勤務時間とハッキングに最適な時間帯の間、また従来のオフィスとハッキングに最適な場所との間には大きなずれがあるということを学びました。
 
 
 But the most important thing I learned, and which I used in both Viaweb and Y Combinator, is that the low end eats the high end: that it's good to be the "entry level" option, even though that will be less prestigious, because if you're not, someone else will be, and will squash you against the ceiling. Which in turn means that prestige is a danger sign.
 
-しかし、私が学んだ最も重要なことは、ViawebとY Combinatorの両方で使ったことだが、ローエンドがハイエンドを食べるということだ。つまり、威信は危険信号だということです。
+しかし、私が学んだ最も重要なことは、ハイエンドのソフトウェアはローエンドのソフトウェアに市場を食われるということでした。つまり、「エントリーレベル」にいるのがいいということです。権威はありませんが、自分がそこにいないと、誰かがその位置を占め、そして自分は天井に押しつけられて潰されてしまいます。権威というのは危険な兆候だということです。この知識は、ViawebとY Combinatorの両方で使うことになります。
 
 
 When I left to go back to RISD the next fall, I arranged to do freelance work for the group that did projects for customers, and this was how I survived for the next several years. When I came back to visit for a project later on, someone told me about a new thing called HTML, which was, as he described it, a derivative of SGML. Markup language enthusiasts were an occupational hazard at Interleaf and I ignored him, but this HTML thing later became a big part of my life.
 
-翌年の秋にRISDに戻るために出発したとき、私は顧客のためにプロジェクトを行うグループのためにフリーランスの仕事をするように手配し、これがその後の数年間の生き残り方でした。後日、あるプロジェクトのために戻ってきたとき、ある人がHTMLという新しいものについて教えてくれました。マークアップ言語の愛好家はインターリーフでは職業上の障害となっていたので、私は彼を無視していましたが、このHTMLのことは後に私の人生の大きな部分を占めるようになりました。
+翌年の秋にRISDに戻るために退社したとき、顧客のプロジェクトを行うグループのためにフリーランスの仕事をする取り決めをしました。これがその後の数年間の生き残り方でした。後日、あるプロジェクトのために戻ってきたとき、ある人がHTMLという新しいものについて教えてくれました。彼によると、それはSGMLの派生物だということでした。マークアップ言語マニアはインターリーフでは仕事の障害となっていたので、私は彼を無視していましたが、このHTMLというものは後に私の人生の大きな部分を占めるようになりました。
 
 
 In the fall of 1992 I moved back to Providence to continue at RISD. The foundation had merely been intro stuff, and the Accademia had been a (very civilized) joke. Now I was going to see what real art school was like. But alas it was more like the Accademia than not. Better organized, certainly, and a lot more expensive, but it was now becoming clear that art school did not bear the same relationship to art that medical school bore to medicine. At least not the painting department. The textile department, which my next door neighbor belonged to, seemed to be pretty rigorous. No doubt illustration and architecture were too. But painting was post-rigorous. Painting students were supposed to express themselves, which to the more worldly ones meant to try to cook up some sort of distinctive signature style.
 
-1992年の秋、私はRISDでの研究を続けるためにプロビデンスに戻りました。財団は単なる入門的なもので、アカデミアは(非常に文明的な)ジョークのようなものでした。今度は本当の美術学校がどんなものか見に行こうと思っていました。しかし、残念なことに、アカデミアに似ているというか、似ていないというよりは似ていた。確かに、より良い組織で、より多くの費用がかかりましたが、美術学校は、医学学校が医学を産むように、美術とは関係がないことが明らかになりつつありました。少なくとも絵画科はそうではない。隣の隣人が所属していたテキスタイル学科は、かなり厳しそうでした。イラストレーションや建築もそうだったでしょう。しかし、絵画科は厳格な後進国だった。絵画科の学生は自分を表現することになっていて、世間的には、ある種の独特のシグネチャー・スタイルを作ろうとすることを意味していました。
+1992年の秋、私はRISDで学業を続けるためにプロビデンスに戻りました。基礎コースは単なる入門的なものでしたし、アカデミアは（非常に洗練された）ジョークのようなものでした。今度こそ、本当の美術学校がどんなものかを知ることになるはずでした。しかし、何ということか、RISDもどちらかというとアカデミア寄りだったのです。確かに、アカデミアよりはきっちりしていたし、お金もずっと多くかかりました。しかし、美術学校というものは、医学学校が医学と関係しているように美術と関係しているわけではない、ということがだんだんわかってきました。少なくとも絵画科はそうでした。隣人が所属していた織物学科は、かなり厳しそうでした。イラストレーションや建築もそうだったはずです。しかし、絵画科は「ポスト厳しさ」の世界だったのです。絵画科の学生は自分を表現することになっていました。それは、世俗的な学生にとっては、ある種の独特のシグネチャー・スタイルをでっち上げるということでした。
 
 
 A signature style is the visual equivalent of what in show business is known as a "schtick": something that immediately identifies the work as yours and no one else's. For example, when you see a painting that looks like a certain kind of cartoon, you know it's by Roy Lichtenstein. So if you see a big painting of this type hanging in the apartment of a hedge fund manager, you know he paid millions of dollars for it. That's not always why artists have a signature style, but it's usually why buyers pay a lot for such work. [6]
 
-シグネチャースタイルとは、ショービジネスでいうところの「芸」のようなもので、自分の作品であることがすぐにわかるようなものを指します。例えば、ある種の漫画のような絵を見たら、それがロイ・リキテンスタインの作品だと分かります。だから、ヘッジファンドのマネージャーのアパートにこのタイプの大きな絵が飾られていたら、その人が何百万ドルも払って買ったことがわかるのです。それがアーティストがシグネチャー・スタイルを持っている理由とは限らないが、買い手がそのような作品に多くのお金を払う理由であることが多い。[6]
+シグネチャー・スタイルとは、ショービジネスでいうところの「持ちネタ」のようなもので、自分の作品であることがすぐにわかるようなものを指します。例えば、ある種の漫画のような絵を見たら、それがロイ・リキテンスタインの作品だと分かります。だから、ヘッジファンドのマネージャーのアパートにこのタイプの大きな絵が飾られていたら、その人が何百万ドルも払ってそれを買ったということがわかるのです。それがアーティストがシグネチャー・スタイルを持っている理由とは限りませんが、それは普通買い手がそのような作品に多くのお金を払う理由なのです。[6]
 
 
 There were plenty of earnest students too: kids who "could draw" in high school, and now had come to what was supposed to be the best art school in the country, to learn to draw even better. They tended to be confused and demoralized by what they found at RISD, but they kept going, because painting was what they did. I was not one of the kids who could draw in high school, but at RISD I was definitely closer to their tribe than the tribe of signature style seekers.
 
-高校では「絵が描ける」と言っていた子たちが、もっと上手に描くことを学ぶために、アメリカで最高の美術学校に来たのです。彼らはRISDで見つけたものに戸惑い、落胆する傾向がありましたが、絵を描くことが彼らの仕事だったので、彼らは進み続けました。私は高校では絵が描けなかったのですが、RISDではシグネチャースタイルを求める人たちの部族よりも、彼らの部族に近い存在でした。
+真面目な学生も多くいました。高校時代に「絵が得意」で、もっと上手に描くことを学ぶために、アメリカで最高の美術学校に来た子たちです。彼らはRISDでの体験に戸惑い、落胆する傾向がありましたが、絵を描くことが彼らの仕事だったので、彼らはそのまま続けていました。私は高校時代には絵が得意な子供ではなかったのですが、RISDでは、シグネチャースタイルを求める人たちの部族より、確実に彼らの部族に近い存在でした。
 
 
 I learned a lot in the color class I took at RISD, but otherwise I was basically teaching myself to paint, and I could do that for free. So in 1993 I dropped out. I hung around Providence for a bit, and then my college friend Nancy Parmet did me a big favor. A rent-controlled apartment in a building her mother owned in New York was becoming vacant. Did I want it? It wasn't much more than my current place, and New York was supposed to be where the artists were. So yes, I wanted it! [7]
 
-RISDで受けたカラーの授業ではかなり勉強になりましたが、それ以外は基本的に自分で絵を描くことを教えていましたし、それがタダでできるようになっていました。それで1993年に中退しました。プロビデンスを少しブラブラしていたら、大学時代の友人ナンシー・パルメットが私に大きな好意を寄せてくれました。彼女の母親がニューヨークに所有していたビルの賃貸アパートが空室になりつつあったのです。私はそれが欲しかったのか？今住んでいる場所よりも大したことないし、ニューヨークはアーティストがいる場所だと思っていました。だから、はい、私はそれを望んでいました! [7]
+RISDで受けた色の授業はかなり勉強になりましたが、それ以外は基本的に自習していました。しかし、自習ならタダでできます。そういうわけで、私は1993年に中退しました。プロビデンスを少しブラブラしていたら、大学時代の友人ナンシー・パルメットが私に太っ腹な提案をしてくれました。お母さんがニューヨークに持ってるレントコントロールのアパートが空くんだけど、住まない？ と。家賃は今の場所よりそんなに高くないし、ニューヨークといえばアーティストがいる場所のはずです。住みたい！ と私は答えました。[7]
 
 
 Asterix comics begin by zooming in on a tiny corner of Roman Gaul that turns out not to be controlled by the Romans. You can do something similar on a map of New York City: if you zoom in on the Upper East Side, there's a tiny corner that's not rich, or at least wasn't in 1993. It's called Yorkville, and that was my new home. Now I was a New York artist — in the strictly technical sense of making paintings and living in New York.
 
-アステリックスの漫画は、ローマ人によって支配されていないことが判明したローマ・ガリアの小さなコーナーをズームインすることから始まります。ニューヨークの地図でも似たようなことができます。アッパーイーストサイドを拡大すると、裕福ではないか、少なくとも1993年にはなかったような小さな角があります。そこはヨークビルと呼ばれていて、そこが私の新しい家でした。今ではニューヨークのアーティストになっていて、厳密には絵画を描いてニューヨークに住んでいるという技術的な意味で。
+アステリックスの漫画は、ローマ・ガリアの中にありながらローマの支配下にない小さな一角にズームインすることから始まります。ニューヨークの地図でも似たようなことができます。アッパーイーストサイドを拡大すると、裕福ではない（少なくとも、1993年には裕福でなかった）一角があるのです。そこはヨークビルと呼ばれていて、そこが私の新しい家でした。これで私もニューヨークのアーティストです。少なくとも、絵を描いていて、ニューヨークに住んでいるという文字通りの意味においては。
 
 
 I was nervous about money, because I could sense that Interleaf was on the way down. Freelance Lisp hacking work was very rare, and I didn't want to have to program in another language, which in those days would have meant C++ if I was lucky. So with my unerring nose for financial opportunity, I decided to write another book on Lisp. This would be a popular book, the sort of book that could be used as a textbook. I imagined myself living frugally off the royalties and spending all my time painting. (The painting on the cover of this book, ANSI Common Lisp, is one that I painted around this time.)
 
-お金のことで神経質になっていたのは、インターリーフが下降線をたどっているのを感じていたからです。フリーランスのLispハッキングの仕事は非常に珍しく、他の言語でプログラムしたくなかったのですが、当時は運が良ければC++だったかもしれません。そこで、私は金銭的なチャンスを逃さないために、Lispに関する本をもう一冊書くことにしました。これは人気のある本で、教科書として使えるような本になるでしょう。私は、印税で質素な生活をして、絵を描くことに時間を費やしている自分を想像していました。(この本の表紙の絵「ANSI Common Lisp」は、この頃描いた絵です)
+私はお金のことが心配でした。インターリーフの業績が傾いているのを感じていたからです。フリーランスのLispハッキングの仕事は非常に珍しく、また私は他の言語でプログラムしたくありませんでした。他の言語といえば、当時では良くてもC++だったでしょう。そこで、私は金銭的なチャンスを逃さないために、Lispに関する本をもう一冊書くことにしました。これは教科書として使えるような広く読まれる本になるはずでした。私は、印税で質素な生活をして、絵を描くことに時間を費やしている自分を思い描いていました。（この「ANSI Common Lisp」という本の表紙の絵は、この頃描いた絵です）
 
 
 The best thing about New York for me was the presence of Idelle and Julian Weber. Idelle Weber was a painter, one of the early photorealists, and I'd taken her painting class at Harvard. I've never known a teacher more beloved by her students. Large numbers of former students kept in touch with her, including me. After I moved to New York I became her de facto studio assistant.
 
-私にとってニューヨークで一番良かったのは、イデルとジュリアン・ウェーバーの存在でした。イデル・ウェーバーは初期のフォトリアリストの一人である画家で、私はハーバード大学で彼女の絵画の授業を受けていました。私はハーバード大学で彼女の絵画の授業を受けたことがありますが、彼女の生徒たちからこれほど愛されていた先生を知りませんでした。私を含め、多くの元教え子が彼女と連絡を取り合っていました。私がニューヨークに引っ越してきてからは、事実上のスタジオアシスタントになりました。
+私にとってニューヨークで一番良かったのは、イデル・ウェーバーとジュリアン・ウェーバーの存在でした。イデル・ウェーバーは初期のフォトリアリストの画家の一人で、私はハーバード大学で彼女の絵画の授業を受けていました。生徒たちからこれほど愛されている先生は他に知りません。私を含め、多くの元教え子が彼女と連絡を取り合っていました。私がニューヨークに引っ越してきてからは、彼女の事実上のスタジオアシスタントになりました。
 
 
 She liked to paint on big, square canvases, 4 to 5 feet on a side. One day in late 1994 as I was stretching one of these monsters there was something on the radio about a famous fund manager. He wasn't that much older than me, and was super rich. The thought suddenly occurred to me: why don't I become rich? Then I'll be able to work on whatever I want.
 
-彼女は四角い大きなキャンバスに絵を描くのが好きで、一辺が4～5フィートもありました。1994年末のある日、私がこのような怪物の絵を描いていると、ラジオから有名なファンドマネージャーの話が流れてきました。彼は私よりもそれほど年上ではなく、超金持ちでした。その時、ふと思いついたのです。そうすれば、好きなことに取り組めるだろう。
+彼女は一辺が一メートル半ぐらいある四角い大きなキャンバスに絵を描くのが好きでした。1994年末のある日、私がそんな巨大キャパスの一枚を広げていたとき、ラジオから有名なファンドマネージャーの話が流れてきました。彼は私よりもそれほど年上ではなく、超金持ちでした。その時、ふと思いついたのです。自分が金持ちになってみてもいいんじゃないか？ そうすれば、何でも好きなことに取り組めるはずだ。
 
 
 Meanwhile I'd been hearing more and more about this new thing called the World Wide Web. Robert Morris showed it to me when I visited him in Cambridge, where he was now in grad school at Harvard. It seemed to me that the web would be a big deal. I'd seen what graphical user interfaces had done for the popularity of microcomputers. It seemed like the web would do the same for the internet.
 
-その間、私はワールド・ワイド・ウェブと呼ばれるこの新しいものについて、ますます多くのことを耳にしていました。ロバート・モリスがハーバード大学の大学院に在籍していたケンブリッジを訪れたときに、私に見せてくれました。それを見て、ウェブは大変なことになるだろうと思いました。グラフィカル・ユーザー・インターフェースがマイクロコンピュータの普及のために何をしたかを見てきました。ウェブはインターネットのために同じことをするように思えました。
+その間、私はワールド・ワイド・ウェブと呼ばれるこの新しいものについて、ますます多くのことを耳にしていました。ロバート・モリスがハーバード大学の大学院に在籍していたケンブリッジを訪れたときに、私に見せてくれたのです。それを見て、ウェブはすごいことになるだろうと思いました。私はグラフィカル・ユーザー・インターフェースがマイクロコンピュータの普及をどれだけ進めたかを経験していました。ウェブはインターネットに対して同じことをするように思えました。
 
 
 If I wanted to get rich, here was the next train leaving the station. I was right about that part. What I got wrong was the idea. I decided we should start a company to put art galleries online. I can't honestly say, after reading so many Y Combinator applications, that this was the worst startup idea ever, but it was up there. Art galleries didn't want to be online, and still don't, not the fancy ones. That's not how they sell. I wrote some software to generate web sites for galleries, and Robert wrote some to resize images and set up an http server to serve the pages. Then we tried to sign up galleries. To call this a difficult sale would be an understatement. It was difficult to give away. A few galleries let us make sites for them for free, but none paid us.
 
-もし私が金持ちになりたければ、駅を出る次の列車はここにあった。私はその部分については正しかった。間違っていたのはアイデアだ。アートギャラリーをオンラインで公開する会社を立ち上げようと思った。正直に言うと、たくさんのY Combinatorのアプリケーションを読んだ後で、これがこれまでで最悪のスタートアップのアイデアだったとは言えませんが、それは上の方にありました。アートギャラリーはオンラインになることを望んでいませんでしたし、今でもそうではありません。それが彼らの売り方ではありません。私はギャラリー用のウェブサイトを生成するソフトウェアをいくつか書き、ロバートは画像のサイズを変更して、ページを提供するためのhttpサーバーをセットアップしました。それからギャラリーを登録しようとしました。これを難しい販売と呼ぶには、控えめな表現になるでしょう。譲るのが難しかったのです。何軒かのギャラリーは無料でサイトを作ってくれたが、お金を払ってくれるギャラリーはいなかった。
+もし私が金持ちになりたければ、駅を出る次の列車はここにありました。私はその部分については正しかったのです。間違っていたのはアイデアでした。アートギャラリーをオンラインで公開する会社を立ち上げようと思ったのです。正直に言うと、これまでたくさんのY Combinatorへの応募を読んできているので、これが最悪のスタートアップのアイデアだとまでは言えませんが、けっこうな線を行っていると思います。アートギャラリーはオンラインにすることを望んでいませんでしたし、今でもかっこいいサイトを作る気はありません。それは彼らの商売方法ではないのです。私はギャラリー用のウェブサイトを生成するソフトウェアをいくつか書き、ロバートは画像のサイズを変更するソフトウェアを書いて、ページを提供するためのhttpサーバーをセットアップしました。それからギャラリーと契約しようとしました。難しいなんてものじゃありませんでした。ただでも要らないと言われるのです。無料でサイトを作らせてくれるところは少しありましたが、お金を払ってくれるところはありませんでした。
 
 
 Then some online stores started to appear, and I realized that except for the order buttons they were identical to the sites we'd been generating for galleries. This impressive-sounding thing called an "internet storefront" was something we already knew how to build.
 
-すると、いくつかのオンラインストアが出てきて、注文ボタンを除けば、今までギャラリー向けに作っていたサイトと同じだということに気がつきました。インターネット・ストアフロント」という響きが印象的なものは、私たちがすでに構築方法を知っているものでした。
+それから、オンラインストアというものが出てきました。そこで気がついたのですが、注文ボタンを除けば、それらは今までギャラリー向けに生成していたサイトと同じものだったのです。「インターネット・ストアフロント」という仰々しい響きのものは、私たちがすでに作り方を知っているものでした。
 
 
 So in the summer of 1995, after I submitted the camera-ready copy of ANSI Common Lisp to the publishers, we started trying to write software to build online stores. At first this was going to be normal desktop software, which in those days meant Windows software. That was an alarming prospect, because neither of us knew how to write Windows software or wanted to learn. We lived in the Unix world. But we decided we'd at least try writing a prototype store builder on Unix. Robert wrote a shopping cart, and I wrote a new site generator for stores — in Lisp, of course.
 
-1995年の夏、カメラで撮影可能なANSI Common Lispのコピーを出版社に提出した後、私たちはオンラインストアを構築するためのソフトウェアを書こうとし始めました。最初は、これは普通のデスクトップソフトウェア、つまり当時はWindowsソフトウェアを意味していました。なぜなら、私たちのどちらもWindowsソフトウェアの書き方を知らないし、学びたいとも思わなかったからです。私たちはUnixの世界に住んでいたのです。しかし、私たちは少なくともUnix上でストアビルダーのプロトタイプを書いてみることにしました。ロバートはショッピングカートを書き、私は店のための新しいサイトジェネレータを書きました。
+1995年の夏、ANSI Common Lispの最終原稿を出版社に提出した後、私たちはオンラインストアを構築するためのソフトウェアを書こうとし始めました。最初は、普通のデスクトップソフトウェアにするつもりでした。つまり、当時の状況からすると、Windowsソフトウェアということになります。これは危険な兆候でした。私たちのどちらもWindowsソフトウェアの書き方を知らないかったし、学ぶ気もなかったからです。私たちはUnixの世界の住人でした。とりあえず、ストアビルダーのプロトタイプをUnix上で書いてみてもいいんじゃないかと考えました。ロバートはショッピングカートを書き、私は店のための新しいサイトジェネレータを書きました。もちろん、Lispでです。
 
 
 We were working out of Robert's apartment in Cambridge. His roommate was away for big chunks of time, during which I got to sleep in his room. For some reason there was no bed frame or sheets, just a mattress on the floor. One morning as I was lying on this mattress I had an idea that made me sit up like a capital L. What if we ran the software on the server, and let users control it by clicking on links? Then we'd never have to write anything to run on users' computers. We could generate the sites on the same server we'd serve them from. Users wouldn't need anything more than a browser.
 
-私たちはケンブリッジのロバートのアパートで仕事をしていました。彼のルームメイトが留守の間、私は彼の部屋で寝ることになりました。なぜかベッドフレームもシーツもなく、床にマットレスが敷かれていました。ある朝、このマットレスの上に横たわっていたとき、私はあるアイデアを思いつきました。そうすれば、ユーザーのコンピュータ上で実行するために何も書く必要はありません。同じサーバー上でサイトを生成することができます。ユーザーはブラウザ以上のものを必要としないだろう。
+私たちはケンブリッジのロバートのアパートで仕事をしていました。彼のルームメイトは長い間留守にすることが多かったので、そういう時期は私は彼の部屋で寝ることになりました。なぜかベッドフレームもシーツもなく、床にマットレスが敷かれていました。ある朝、このマットレスの上に横たわっていたとき、私はあるアイデアを思いついて、L字型に起き上がりました。ソフトウェアをサーバー上で動かして、ユーザーにリンクをクリックさせて操作させたらどうだろう？そうすれば、ユーザーのコンピュータ上で実行するものを書く必要はありません。そのソフトウェアと同じサーバー上でサイトを生成することもできます。ユーザーに必要なのはブラウザーだけです。
 
 
 This kind of software, known as a web app, is common now, but at the time it wasn't clear that it was even possible. To find out, we decided to try making a version of our store builder that you could control through the browser. A couple days later, on August 12, we had one that worked. The UI was horrible, but it proved you could build a whole store through the browser, without any client software or typing anything into the command line on the server.
 
-ウェブアプリと呼ばれるこの種のソフトウェアは今でこそ一般的ですが、当時はそれが可能であるかどうかさえ明確ではありませんでした。それを知るために、私たちはブラウザから操作できるストアビルダーのバージョンを作ってみることにしました。数日後の8月12日、1つのバージョンが動作しました。UIは最悪でしたが、クライアントソフトウェアやサーバー上のコマンドラインに何かを入力することなく、ブラウザを介してストア全体を構築できることが証明されました。
+ウェブアプリと呼ばれるこの種のソフトウェアは今でこそ一般的ですが、当時はそれが可能であるかどうかさえ明確ではありませんでした。可能かどうかを調べるために、私たちはブラウザから操作できるストアビルダーをひとつ作ってみることにしました。数日後の8月12日、動くものができました。UIは最悪でしたが、クライアントソフトウェアを使ったりサーバーのコマンドラインに何かを入力したりしないでも、ブラウザだけでストア全体を構築できるということをそれは示してくれました。
 
 
 Now we felt like we were really onto something. I had visions of a whole new generation of software working this way. You wouldn't need versions, or ports, or any of that crap. At Interleaf there had been a whole group called Release Engineering that seemed to be at least as big as the group that actually wrote the software. Now you could just update the software right on the server.
 
-今、私たちは本当に何かを掴んだような気がしていました。私は、この方法で動作する新世代のソフトウェアのビジョンを持っていました。バージョンやポートなどのくだらないものは必要ありません。インターリーフには、リリースエンジニアリングというグループがありました。今では、サーバー上でソフトウェアをアップデートすることができるようになりました。
+そのとき、私たちは本当に何かをつかんだような気がしていました。こういうふうに動作する新世代のソフトウェアのビジョンが私には見えました。バージョンや移植などのくだらないものは必要ありません。インターリーフには、ソフトウェアを作るグループと同じぐらいの大きさの、リリースエンジニアリングというグループがあったものですが、もうそんなものは要らなくなるのです。サーバー上で直接ソフトウェアをアップデートできるのです。
 
 
 We started a new company we called Viaweb, after the fact that our software worked via the web, and we got $10,000 in seed funding from Idelle's husband Julian. In return for that and doing the initial legal work and giving us business advice, we gave him 10% of the company. Ten years later this deal became the model for Y Combinator's. We knew founders needed something like this, because we'd needed it ourselves.
 
-私たちは、ソフトウェアがウェブを介して動作することにちなんで、Viawebという新しい会社を立ち上げました。その見返りに、最初の法的な仕事をしてくれたり、ビジネスのアドバイスをしてくれたりして、会社の10％を彼に渡しました。10年後、この取引がY Combinatorのモデルとなりました。創業者にはこのようなものが必要だということはわかっていました。
+私たちは、Viawebという新しい会社を立ち上げました。名前は、ソフトウェアがウェブを介して動作するということにちなむものです。私たちは、イデルの夫ジュリアンから1万ドルのシード資金を得ました。その資金と、最初の法的な仕事やビジネスのアドバイスをしてくれたりした見返りに、会社の株の10％を彼に渡しました。10年後、この取引はY Combinatorのモデルとなります。創業者にはそういうものが必要だということが私たちにはわかっていました。私たち自身、そういうものを必要としていたからです。
 
 
 At this stage I had a negative net worth, because the thousand dollars or so I had in the bank was more than counterbalanced by what I owed the government in taxes. (Had I diligently set aside the proper proportion of the money I'd made consulting for Interleaf? No, I had not.) So although Robert had his graduate student stipend, I needed that seed funding to live on.
 
-この段階では、私はマイナスの純資産を持っていました。私はインターリーフのコンサルティングで稼いだお金のうち、適切な割合をきちんと確保していただろうか？いいえ、していませんでした）。) ロバートは大学院生の奨学金をもらっていましたが、私が生きていくためにはその資金が必要でした。
+この段階では、私の純資産はマイナスでした。私の1000ドルそこらの銀行預金は税金分にもならなかったからです。（インターリーフのコンサルティングで稼いだお金のうち、適切な割合をきちんと貯金していたかって？ いいえ、していませんでした。）ロバートが大学院の奨学金をもらっていたとはいっても、私が生きていくためにはそのシード資金が必要でした。
 
 
 We originally hoped to launch in September, but we got more ambitious about the software as we worked on it. Eventually we managed to build a WYSIWYG site builder, in the sense that as you were creating pages, they looked exactly like the static ones that would be generated later, except that instead of leading to static pages, the links all referred to closures stored in a hash table on the server.
@@ -325,267 +325,267 @@ We originally hoped to launch in September, but we got more ambitious about the 
 
 It helped to have studied art, because the main goal of an online store builder is to make users look legit, and the key to looking legit is high production values. If you get page layouts and fonts and colors right, you can make a guy running a store out of his bedroom look more legit than a big company.
 
-なぜなら、オンラインストアビルダーの主な目標は、ユーザーに合法的に見えるようにすることであり、合法的に見えるための鍵は、高い生産値だからです。ページのレイアウトやフォント、色をうまく使えば、寝室で店を経営している人を大企業よりも合法的に見せることができます。
+ここで、美術を勉強していたことが役に立ちました。なぜなら、オンラインストアビルダーの主な目標は、ユーザーにちゃんとしたものに見えるようにすることであり、ちゃんとしたものに見えるための鍵は作りのよさだからです。ページのレイアウトやフォント、色をうまく使えば、寝室で店を経営している人のページを大企業のページよりちゃんとしたものに見せることができます。
 
 
 (If you're curious why my site looks so old-fashioned, it's because it's still made with this software. It may look clunky today, but in 1996 it was the last word in slick.)
 
-(私のサイトが古臭く見えるのは、このソフトで作られているからです。今日では不器用に見えるかもしれませんが、1996年には、それはスリックの最後の言葉だったのです)。
+（私のサイトが古臭く見えるのは、いまだにこのソフトで作られているからです。今日では不格好に見えるかもしれませんが、1996年には、それは最高にかっこよかったのです）。
 
 
 In September, Robert rebelled. "We've been working on this for a month," he said, "and it's still not done." This is funny in retrospect, because he would still be working on it almost 3 years later. But I decided it might be prudent to recruit more programmers, and I asked Robert who else in grad school with him was really good. He recommended Trevor Blackwell, which surprised me at first, because at that point I knew Trevor mainly for his plan to reduce everything in his life to a stack of notecards, which he carried around with him. But Rtm was right, as usual. Trevor turned out to be a frighteningly effective hacker.
 
-9月になってロバートは反発しました。"1ヶ月もかけて作っているのに、まだ完成していない "と。振り返ってみると、彼は3年近く経ってもまだこの作品に取り組んでいたことになるので、これは笑えます。しかし、私はより多くのプログラマーを採用するのが賢明かもしれないと考え、ロバートに彼と一緒に大学院にいた他の誰が本当に良いかを尋ねました。彼はトレバー・ブラックウェルを推薦してくれましたが、これには最初驚きました。しかし、Rtmはいつものように正しかった トレバーは、恐ろしく効果的なハッカーであることが判明した。
+9月になってロバートは反発しました。「1ヶ月もかけて作っているのに、まだ完成していない」と。今から考えると笑える話です。実際は、その後3年近くの間、これを作り続けることになるのですから。しかし、私はより多くのプログラマーを採用するのが賢明かもしれないと考え、大学院にすごいやつがいないかとロバートに尋ねました。彼はトレバー・ブラックウェルを推薦してくれましたが、これには最初驚きました。その時点では、トレバーについて知っていたのは、人生のすべてを情報カードの山に入れようとしているやつだということぐらいでした。トレバーはそれをいつも持ち歩いていたのです。しかし、いつものように、Rtmの意見に間違いはありませんでした。トレバーは、恐ろしく能力のあるハッカーだということがわかりました。
 
 
 It was a lot of fun working with Robert and Trevor. They're the two most independent-minded people I know, and in completely different ways. If you could see inside Rtm's brain it would look like a colonial New England church, and if you could see inside Trevor's it would look like the worst excesses of Austrian Rococo.
 
-ロバートとトレバーとの仕事は、とても楽しかった。彼らは、私が知っている中で、最も独立心の強い二人だが、全く違う意味で。もしあなたがRtmの脳内を見ることができたら、それは植民地時代のニューイングランドの教会のように見え、もしトレバーの脳内を見ることができたら、それはオーストリアのロココ様式の最悪の過剰さのように見えるでしょう。
+ロバートとトレバーとの仕事は、とても楽しいものでした。彼らは、私が知っている中で、最も自分をしっかり持っている人たちでしたが、そのあり方は完全に違いました。もしRtmの脳内を見ることができたら、それは植民地時代のニューイングランドの教会のように見え、もしトレバーの脳内を見ることができたら、それはオーストリアのロココ様式を最悪に派手にしたもののように見えるでしょう。
 
 
 We opened for business, with 6 stores, in January 1996. It was just as well we waited a few months, because although we worried we were late, we were actually almost fatally early. There was a lot of talk in the press then about ecommerce, but not many people actually wanted online stores. [8]
 
-1996年1月に6店舗で営業を開始しました。遅れているのではないかと心配していましたが、実際には致命的に早かったのです。当時、マスコミではeコマースについて多くの話題が出ていましたが、実際にオンラインストアを望んでいる人はそれほど多くありませんでした。[8]
+1996年1月に6店舗で営業を開始しました。もう数か月待ってもよかったぐらいです。私たち自身はもう遅いんじゃないかと心配していたのですが、実際のところは時代を先取りしすぎていたぐらいだったからです。当時、マスコミではeコマースについて多くの話題が出ていましたが、実際にオンラインストアを望んでいる人はそれほど多くありませんでした。[8]
 
 
 There were three main parts to the software: the editor, which people used to build sites and which I wrote, the shopping cart, which Robert wrote, and the manager, which kept track of orders and statistics, and which Trevor wrote. In its time, the editor was one of the best general-purpose site builders. I kept the code tight and didn't have to integrate with any other software except Robert's and Trevor's, so it was quite fun to work on. If all I'd had to do was work on this software, the next 3 years would have been the easiest of my life. Unfortunately I had to do a lot more, all of it stuff I was worse at than programming, and the next 3 years were instead the most stressful.
 
-ソフトウェアには大きく分けて3つの部分がありました。それは、人々がサイトを構築するために使用し、私が書いたエディタ、ロバートが書いたショッピングカート、そしてトレバーが書いた注文や統計情報を管理するマネージャーです。当時、エディタは最高の汎用サイトビルダーの一つでした。私はコードをタイトに保ち、ロバートとトレバー以外の他のソフトウェアと統合する必要がなかったので、作業はかなり楽しかったです。もしこのソフトウェアの作業だけをしていたら、その後の3年間は私の人生の中で最も楽なものだったでしょう。残念ながら、私はもっとたくさんのことをしなければなりませんでしたが、そのすべてがプログラミングよりも苦手なことで、次の3年間が一番のストレスでした。
+私たちのソフトウェアには大きく分けて3つの部分がありました。私が書いたサイト構築用のエディタ、ロバートが書いたショッピングカート、トレバーが書いた注文や統計情報を管理するマネージャーです。当時、エディタは最高の汎用サイトビルダーの一つでした。私は無駄のないコードを維持していて、ロバートとトレバー以外の他のソフトウェアと統合する必要もなかったので、作業はかなり楽しいものでした。もしこのソフトウェアの作業だけをしていたら、その後の3年間は私の人生の中で最も楽な時期になっていたでしょう。残念ながら、私はもっとたくさんのことをしなければならず、そのすべてがプログラミングよりも苦手なことだったので、結局その後の3年間は人生の中で最もしんどい時期になってしまいました。
 
 
 There were a lot of startups making ecommerce software in the second half of the 90s. We were determined to be the Microsoft Word, not the Interleaf. Which meant being easy to use and inexpensive. It was lucky for us that we were poor, because that caused us to make Viaweb even more inexpensive than we realized. We charged $100 a month for a small store and $300 a month for a big one. This low price was a big attraction, and a constant thorn in the sides of competitors, but it wasn't because of some clever insight that we set the price low. We had no idea what businesses paid for things. $300 a month seemed like a lot of money to us.
 
-90年代後半には、eコマース・ソフトウェアを作っているスタートアップがたくさんいました。私たちは、インターリーフではなく、Microsoft Wordになることを決意しました。それは、使いやすく、安価であることを意味していました。それは私たちが貧しかったことが幸いしたのです。私たちは、小さな店では月100ドル、大きな店では月300ドルを請求しました。この低価格は大きな魅力であり、競合他社の側に一定のとげがありましたが、私たちが価格を低く設定したのは、いくつかの賢い洞察力のおかげではありませんでした。私たちは、企業が何のために支払っているのか見当もつきませんでした。月300ドルは、私たちにとっては大金のように思えました。
+90年代後半には、eコマース・ソフトウェアを作っているスタートアップがたくさんありました。私たちは、インターリーフではなく、Microsoft Wordになることを決意しました。つまり、使いやすく、安価なものにするということです。私たちが貧しかったこともいい方向に働きました。そのおかげで、Viawebは私たちが考えていたよりも安いものになったからです。私たちは、小さな店は月100ドル、大きな店は月300ドルという価格設定にしました。この低価格は大きな魅力であり、競合他社からすると気に障るものでしたが、私たちが価格を低く設定したのは、鋭い直観のおかげなどではありませんでした。私たちには、ビジネスで動く金額の相場観というものが完全に欠けていました。月300ドルというのは、私たちにとっては大金だったのです。
 
 
 We did a lot of things right by accident like that. For example, we did what's now called "doing things that don't scale," although at the time we would have described it as "being so lame that we're driven to the most desperate measures to get users." The most common of which was building stores for them. This seemed particularly humiliating, since the whole raison d'etre of our software was that people could use it to make their own stores. But anything to get users.
 
-私たちは、そのように偶然にも多くのことを正しく行っていました。例えば、今で言うところの "スケールしないことをする "ということですが、当時は "ユーザーを獲得するために必死になるほどダサい "と表現していました。その中でも最も一般的だったのは、彼らのために店舗を作ることでした。私たちのソフトウェアの存在意義は、人々が自分の店を作るためにそれを使うことができるということだったので、これは特に屈辱的なことのように思えました。しかし、ユーザーを獲得するためには何でもします。
+他にも、たまたま正解になったことはたくさんあります。例えば、今で言うところの「スケールしないことをする」ということです。しかし、当時は「自分たちがイケてないからユーザーを獲得するために何でもしなくちゃいけない」と表現していました。その中で最も多かったのは、ユーザーのために店舗を作ることでした。私たちのソフトウェアの存在意義は、人々が自分で店を作れるということにあったので、これは特に屈辱的なことのように思えました。しかし、ユーザー獲得のためにはしょうがありません。
 
 
 We learned a lot more about retail than we wanted to know. For example, that if you could only have a small image of a man's shirt (and all images were small then by present standards), it was better to have a closeup of the collar than a picture of the whole shirt. The reason I remember learning this was that it meant I had to rescan about 30 images of men's shirts. My first set of scans were so beautiful too.
 
-私たちは小売業について、知りたいと思っていた以上に多くのことを学びました。例えば、男性のシャツの小さな画像しかない場合（現在の基準ではすべての画像が小さかったのですが）、シャツ全体の画像よりも襟のクローズアップ画像の方が良いということです。このことを知ったのは、男性用シャツの画像を30枚ほど再スキャンしなければならないことを意味していたからです。私の最初のスキャンのセットはあまりにも美しかった。
+私たちは小売業について、知りたいと思っていた以上に多くのことを学びました。例えば、男性のシャツの小さな画像しか置けない場合（現在の基準から言えばすべての画像は小さいものでしたが）、シャツ全体の画像よりも襟のクローズアップ画像の方が良いとかいうことです。私が今でもこのことを覚えているのは、このために男性用シャツの画像を30枚ほど再スキャンすることになったからです。最初のスキャンもよくできていたのに。
 
 
 Though this felt wrong, it was exactly the right thing to be doing. Building stores for users taught us about retail, and about how it felt to use our software. I was initially both mystified and repelled by "business" and thought we needed a "business person" to be in charge of it, but once we started to get users, I was converted, in much the same way I was converted to fatherhood once I had kids. Whatever users wanted, I was all theirs. Maybe one day we'd have so many users that I couldn't scan their images for them, but in the meantime there was nothing more important to do.
 
-これは間違っていると感じましたが、やっていて正解でした。ユーザーのために店舗を作ることは、私たちに小売業やソフトウェアの使用感を教えてくれました。私は最初、「ビジネス」に神秘的であり反発もしていましたし、それを担当するには「ビジネスパーソン」が必要だと思っていましたが、ユーザーを獲得し始めると、子供ができて父親になったのと同じように、私も改心しました。ユーザーが何を望んでいても、私はすべて彼らのものでした。いつかユーザーが増えすぎて、ユーザーの画像をスキャンできなくなる日が来るかもしれませんが、それまではこれ以上に重要なことはありませんでした。
+当時は何か違うと思いながらやっていましたが、これこそがまさに正解だったのです。ユーザーのために店舗を作ることで、私たちは小売業について学び、またソフトウェアの使用感も知ることができました。私は最初、「ビジネス」に得体の知れなさを感じていて、近づきたくないと思っていました。ビジネスは「ビジネスパーソン」を雇って担当してもらわないといけないと思っていたのです。しかし、ユーザーを獲得するにつれ、私はビジネスパーソンになっていきました。ちょうど、私に子供ができることによって、父親になっていったようなものです。どんなユーザーの願いでも、叶えるために全力を尽くしました。もしかすると、いつかユーザーが増えすぎて、ユーザーの代わりに画像のスキャンをしてあげることなんてできなくなる日が来るのかもしれません。でも、それまでの間は、それ以上に重要なことはないのです。
 
 
 Another thing I didn't get at the time is that growth rate is the ultimate test of a startup. Our growth rate was fine. We had about 70 stores at the end of 1996 and about 500 at the end of 1997. I mistakenly thought the thing that mattered was the absolute number of users. And that is the thing that matters in the sense that that's how much money you're making, and if you're not making enough, you might go out of business. But in the long term the growth rate takes care of the absolute number. If we'd been a startup I was advising at Y Combinator, I would have said: Stop being so stressed out, because you're doing fine. You're growing 7x a year. Just don't hire too many more people and you'll soon be profitable, and then you'll control your own destiny.
 
-もう一つ、私が当時理解していなかったことは、成長率がスタートアップの究極のテストであるということです。私たちの成長率は問題ありませんでした。1996年末には70店舗くらい、1997年末には500店舗くらいになっていました。私は、重要なのはユーザーの絶対数だと勘違いしていました。それがどれだけ儲かっているかという意味で重要なことで、儲からなければ廃業してしまうかもしれません。しかし、長期的には成長率が絶対数を気にします。もし私がY Combinatorでアドバイスしていたスタートアップだったら、私はこう言っていただろう。そんなにストレスを感じるのはやめてくれ。年7倍の成長をしているのだから。年7倍の成長をしているんだから、そんなにストレスを感じるなよ。
+もう一つ、私が当時理解していなかったことは、成長率がスタートアップの究極のテストであるということです。私たちの成長率は順調でした。1996年末には70店舗くらい、1997年末には500店舗くらいになっていました。私は、重要なのはユーザーの絶対数だと勘違いしていました。それこそが、どれだけ儲かっているかという意味で重要なことで、十分に儲からなければ破産してしまう、と。しかし、長期的に見ると、成長率さえあれば絶対数は何とかなります。もし当時の私たちが、Y Combinatorで私がアドバイスしていたスタートアップの一つだったとしたら、私はこう言うでしょう。「そんなに焦るなよ。うまくやってるじゃないか。年7倍で成長しているんだ。従業員を増やしすぎなければそれでいい。そうすれば、そのうち黒字になる。そうなればこっちのものだ。」
 
 
 Alas I hired lots more people, partly because our investors wanted me to, and partly because that's what startups did during the Internet Bubble. A company with just a handful of employees would have seemed amateurish. So we didn't reach breakeven until about when Yahoo bought us in the summer of 1998. Which in turn meant we were at the mercy of investors for the entire life of the company. And since both we and our investors were noobs at startups, the result was a mess even by startup standards.
 
-残念ながら、私はもっと多くの人を雇いました。投資家がそうしろと言ったこともありますし、インターネットバブルの頃のスタートアップがそうしていたこともあります。一握りの従業員だけの会社は素人っぽく見えたでしょう。そのため、1998年の夏にヤフーに買収されるまで、損益分岐点に達することはありませんでした。つまり、会社の全生涯を投資家のなすがままにしていたということです。私たちも投資家もスタートアップの素人だったので、結果はスタートアップの基準から見ても混乱していました。
+残念ながら、私は従業員を増やしていました。投資家がそうしろと言ったこともありますし、インターネットバブルの頃のスタートアップはみんなそうしていたということもあります。従業員が数人だけの会社は素人っぽく見えたでしょう。そういうわけで、1998年の夏にヤフーに買収されるまで、損益分岐点に達することはありませんでした。つまり、会社の全生涯を投資家のなすがままにしていたということです。私たちも投資家もスタートアップの素人だったので、結果はスタートアップの基準から見ても混乱していました。
 
 
 It was a huge relief when Yahoo bought us. In principle our Viaweb stock was valuable. It was a share in a business that was profitable and growing rapidly. But it didn't feel very valuable to me; I had no idea how to value a business, but I was all too keenly aware of the near-death experiences we seemed to have every few months. Nor had I changed my grad student lifestyle significantly since we started. So when Yahoo bought us it felt like going from rags to riches. Since we were going to California, I bought a car, a yellow 1998 VW GTI. I remember thinking that its leather seats alone were by far the most luxurious thing I owned.
 
-ヤフーに買収されたときには、大きな安心感がありました。原則として、当社のViawebの株式は価値がありました。それは利益を上げ、急速に成長しているビジネスの株でした。私はビジネスの価値をどう評価すべきか見当もつきませんでしたが、数ヶ月に一度のように瀕死の体験をしていることを痛感していました。また、起業してから大学院生としての生活スタイルを大きく変えたわけでもありませんでした。だから、ヤフーに買収されたときは、ボロから金持ちになるような気分でした。カリフォルニアに行くことになったので、車は1998年式の黄色いVW GTIを買いました。革張りのシートだけで、自分の中で一番贅沢なものだと思ったのを覚えています。
+ヤフーに買収されたときには、大きな安心感がありました。原則として、当社のViawebの株式は価値がありました。利益を上げ、急速に成長しているビジネスの株として評価されていました。しかし、私にはそうは思えませんでした。私はビジネスの価値をどう評価すべきか見当もつきませんでしたが、数か月に一度のように瀕死の体験をしていることは痛感していました。また、起業してからも、大学院生のころの生活スタイルを大きく変えたわけでもありませんでした。だから、ヤフーに買収されたときは、無一文から大金持ちになったような気分でした。カリフォルニアに行くことになったので、車は1998年式の黄色いVW GTIを買いました。その革張りのシートだけでも、自分の持ち物の中で一番贅沢なものだと思ったのを覚えています。
 
 
 The next year, from the summer of 1998 to the summer of 1999, must have been the least productive of my life. I didn't realize it at the time, but I was worn out from the effort and stress of running Viaweb. For a while after I got to California I tried to continue my usual m.o. of programming till 3 in the morning, but fatigue combined with Yahoo's prematurely aged culture and grim cube farm in Santa Clara gradually dragged me down. After a few months it felt disconcertingly like working at Interleaf.
 
-1998年の夏から1999年の夏までの1年間は、人生で最も生産性の低い年だったのではないでしょうか。当時は気づかなかったのですが、Viawebの運営に追われて疲れ果てていました。カリフォルニアに着いてからしばらくの間は、いつものように朝の3時までプログラミングを続けようとしましたが、ヤフーの早熟な文化とサンタクララにある不気味なキューブファームの疲労が相まって、次第に私の足を引っ張っていきました。数ヶ月後には、インターリーフで働いているような気分になりました。
+1998年の夏から1999年の夏までの1年間は、人生で最も生産性の低い年だったのではないでしょうか。当時は気づかなかったのですが、私はViawebの運営に追われて疲れ果てていたのです。カリフォルニアに着いてからしばらくの間は、それまでのように朝の3時までプログラミングを続けようとしていましたが、ヤフーが新しい企業にしては古い体質だったこと、サンタクララの職場がパーティションだらけの不気味な場所だったことに加えて、それまでの疲労も相まって、私はだんだん落ち込んできました。数か月後には、まるでインターリーフで働いていたころのような気持ちになっていました。よくない兆候です。
 
 
 Yahoo had given us a lot of options when they bought us. At the time I thought Yahoo was so overvalued that they'd never be worth anything, but to my astonishment the stock went up 5x in the next year. I hung on till the first chunk of options vested, then in the summer of 1999 I left. It had been so long since I'd painted anything that I'd half forgotten why I was doing this. My brain had been entirely full of software and men's shirts for 4 years. But I had done this to get rich so I could paint, I reminded myself, and now I was rich, so I should go paint.
 
-ヤフーは当社を買収したときに、たくさんのオプションを与えてくれました。当時の私は、ヤフーがあまりにも過大評価されていて、オプションに価値はないだろうと思っていましたが、驚いたことに、翌年には株価が5倍になっていました。私はオプションの最初の部分が有効になるまで持ちこたえ、1999年の夏に退職しました。何かを描くのは久しぶりだったので、なぜこんなことをしていたのかを半分忘れていました。4年間、私の頭の中はソフトウェアと男性用のシャツのことでいっぱいでした。でも、金持ちになるために絵を描くためにやっていたんだ、と自分に言い聞かせていました。
+ヤフーが私たちの会社を買収したときに、たくさんのストックオプションを与えてくれました。当時の私は、ヤフーはあまりにも過大評価されていて、ストックオプションに価値はないだろうと思っていましたが、驚いたことに、翌年には株価が5倍になっていました。私はストックオプションの最初の部分が有効になるまで持ちこたえ、1999年の夏に退職しました。絵を描かなくなって長い時間が経っていたので、何のためにこんなことをしていたのか、私は半分忘れていました。4年間、私の頭の中はソフトウェアと男性用のシャツのことでいっぱいだったのです。でも、これをやってきたのは、金持ちになって絵を描くためだったじゃないか、と私は自分に言い聞かせました。金持ちにはもうなったんだ。だから、絵を描かないと。
 
 
 When I said I was leaving, my boss at Yahoo had a long conversation with me about my plans. I told him all about the kinds of pictures I wanted to paint. At the time I was touched that he took such an interest in me. Now I realize it was because he thought I was lying. My options at that point were worth about $2 million a month. If I was leaving that kind of money on the table, it could only be to go and start some new startup, and if I did, I might take people with me. This was the height of the Internet Bubble, and Yahoo was ground zero of it. My boss was at that moment a billionaire. Leaving then to start a new startup must have seemed to him an insanely, and yet also plausibly, ambitious plan.
 
-辞めると言ったら、ヤフーの上司が私の計画を延々と話してくれました。どんな絵を描きたいかを全部話したんです。その時は、私のことをこんなにも見てくれているんだなと感動しました。今にして思えば、それは私が嘘をついていると思われていたからです。その時の私のオプションは月に200万ドルくらいの価値があった。もし私がそのようなお金を残すとしたら、それは何か新しいスタートアップを始めるために行くことしかできませんでした。この頃はインターネットバブルの絶頂期で、ヤフーはその震源地でした。その時の上司は億万長者でした。その時に退職して新しいスタートアップを立ち上げるというのは、彼にとっては非常識で、しかももっともらしい野心的な計画に見えたに違いない。
+辞めると言ったら、私の今後の計画についてヤフーの上司と長い時間話すことになりました。私はどんな絵を描きたいかを全部話しました。その時は、私にそんなに興味を持ってくれているんだなと感動したものです。今にして思えば、私は嘘をついていると思われていたのでしょう。その時の私のストックオプションは月に200万ドルくらいの価値がありました。そんな大金を捨てて出て行くとしたら、何か新しいスタートアップを始めるために決まっているし、そうなればスタッフを引き抜くかもしれない、というわけです。この頃はインターネットバブルの絶頂期で、ヤフーはその震源地でした。上司は当時億万長者でした。そういう時期に退職して新しいスタートアップを立ち上げるというのは、彼には頭がおかしいぐらい野心的な計画に見えたはずですが、私はそういうことをやりかねないと思われていたのです。
 
 
 But I really was quitting to paint, and I started immediately. There was no time to lose. I'd already burned 4 years getting rich. Now when I talk to founders who are leaving after selling their companies, my advice is always the same: take a vacation. That's what I should have done, just gone off somewhere and done nothing for a month or two, but the idea never occurred to me.
 
-しかし、私は本当に絵を描くことを辞めようとしていたので、すぐに始めました。失う時間はありませんでした。金持ちになるのに4年も燃えていたんだから。今、会社を売却して辞めようとしている創業者と話をするとき、私のアドバイスはいつも同じです。それは私がすべきだったことで、どこかに行って、1、2ヶ月間何もしないでいたのですが、その考えは私には思いつきませんでした。
+しかし、私が辞める理由は本当に絵を描くためで、辞めた後すぐに描き始めました。もう時間を無駄にできません。金持ちになるために4年もの時間を使ってしまったのですから。今の私が、会社を売却して辞めようとしている創業者と話をするとき、私のアドバイスはいつも同じです。休みを取りなさい、と。それは私がすべきことでした。どこかに行って、1、2か月間何もしないでいるべきだったのです。しかし、その考えは当時の私には思いつきませんでした。
 
 
 So I tried to paint, but I just didn't seem to have any energy or ambition. Part of the problem was that I didn't know many people in California. I'd compounded this problem by buying a house up in the Santa Cruz Mountains, with a beautiful view but miles from anywhere. I stuck it out for a few more months, then in desperation I went back to New York, where unless you understand about rent control you'll be surprised to hear I still had my apartment, sealed up like a tomb of my old life. Idelle was in New York at least, and there were other people trying to paint there, even though I didn't know any of them.
 
-だから絵を描こうとしましたが、エネルギーも野心もないように見えました。問題の一部は、カリフォルニアに知り合いが少なかったことです。私はサンタクルス山脈に家を買ったことで、この問題をさらに悪化させました。それから数ヶ月我慢して、絶望のあまりニューヨークに戻りました。家賃管理のことを理解していない人は、私のアパートが昔の生活の墓のように封印されていると聞いて驚くでしょう。イデルは少なくともニューヨークにはいたし、他にも絵を描こうとしている人がいて、私が知らない人もいたけどね。
+そういうわけで、絵を描こうとしたのですが、私にはエネルギーも野心もないような気がしました。問題の一部は、カリフォルニアに知り合いが少なかったことです。私はサンタクルス山脈に家を買ったことで、この問題をさらに悪化させました。その家は眺めはすばらしかったのですが、周り数キロに何もなかったのです。数か月は我慢したものの、結局絶望のあまりニューヨークに戻ることにしました。レントコントロールについて知らない人は、私がまだアパートを借りているままで、その内部は昔の生活の墓のように封印されていたと聞いたら驚くでしょう。少なくともニューヨークにはイデルがいます。それに、他にも絵を描こうとしている人がいるはずでした。私自身は誰もそういう人を知らなかったのですが。
 
 
 When I got back to New York I resumed my old life, except now I was rich. It was as weird as it sounds. I resumed all my old patterns, except now there were doors where there hadn't been. Now when I was tired of walking, all I had to do was raise my hand, and (unless it was raining) a taxi would stop to pick me up. Now when I walked past charming little restaurants I could go in and order lunch. It was exciting for a while. Painting started to go better. I experimented with a new kind of still life where I'd paint one painting in the old way, then photograph it and print it, blown up, on canvas, and then use that as the underpainting for a second still life, painted from the same objects (which hopefully hadn't rotted yet).
 
-ニューヨークに戻ってからは、金持ちになったことを除いて、昔の生活を再開しました。お金持ちになっていたことを除いてはね。昔のパターンをすべて再開した今までなかったドアがあったこと以外はね 歩き疲れたときは手を挙げるだけで、（雨が降っていなければ）タクシーが迎えに来てくれるようになりました。魅力的な小さなレストランの前を通ると、中に入ってランチを注文することができるようになりました。しばらくはワクワクしていました。絵を描くのもうまくいき始めました。新しい静物画の実験をしてみました。昔ながらの方法で1枚の絵を描き、それを写真に撮ってキャンバスにプリントし、それを下絵にして2枚目の静物画を描きました。
+ニューヨークに戻ってからは、昔の生活を再開しました。違うのは、私はお金持ちになっていたということだけです。不思議な感覚でした。私は昔のパターンをすべて再開したのですが、昔はなかったドアがいくつも現れていました。歩き疲れたときは、手を挙げるだけで（雨が降っていなければ）タクシーが止まってくれます。魅力的な小さなレストランの前を通ると、中に入ってランチを注文することができます。しばらくはそれでテンションが上がっていました。絵を描くのもうまくいき始めました。新しい静物画の実験をしてみました。昔ながらの方法で1枚の絵を描き、それを写真に撮ってキャンバスにプリントし、それを下絵にして、同じ物体（腐っていないことを祈りつつ）を対象にして2枚目の静物画を描くというものです。
 
 
 Meanwhile I looked for an apartment to buy. Now I could actually choose what neighborhood to live in. Where, I asked myself and various real estate agents, is the Cambridge of New York? Aided by occasional visits to actual Cambridge, I gradually realized there wasn't one. Huh.
 
-その間、私は購入するアパートを探しました。今、私は実際にどのような近所に住むかを選ぶことができました。どこで、私は自分自身と様々な不動産業者に尋ねた、ニューヨークのケンブリッジですか？実際のケンブリッジへの時折の訪問に助けられて、私は徐々に1つがなかったことに気づきました。はぁ。
+そうしながら、私は購入するアパートを探していました。今では、どういう地域に住むかを選ぶことができるのです。ケンブリッジのような場所はニューヨークのどこにあるのだろう？ 私は自分自身とさまざまな不動産業者に尋ねました。実際にケンブリッジに時々行っていたこともあり、そんな場所はないということがだんだんわかってきました。はぁ。
 
 
 Around this time, in the spring of 2000, I had an idea. It was clear from our experience with Viaweb that web apps were the future. Why not build a web app for making web apps? Why not let people edit code on our server through the browser, and then host the resulting applications for them? [9] You could run all sorts of services on the servers that these applications could use just by making an API call: making and receiving phone calls, manipulating images, taking credit card payments, etc.
 
-この頃、2000年の春、私はあるアイデアを持っていました。それは、Viawebでの経験から、ウェブアプリが未来であることは明らかでした。ウェブアプリを作るためのウェブアプリを作ってみてはどうだろう？人々にブラウザを通して私たちのサーバー上でコードを編集させて、その結果として得られるアプリケーションをホストしてはどうでしょうか? [9] APIコールをするだけで、これらのアプリケーションが使用できるあらゆる種類のサービスをサーバー上で実行することができます: 電話の送受信、画像の操作、クレジットカードの支払いなど。
+この頃、2000年の春、私はあるアイデアを持っていました。Viawebでの経験から、ウェブアプリがこれから「来る」ことは明らかでした。じゃあ、ウェブアプリを作るためのウェブアプリを作るというのはどうだろう？ 人々にブラウザを通して私たちのサーバー上でコードを編集させて、その結果として得られるアプリケーションをホストするというのは？[9] APIコールをするだけで、これらのアプリケーションが使用するあらゆる種類のサービスをサーバー上で実行することができます: 電話の送受信、画像の操作、クレジットカードの支払いなど。
 
 
 I got so excited about this idea that I couldn't think about anything else. It seemed obvious that this was the future. I didn't particularly want to start another company, but it was clear that this idea would have to be embodied as one, so I decided to move to Cambridge and start it. I hoped to lure Robert into working on it with me, but there I ran into a hitch. Robert was now a postdoc at MIT, and though he'd made a lot of money the last time I'd lured him into working on one of my schemes, it had also been a huge time sink. So while he agreed that it sounded like a plausible idea, he firmly refused to work on it.
 
-私はこのアイデアに興奮して、他のことは考えられなくなりました。これが未来なのは明らかだと思いました。特に別の会社を立ち上げたいとは思っていませんでしたが、このアイデアを具現化しなければならないことは明らかだったので、ケンブリッジに引っ越して会社を立ち上げることにしました。ロバートを誘って一緒に仕事をしたいと思っていたのですが、そこで問題が発生しました。ロバートは今ではMITのポスドクになっていて、前回私が彼を誘って私の計画の一つに取り組ませた時には大金を稼いでいましたが、それにもかかわらず、それは膨大な時間の浪費になっていました。膨大な時間を浪費していました。だから、彼は、もっともらしいアイデアのように聞こえることには同意しましたが
+私はこのアイデアに興奮して、他のことは考えられなくなりました。これが来たるべき未来なのは明らかだと思ったのです。特に新しい会社を立ち上げたいとは思っていませんでしたが、誰かがこのアイデアを具現化しなければならないことは明らかだったので、ケンブリッジに引っ越して会社を立ち上げることにしました。ロバートを誘って一緒に仕事をしたいと思っていたのですが、そこで問題が発生しました。ロバートは今ではMITのポスドクになっていたのです。前回私が彼を誘って私の計画の一つに取り組ませた時には大金を稼ぐことになりましたが、同時に膨大な時間をかけることにもなりました。だから、彼は、よさげなアイデアだとは認めてくれたものの、一緒にやるのは断固として拒否しました。
 
 
 Hmph. Well, I'd do it myself then. I recruited Dan Giffin, who had worked for Viaweb, and two undergrads who wanted summer jobs, and we got to work trying to build what it's now clear is about twenty companies and several open source projects worth of software. The language for defining applications would of course be a dialect of Lisp. But I wasn't so naive as to assume I could spring an overt Lisp on a general audience; we'd hide the parentheses, like Dylan did.
 
-ふん それなら 私が自分でやろう 私はViawebで働いていたDan Giffinと夏休みの仕事を希望する2人の学部生をリクルートして、20社ほどの会社といくつかのオープンソースプロジェクトのソフトウェアを構築する作業に取りかかりました。アプリケーションを定義するための言語は、もちろんLispの方言になります。しかし、私は一般の人たちにあからさまなLispを吹き込めると思っていたほど甘くはありませんでした。
+ふむ。じゃあ、自分でやろうか。私はViawebで働いていたダン・ギフィンと、夏休みのアルバイトを探していた2人の学部生をリクルートして、20社ほどの会社といくつかのオープンソースプロジェクトだけの価値があるソフトウェアを構築する作業に取りかかりました。アプリケーションを定義するための言語は、もちろんLispの方言になります。しかし、私は一般の人たちにあからさまなLispを吹き込めると思うほど甘くはありませんでした。Dylanのように、括弧を隠すことにしました。
 
 
 By then there was a name for the kind of company Viaweb was, an "application service provider," or ASP. This name didn't last long before it was replaced by "software as a service," but it was current for long enough that I named this new company after it: it was going to be called Aspra.
 
-その頃までには、Viawebが「アプリケーションサービスプロバイダ」、つまりASPという会社の名前がありました。この名前は「サービスとしてのソフトウェア」に取って代わられるまで長くは続かなかったのですが、私がこの新しい会社に名前を付けたのは十分に長く続いたので、それにちなんで「Aspra」と名付けることにしました。
+その頃までには、Viawebのような会社には、「アプリケーション・サービス・プロバイダ」（ASP）という名前ができていました。この名前は、それほどしないうちに「ソフトウェア・アズ・ア・サービス」に取って代わられることになるのですが、当時はまだ使われていたので、私はこの新会社にそれにちなんだ「Aspra」という名前をつけることにしました。
 
 
 I started working on the application builder, Dan worked on network infrastructure, and the two undergrads worked on the first two services (images and phone calls). But about halfway through the summer I realized I really didn't want to run a company — especially not a big one, which it was looking like this would have to be. I'd only started Viaweb because I needed the money. Now that I didn't need money anymore, why was I doing this? If this vision had to be realized as a company, then screw the vision. I'd build a subset that could be done as an open source project.
 
-私はアプリケーションビルダーの開発に携わり、ダンはネットワークインフラストラクチャの開発に携わり、2人の学部生は最初の2つのサービス（画像と電話）の開発に携わりました。しかし、夏の半ば頃、私は本当に会社を経営したいとは思っていないことに気づきました。Viawebを始めたのはお金が必要だったからです。お金が必要ではなくなった今、なぜ私はこんなことをしていたのだろう？もしこのビジョンが会社として実現されなければならないのなら、ビジョンなんてクソくらえだ。私は、オープンソースプロジェクトとしてできるサブセットを作ることにしました。
+私はアプリケーションビルダーの開発に携わり、ダンはネットワークインフラストラクチャの開発に携わり、2人の学部生は最初の2つのサービス（画像と電話）の開発に携わりました。しかし、夏の半ば頃、私は本当に会社を経営したいとは思っていないことに気づきました。特に、大きい会社は。この会社はどうやら大きくする必要がありそうでした。Viawebを始めたのは、お金が必要だったからというそれだけでした。もうお金の必要はないのに、私はなぜこんなことをしているのだろう？ もしこのビジョンが会社として実現されなければならないのなら、ビジョンなんてクソくらえだ。私は、オープンソースプロジェクトとしてできるサブセットを作ることにしました。
 
 
 Much to my surprise, the time I spent working on this stuff was not wasted after all. After we started Y Combinator, I would often encounter startups working on parts of this new architecture, and it was very useful to have spent so much time thinking about it and even trying to write some of it.
 
-驚いたことに、この作業に費やした時間は無駄にはなりませんでした。Y Combinatorを始めてからは、この新しいアーキテクチャの一部に取り組んでいるスタートアップによく遭遇するようになり、それについて考えたり、その一部を書こうとしたりすることに多くの時間を費やしたことはとても有益でした。
+驚いたことに、この作業に費やした時間は無駄にはなりませんでした。Y Combinatorを始めてからは、この新しいアーキテクチャの一部に取り組んでいるスタートアップによく遭遇するようになったので、それについて考えたり、その一部を書こうとしたりすることに多くの時間を費やしたことはとても有益でした。
 
 
 The subset I would build as an open source project was the new Lisp, whose parentheses I now wouldn't even have to hide. A lot of Lisp hackers dream of building a new Lisp, partly because one of the distinctive features of the language is that it has dialects, and partly, I think, because we have in our minds a Platonic form of Lisp that all existing dialects fall short of. I certainly did. So at the end of the summer Dan and I switched to working on this new dialect of Lisp, which I called Arc, in a house I bought in Cambridge.
 
-私がオープンソースプロジェクトとして構築したサブセットは新しいLispで、その括弧を隠す必要もありませんでした。多くのLispハッカーが新しいLispを作ることを夢見ていますが、その理由の一つには、この言語の特徴の一つに方言があるということがありますし、また、既存の方言が全て足りないプラトニックなLispの形が頭の中にあるからだと思います。私は確かにそうでした。夏の終わりに、ダンと私はケンブリッジに買った家で新しいLispの方言を作ることに切り替えました。
+私がオープンソースプロジェクトとして構築したサブセットは新しいLispで、もう括弧を隠す必要もありませんでした。多くのLispハッカーが新しいLispを作ることを夢見ていますが、その理由の一つには、この言語の特徴として方言があるということがありますし、また、私たちはみな、既存の方言が達していないような、プラトニックな形のLispというものを頭の中に持っているからだと思います。少なくとも私は持っていました。夏の終わりに、ダンと私は、私がケンブリッジに買った家で、この新しいLispの方言（Arcという名前にしました）を作ることに切り替えました。
 
 
 The following spring, lightning struck. I was invited to give a talk at a Lisp conference, so I gave one about how we'd used Lisp at Viaweb. Afterward I put a postscript file of this talk online, on paulgraham.com, which I'd created years before using Viaweb but had never used for anything. In one day it got 30,000 page views. What on earth had happened? The referring urls showed that someone had posted it on Slashdot. [10]
 
-翌年の春、雷が落ちました。Lispのカンファレンスに呼ばれたので、ViawebでのLispの使い方について話しました。その後、私はこの講演の追記ファイルを paulgraham.com にオンラインで公開しました。一日で30,000ページビューを記録した。一体何が起こったのでしょうか? 参照元のURLは誰かがSlashdotに投稿したことを示していた。[10]
+翌年の春、衝撃的なことがありました。私はLispのカンファレンスに呼ばれ、ViawebでどのようにLispを使ったかについて話しました。その後、私はこの講演のPostScriptファイルを paulgraham.com にオンラインで公開しました。このサイトを作ったのはViawebを使い始める数年前でしたが、特に何にも使っていませんでした。そのファイルは一日で30,000ページビューを記録しました。一体何が起こったのでしょうか? 参照元のURLを見ると、誰かがそれをSlashdotに投稿したようでした。[10]
 
 
 Wow, I thought, there's an audience. If I write something and put it on the web, anyone can read it. That may seem obvious now, but it was surprising then. In the print era there was a narrow channel to readers, guarded by fierce monsters known as editors. The only way to get an audience for anything you wrote was to get it published as a book, or in a newspaper or magazine. Now anyone could publish anything.
 
-うわー、観客がいるんだなーと思いました。何かを書いてウェブに載せれば、誰でも読める。今では当たり前のように思えるかもしれないが、当時は意外だった。活字の時代には、編集者と呼ばれる凶暴なモンスターに守られた、読者への狭いチャンネルがあったのです。あなたが書いたものに読者を得る唯一の方法は、本として出版されるか、新聞や雑誌に掲載されることでした。今では誰でも何でも出版できるようになった。
+うわー、読者がいるんだなーと思いました。何かを書いてウェブに載せれば、誰でも読める。今では当たり前のように思えるかもしれませんが、当時は意外だったのです。活字時代には、読者に届けるには狭い道しかなく、それは編集者と呼ばれる凶暴なモンスターに守られていました。何か書いたものに読者を獲得する唯一の方法は、本として出版されるか、新聞や雑誌に掲載されることでした。今では、誰でもどんなものでも公開できるのです。
 
 
 This had been possible in principle since 1993, but not many people had realized it yet. I had been intimately involved with building the infrastructure of the web for most of that time, and a writer as well, and it had taken me 8 years to realize it. Even then it took me several years to understand the implications. It meant there would be a whole new generation of essays. [11]
 
-これは1993年から原理的には可能になっていましたが、まだ多くの人がそれに気づいていませんでした。私はその間のほとんどの期間、ウェブのインフラ構築に親身になって携わり、ライターとしても活動していましたが、それを実現するのに8年もかかっていました。その時でさえ、その意味を理解するのに数年かかりました。それは、まったく新しい世代のエッセイが生まれることを意味していました。[11]
+これは1993年から原理的には可能になっていましたが、まだ多くの人がそれに気づいていませんでした。私はその間のほとんどの期間、ウェブのインフラ構築に深く携わり、ライターとしても活動していましたが、そのことに気がつくのに8年もかかっていました。気づいた後も、そのことの意味を理解するのにはさらに数年かかりました。それは、まったく新しい世代のエッセイが生まれることを意味していました。[11]
 
 
 In the print era, the channel for publishing essays had been vanishingly small. Except for a few officially anointed thinkers who went to the right parties in New York, the only people allowed to publish essays were specialists writing about their specialties. There were so many essays that had never been written, because there had been no way to publish them. Now they could be, and I was going to write them. [12]
 
-活字時代には、エッセーを出版するチャネルはほとんどなくなっていた。ニューヨークの右派に行った一部の公認の思想家を除けば、エッセイの出版が許されていたのは、自分の専門分野について書いている専門家だけだった。出版する方法がなかったために、一度も書かれたことのないエッセイがたくさんありました。今では書けるようになり、私はそれを書こうとしていた。[12]
+活字時代には、エッセイを出版するルートはないに等しいものでした。ニューヨークの有名人が集まるパーティーに列席するような誰もが認める一部の思想家を除けば、エッセイの出版が許されていたのは、自分の専門分野について書いている専門家だけでした。公開する方法がなかったために書かれずに終わったエッセイが世の中にはたくさんあったのです。もう状況は変わりました。そして、私はエッセイを書くことにしました。[12]
 
 
 I've worked on several different things, but to the extent there was a turning point where I figured out what to work on, it was when I started publishing essays online. From then on I knew that whatever else I did, I'd always write essays too.
 
-今までいくつかの仕事をしてきましたが、何に取り組むかという転機があったのは、エッセイをネットで公開し始めた時でした。その時から、他に何をするにしても、必ずエッセイも書くと思っていました。
+今までいくつかの仕事をしてきましたが、何に取り組むかについてわかるようになる転機があったとしたら、それはエッセイをネットで公開し始めた時でした。その時から、他に何をするにしても、必ずエッセイも書くことにしました。
 
 
 I knew that online essays would be a marginal medium at first. Socially they'd seem more like rants posted by nutjobs on their GeoCities sites than the genteel and beautifully typeset compositions published in The New Yorker. But by this point I knew enough to find that encouraging instead of discouraging.
 
-オンラインエッセイは、最初は限界のあるメディアだと思っていました。社会的には、ニューヨーカー誌に掲載されるような上品で美しいタイプの文章よりも、ジオシティーズのサイトに投稿されたキチガイの暴言のように見えるだろう。しかし、この時点までに、私はそれが落胆するどころか励みになることを十分に知っていた。
+オンラインエッセイは、最初は取るに足りないメディアだと思われるだろうとわかっていました。社会的には、それはニューヨーカー誌に載っている上品で美しく活字に組まれた文章よりも、ジオシティーズのサイトに投稿される異常者のたわごとに近いものに見えたことでしょう。しかし、その頃には、私はそれが悪い兆候ではなく、良い兆候であると悟っていました。
 
 
 One of the most conspicuous patterns I've noticed in my life is how well it has worked, for me at least, to work on things that weren't prestigious. Still life has always been the least prestigious form of painting. Viaweb and Y Combinator both seemed lame when we started them. I still get the glassy eye from strangers when they ask what I'm writing, and I explain that it's an essay I'm going to publish on my web site. Even Lisp, though prestigious intellectually in something like the way Latin is, also seems about as hip.
 
-私の人生の中で最も顕著なパターンの一つは、少なくとも私にとっては、権威のないものに取り組むことがどれほどうまくいっていたかということです。静物は常に絵画の中で最も格式の低いものだった。ViawebもY Combinatorも、始めた頃はダサいと感じていました。今でも知らない人に何を書いているのかと聞かれると、ガラスのような目で見られてしまうので、自分のサイトで公開するエッセイだと説明しています。Lispでさえも、ラテン語のように知的には一流だが、ヒップな感じがする。
+私の人生の中で最も顕著なパターンの一つは、少なくとも私にとっては、権威のないものに取り組むことがどれほどうまくいっていたかということです。静物は常に絵画の中で最も格式の低いものでした。ViawebもY Combinatorも、始めた頃はダサいと感じていました。今でも、知らない人に何を書いているのかと聞かれ、自分のサイトで公開するエッセイだと説明すると、理解できないものを見るような目で見られます。Lispは、知的にはラテン語のように一流のものなのですが、これもヒップな感じがします。
 
 
 It's not that unprestigious types of work are good per se. But when you find yourself drawn to some kind of work despite its current lack of prestige, it's a sign both that there's something real to be discovered there, and that you have the right kind of motives. Impure motives are a big danger for the ambitious. If anything is going to lead you astray, it will be the desire to impress people. So while working on things that aren't prestigious doesn't guarantee you're on the right track, it at least guarantees you're not on the most common type of wrong one.
 
-無名の仕事が良いというわけではありません。しかし、現在は名声がないにもかかわらず、ある種の仕事に引き寄せられていることに気がついたとき、それはそこに発見されるべき本物の何かがあるということと、あなたが正しい種類の動機を持っているということの両方を示しているのです。不純な動機は野心家にとって大きな危険です。迷いを招くものがあるとすれば、それは人を感動させたいという欲求でしょう。だから、名門ではないことに取り組んでも、正しい道を歩んでいるという保証はないが、少なくとも、最も一般的なタイプの間違った道を歩んでいないことは保証されている。
+権威のない仕事に本質的な良さがあるというわけではありません。しかし、権威がない作業なのにあなたがそれに惹かれているとしたら、それは本物の何かがあるというしるしで、またあなたが正しい種類の動機を持っているというしるしでもあります。不純な動機は野心家にとって大きな危険です。人に道を踏み外させるようなものがあるとしたら、それは他人にいい格好をしたいという欲求です。つまり、権威がない仕事をしているということは、あなたが正しい道を歩んでいるということを保証するわけではありませんが、少なくとも、最も一般的なタイプの間違った道を歩んでいるわけではないということは保証してくれるのです。
 
 
 Over the next several years I wrote lots of essays about all kinds of different topics. O'Reilly reprinted a collection of them as a book, called Hackers & Painters after one of the essays in it. I also worked on spam filters, and did some more painting. I used to have dinners for a group of friends every thursday night, which taught me how to cook for groups. And I bought another building in Cambridge, a former candy factory (and later, twas said, porn studio), to use as an office.
 
-それから数年の間に、私はあらゆる種類の異なるトピックについてたくさんのエッセイを書きました。オライリーはその中のエッセイの一つにちなんで『ハッカーズ＆ペインターズ』という本を出版しました。スパムフィルターの仕事をしたり、絵を描いたりもしました。毎週木曜日の夜に友人グループのために食事をしていたので、グループ向けの料理の仕方を教えてもらいました。ケンブリッジにある元キャンディー工場（後にポルノスタジオとも言われています）のビルをオフィスとして使うために購入しました。
+それから数年の間に、私はあらゆる種類の異なるトピックについてたくさんのエッセイを書きました。オライリーはそれをまとめた本を出版してくれました。その本の名前は、その中のエッセイの一つから取った『ハッカーと画家』です。他にも、スパムフィルターの仕事をしたり、絵を描いたりもしました。毎週木曜日の夜に友人グループのために料理を作っていたので、大人数向けの料理の作り方を身につけました。ケンブリッジにある元キャンディー工場（後にポルノスタジオになったとか）のビルをオフィスとして使うために購入しました。
 
 
 One night in October 2003 there was a big party at my house. It was a clever idea of my friend Maria Daniels, who was one of the thursday diners. Three separate hosts would all invite their friends to one party. So for every guest, two thirds of the other guests would be people they didn't know but would probably like. One of the guests was someone I didn't know but would turn out to like a lot: a woman called Jessica Livingston. A couple days later I asked her out.
 
-2003年10月のある夜、私の家で大きなパーティーが開かれました。それは友人のマリア・ダニエルズが考え出したもので、木曜日の夕食の一人だった。3人の別々のホストが、それぞれの友人を1つのパーティーに招待するというものでした。それぞれのゲストに対して、他のゲストの3分の2は、彼らが知らないが、たぶん好きになりそうな人たちだった。そのうちの一人は私が知らない人だったが、ジェシカ・リビングストンという女性だった。数日後、私は彼女を誘った。
+2003年10月のある夜、私の家で大きなパーティーが開かれました。それは友人で木曜日の夕食会の参加者でもあるマリア・ダニエルズが考え出したものでした。3人の別々のホストが、それぞれの友人を1つのパーティーに招待するというものです。つまり、ゲストはみんな、他のゲストの3分の2を知らないものの、たぶん好きになれるかもしれないということです。ゲストの一人は、私が知らない人でしたが、後にとても好きになることになります。それがジェシカ・リビングストンという女性でした。数日後、私は彼女をデートに誘いました。
 
 
 Jessica was in charge of marketing at a Boston investment bank. This bank thought it understood startups, but over the next year, as she met friends of mine from the startup world, she was surprised how different reality was. And how colorful their stories were. So she decided to compile a book of interviews with startup founders.
 
-ジェシカはボストンの投資銀行でマーケティングを担当していた。この銀行はスタートアップを理解していると思っていたが、それからの1年間、彼女はスタートアップの世界で私の友人に会ううちに、現実の違いに驚いた。そして、彼らの話がどれほどカラフルなものであったかを知ることができました。そこで彼女は、スタートアップの創業者へのインタビューをまとめた本を出版することにしました。
+ジェシカはボストンの投資銀行でマーケティングを担当していました。この銀行はスタートアップを理解していると思っていたのですが、それからの1年間、彼女がスタートアップの世界で私の友人に会ううちに、現実がまったく違うことに驚くことになりました。また、彼らの話が波瀾万丈であることにも驚きました。そこで彼女は、スタートアップの創業者へのインタビューをまとめた本を出版することにしました。
 
 
 When the bank had financial problems and she had to fire half her staff, she started looking for a new job. In early 2005 she interviewed for a marketing job at a Boston VC firm. It took them weeks to make up their minds, and during this time I started telling her about all the things that needed to be fixed about venture capital. They should make a larger number of smaller investments instead of a handful of giant ones, they should be funding younger, more technical founders instead of MBAs, they should let the founders remain as CEO, and so on.
 
-銀行が経営難に陥り、従業員の半分を解雇しなければならなくなったとき、彼女は新しい仕事を探し始めました。2005年の初め、彼女はボストンのVC会社のマーケティングの仕事のために面接を受けました。それは彼らの心を決めるのに数週間かかり、その間に私はベンチャーキャピタルについて修正する必要があるすべてのことについて彼女に話し始めました。一握りの巨大な投資ではなく、より多くの小規模な投資を行うべきだとか、MBAではなく、より若くて技術的なファウンダーに資金を提供すべきだとか、ファウンダーをCEOとして残すべきだとか、そういったことだ。
+銀行が経営難に陥り、従業員の半分を解雇しなければならなくなったとき、彼女は新しい仕事を探し始めました。2005年の初め、彼女はボストンのVC会社のマーケティングの仕事のために面接を受けました。採用の決定までには数週間かかったので、その間に私はベンチャーキャピタルについて改善の必要があるすべてのことについて彼女に話し始めました。一握りの巨大な投資ではなく、より多くの小規模な投資を行うべきだとか、MBA持ちではなく、より若い技術畑の起業家に資金を提供すべきだとか、起業家をCEOとして残すべきだとか、そういったことです。
 
 
 One of my tricks for writing essays had always been to give talks. The prospect of having to stand up in front of a group of people and tell them something that wouldn't waste their time was a great spur to the imagination. When the Harvard Computer Society, the undergrad computer club, asked me to give a talk, I decided I would tell them how to start a startup. Maybe they'd be able to avoid the worst of the mistakes we'd made.
 
-私の小論文を書くコツの一つは、いつも講演をすることでした。人前に立って、時間を無駄にしないような話をしなければならないというのは、想像力を掻き立てられるものでした。ハーバード・コンピュータ・ソサエティーという学部のコンピュータ・クラブから講演を頼まれたとき、私はスタートアップの始め方を話すことにしました。多分 彼らは我々が犯した最悪の過ちを 避けることができるでしょう
+私がエッセイを書ためにいつも使っているコツの一つは、講演をすることです。人前に立って、時間を無駄にしないような話をしなければならないという状況は、想像力に大きなブーストをかけてくれます。ハーバード・コンピュータ・ソサエティーという学部のコンピュータ・クラブから講演を頼まれたとき、私はスタートアップの始め方を話すことにしました。そのことで、彼らは我々が犯した最悪の過ちを避けられるかもしれません。
 
 
 So I gave this talk, in the course of which I told them that the best sources of seed funding were successful startup founders, because then they'd be sources of advice too. Whereupon it seemed they were all looking expectantly at me. Horrified at the prospect of having my inbox flooded by business plans (if I'd only known), I blurted out "But not me!" and went on with the talk. But afterward it occurred to me that I should really stop procrastinating about angel investing. I'd been meaning to since Yahoo bought us, and now it was 7 years later and I still hadn't done one angel investment.
 
-そこで私はこの話をしました。その中で、シード資金の最高の供給源は成功したスタートアップの創業者であると話しました。そうすれば、彼らもアドバイスの源になるからです。私は、自分の受信箱にビジネスプランが殺到することにぞっとして、「でも、私は違う！」とつぶやいて話を続けた。しかし、その後、エンジェル投資を先延ばしにするのはやめようと思った。ヤフーに買収されてからずっとそうしようと思っていたのですが、7年経った今でもエンジェル投資は一度もしていませんでした。
+この話をする中で、シード資金の最高の供給源は成功したスタートアップの創業者であると話しました。そうすれば、アドバイスももらえるからです。そう話すと、学生たちはみんな期待するような目で私を見ているような気がしました。メールボックスにビジネスプランが殺到するかもしれないと思うとぞっとして、「でも、ぼくには聞かないでね！」ととっさに口走り、話を続けました。しかし、その後、エンジェル投資を先延ばしにするのはもうやめようと思いました。ヤフーに買収されてからずっとやろうと思っていたのですが、7年経った今でもエンジェル投資は一度もしていませんでした。
 
 
 Meanwhile I had been scheming with Robert and Trevor about projects we could work on together. I missed working with them, and it seemed like there had to be something we could collaborate on.
 
-その間、私はロバートとトレバーと一緒に仕事ができるプロジェクトを考えていました。彼らと一緒に仕事をするのが懐かしくて、何か協力できることがあるはずだと思っていたんだ。
+その間、私はロバートとトレバーと一緒に仕事ができるプロジェクトを考えていました。彼らとまた一緒に仕事をしたくて、何か協力できることがあるはずだと思っていました。
 
 
 As Jessica and I were walking home from dinner on March 11, at the corner of Garden and Walker streets, these three threads converged. Screw the VCs who were taking so long to make up their minds. We'd start our own investment firm and actually implement the ideas we'd been talking about. I'd fund it, and Jessica could quit her job and work for it, and we'd get Robert and Trevor as partners too. [13]
 
-3月11日、ジェシカと私はガーデン通りとウォーカー通りの角で夕食を食べた後、歩いて帰宅していた。決断に時間がかかっていたVCはもういい。自分たちの投資会社を立ち上げて、話していたアイデアを実際に実行しよう。私が出資して ジェシカは仕事を辞めて働く ロバートとトレバーも パートナーになる [13]
+3月11日、ジェシカと私がガーデン通りとウォーカー通りの角で夕食を食べ、歩いて帰宅していたとき、この三つの流れが一つになりました。決断に時間がかかるVCはもういい。自分たちの投資会社を立ち上げて、話していたアイデアを実際に実行しよう。私が出資して、ジェシカは仕事を辞めて働く。ロバートとトレバーにもパートナーになってもらう。[13]
 
 
 Once again, ignorance worked in our favor. We had no idea how to be angel investors, and in Boston in 2005 there were no Ron Conways to learn from. So we just made what seemed like the obvious choices, and some of the things we did turned out to be novel.
 
-またしても無知が我々に有利に働いた。エンジェル投資家になるにはどうしたらいいのか全く分からなかったし、2005年のボストンには見習うべきロン・コンウェイズもいなかった。だから、当たり前のように思える選択をしただけで、いくつかのことは斬新なものになった。
+またしても無知が我々に有利に働きました。エンジェル投資家になるにはどうしたらいいのか全く分からなかったし、2005年のボストンには見習うべきロン・コンウェイズもいませんでした。だから、当たり前のように思える選択をしただけで、いくつかのことは斬新なものになりました。
 
 
 There are multiple components to Y Combinator, and we didn't figure them all out at once. The part we got first was to be an angel firm. In those days, those two words didn't go together. There were VC firms, which were organized companies with people whose job it was to make investments, but they only did big, million dollar investments. And there were angels, who did smaller investments, but these were individuals who were usually focused on other things and made investments on the side. And neither of them helped founders enough in the beginning. We knew how helpless founders were in some respects, because we remembered how helpless we'd been. For example, one thing Julian had done for us that seemed to us like magic was to get us set up as a company. We were fine writing fairly difficult software, but actually getting incorporated, with bylaws and stock and all that stuff, how on earth did you do that? Our plan was not only to make seed investments, but to do for startups everything Julian had done for us.
 
-Yコンビネーターには複数の要素がありますが、一度に全てを把握したわけではありません。最初に手に入れたのは エンジェル会社になることだった 当時、この2つの言葉は一緒には使われていませんでした。VCファームは、投資を行うことを仕事としている人がいる組織的な会社でしたが、100万ドル規模の大規模な投資しかしていませんでした。また、小規模な投資を行うエンジェルもいましたが、通常は他のことに集中していて、副業として投資を行っていました。そして、どちらも最初の頃は創業者を十分に助けてくれませんでした。私たちは、自分たちがどれだけ無力だったかを思い出していたので、創業者がどれだけ無力であるかを知っていました。例えば、ジュリアンが私たちのためにしてくれたことの一つは、私たちが会社を設立することでした。かなり難しいソフトウェアを書くことは問題なかったのですが、実際に法人化して、細則や株式など、いろいろなものがあったのですが、一体どうやってそんなことができたのでしょうか？私たちの計画はシード投資だけではなく、ジュリアンが私たちのためにしてくれたことをすべてスタートアップのために行うことでした。
+Y Combinator（YC）には複数の要素がありますが、一度に全てを考え出したではありません。最初に手に入れたのは、エンジェル企業になることでした。当時、「エンジェル」と「企業」という2つの言葉は一緒には使われていませんでした。VC企業は、投資を行うことを仕事としている人がいる組織的な会社でしたが、100万ドル規模の大規模な投資しかしていませんでした。また、小規模な投資を行うエンジェルもいましたが、彼らは通常は他のことに集中していて、副業として投資を行っている個人でした。そして、どちらも始めたばかりの創業者を十分に助けてくれませんでした。私たちは、自分たちがどれだけ無力だったかを覚えていたので、創業者がどれだけ無力であるかを知っていました。例えば、ジュリアンが私たちのためにしてくれたことで、魔法のように思えたことのひとつは、私たちの会社を設立を助けてくれたことでした。私たちは、かなり難しいソフトウェアを書くことは問題なくできたのですが、実際に法人化して、細則や株式などの細々としたことを片付けるというのは、どうすればいいのか見当もつかなかったのです。私たちがやろうとしたのは、シード投資だけではなく、ジュリアンが私たちのためにしてくれたことをすべてスタートアップのためにしてあげるということでした。
 
 
 YC was not organized as a fund. It was cheap enough to run that we funded it with our own money. That went right by 99% of readers, but professional investors are thinking "Wow, that means they got all the returns." But once again, this was not due to any particular insight on our part. We didn't know how VC firms were organized. It never occurred to us to try to raise a fund, and if it had, we wouldn't have known where to start. [14]
 
-YCはファンドとして組織されていませんでした。自分たちのお金で資金を調達していたので、運営するのには十分に安かったのです。それは99％の読者には受け入れられましたが、プロの投資家は "うわー、それは彼らがすべてのリターンを得たことを意味する "と考えています。しかし、繰り返しになりますが、これは私たちが特別な洞察力を持っていたからではありません。私たちはVC会社がどのように組織されているかを知らなかった。資金調達をしようとは思いつかなかったし、もしそうだとしても、どこから手をつけたらいいのかわからなかっただろう。[14]
+YCはファンドとして組織されていませんでした。運営にかかるお金は十分に少なかったので、自分たちのお金で資金を調達したのです。99％の読者はここの部分を何気なく読み飛ばしたでしょうが、プロの投資家は「おー、つまりすべてのリターンを得られるってことか」と考えているはずです。しかし、繰り返しになりますが、これは私たちが特別な洞察力を持っていたからではありません。私たちはVC会社がどのように組織されているかを知らなかったのです。資金調達をしようとは思いつかなかったし、もししようととしても、どこから手をつけたらいいのかわからなかったでしょう。[14]
 
 
 The most distinctive thing about YC is the batch model: to fund a bunch of startups all at once, twice a year, and then to spend three months focusing intensively on trying to help them. That part we discovered by accident, not merely implicitly but explicitly due to our ignorance about investing. We needed to get experience as investors. What better way, we thought, than to fund a whole bunch of startups at once? We knew undergrads got temporary jobs at tech companies during the summer. Why not organize a summer program where they'd start startups instead? We wouldn't feel guilty for being in a sense fake investors, because they would in a similar sense be fake founders. So while we probably wouldn't make much money out of it, we'd at least get to practice being investors on them, and they for their part would probably have a more interesting summer than they would working at Microsoft.
 
-YCの最大の特徴は、年に2回、一度にたくさんのスタートアップに資金を提供し、その後3ヶ月間は集中的に彼らを支援することに専念するというバッチモデルである。この部分は、私たちが投資に対して無知だったために、暗黙のうちに発見したのではなく、明らかに発見したのです。投資家としての経験を積む必要があったのです。一度にたくさんのスタートアップ企業に資金を提供するよりも良い方法はないかと考えたのです。私たちは、学部生が夏の間にテック企業で臨時の仕事を得ていることを知っていました。そこで、彼らが代わりにスタートアップを立ち上げるサマープログラムを企画してはどうだろうか。私たちは、ある意味では偽の投資家であることに罪悪感を感じないでしょうし、彼らも同じような意味で偽の創業者であるからです。だから、私たちは大金は稼げないかもしれませんが、少なくとも投資家としての練習はできますし、彼らにとってはマイクロソフトで働くよりも面白い夏を過ごすことができるでしょう。
+YCの最大の特徴は、年に2回、一度にたくさんのスタートアップに資金を提供し、その後3ヶ月間は集中的に彼らを支援することに専念するというバッチモデルです。この部分は、私たちが投資に対して無知だったためにたまたま発見したのですが、それも無意識というより意識的なものでした。私たちは投資家としての経験を積む必要がありました。一度にたくさんのスタートアップ企業に資金を提供するよりも良い方法はないかと考えたのです。私たちは、学部生が夏の間にテック企業で臨時の仕事を得ていることを知っていました。じゃあ、彼らがその代わりにスタートアップを立ち上げるサマープログラムを企画するというのはどうだろう。これなら、ある意味ででっち上げの投資家であることに罪悪感を感じないでしょう。彼らも同じような意味ででっち上げの創業者なのですから。こうすると、大金は稼げないかもしれませんが、私たちは少なくとも投資家としての練習ができますし、彼らにとってもマイクロソフトで働くよりも面白い夏を過ごすことができるでしょう。
 
 
 We'd use the building I owned in Cambridge as our headquarters. We'd all have dinner there once a week — on tuesdays, since I was already cooking for the thursday diners on thursdays — and after dinner we'd bring in experts on startups to give talks.
 
-ケンブリッジにある私が所有していたビルを本社として使うことにしました。週に一度、火曜にみんなでそこで夕食をとり、夕食後にはスタートアップの専門家を呼んで講演をしてもらいました。
+私たちはケンブリッジにある私が所有していたビルを本社として使うことにしました。週に一度、火曜に（木曜には木曜ディナーをしていたので）みんなでそこで夕食をとり、夕食後にはスタートアップの専門家を呼んで講演をしてもらいました。
 
 
 We knew undergrads were deciding then about summer jobs, so in a matter of days we cooked up something we called the Summer Founders Program, and I posted an announcement on my site, inviting undergrads to apply. I had never imagined that writing essays would be a way to get "deal flow," as investors call it, but it turned out to be the perfect source. [15] We got 225 applications for the Summer Founders Program, and we were surprised to find that a lot of them were from people who'd already graduated, or were about to that spring. Already this SFP thing was starting to feel more serious than we'd intended.
 
-その頃、学部生が夏の仕事を決めていることを知っていたので、数日のうちにサマーファウンダープログラムと呼ばれるものを作り、私のサイトに学部生の応募を募る告知を掲載しました。エッセイを書くことが、投資家が言うところの「ディールフロー」を得る手段になるとは想像もしていませんでしたが、これは完璧な情報源になることがわかりました[15]。15] サマーファウンダーズプログラムには225人の応募がありましたが、その多くがすでに卒業した人や、その春に卒業しようとしている人たちからの応募だったのには驚きました。すでにこのSFPのことは、私たちが意図していたよりも深刻に感じ始めていました。
+学部生がその時期に夏の仕事を決めているということを私たちは知っていたので、数日のうちにサマー・ファウンダー・プログラム（夏季起業プログラム、SFP）という名前の何かをでっち上げ、私のサイトに学部生の応募を募る告知を掲載しました。エッセイを書くことが投資家が言うところの「ディールフロー」を得る手段になるとは想像もしていませんでしたが、それが完璧なフロー源になることがわかりました[15]。サマー・ファウンダー・プログラムには225人の応募がありましたが、その多くがすでに卒業した人や、その春に卒業しようとしている人たちからの応募だったのには驚きました。すでにこのSFPというものは、私たちが意図していたよりも真剣なものになってきていました。
 
 
 We invited about 20 of the 225 groups to interview in person, and from those we picked 8 to fund. They were an impressive group. That first batch included reddit, Justin Kan and Emmett Shear, who went on to found Twitch, Aaron Swartz, who had already helped write the RSS spec and would a few years later become a martyr for open access, and Sam Altman, who would later become the second president of YC. I don't think it was entirely luck that the first batch was so good. You had to be pretty bold to sign up for a weird thing like the Summer Founders Program instead of a summer job at a legit place like Microsoft or Goldman Sachs.
 
-私たちは225のグループのうち約20のグループに直接インタビューをしてもらい、その中から8つのグループを選んで資金を提供しました。彼らは印象的なグループでした。その最初のグループには、reddit、Twitchを設立したJustin KanとEmmett Shear、RSS仕様の執筆を手伝っていて、数年後にオープンアクセスの殉教者となったAaron Swartz、そして後にYCの2代目社長となるSam Altmanが含まれていました。最初のバッチがこれほど優れていたのは、完全に運が良かったというわけではないと思います。マイクロソフトやゴールドマン・サックスのような正当な場所での夏の仕事ではなく、サマー・ファウンダーズ・プログラムのような奇妙なものに申し込むには、かなり大胆でなければなりませんでした。
+私たちは225のグループのうち約20のグループに個人面接を受けてもらい、その中から8つのグループを選んで資金を提供しました。彼らはすごいグループでした。第一期にはredditや、Twitchを設立したジャスティン・カンとエメット・シアー、当時すでにRSS仕様の執筆を手伝ってくれていて数年後にオープンアクセスの殉教者となったアーロン・スワーツ、そして後にYCの2代目社長となるサム・アルトマンが含まれていました。第一期がこれほど優れていたのは、完全に運が良かったというわけではないと思います。マイクロソフトやゴールドマン・サックスのようなちゃんとした場所での夏の仕事ではなく、サマー・ファウンダーズ・プログラムのような奇妙なものに申し込むには、かなり大胆である必要があったでしょうから。
 
 
 The deal for startups was based on a combination of the deal we did with Julian ($10k for 10%) and what Robert said MIT grad students got for the summer ($6k). We invested $6k per founder, which in the typical two-founder case was $12k, in return for 6%. That had to be fair, because it was twice as good as the deal we ourselves had taken. Plus that first summer, which was really hot, Jessica brought the founders free air conditioners. [16]
 
-スタートアップのための契約は、ジュリアンとの契約（10％で10,000ドル）と、ロバートが言っていたMITの大学院生が夏の間に得たもの（6,000ドル）の組み合わせに基づいていました。私たちは創業者1人につき6,000ドルを投資しましたが、典型的な2人の創業者の場合は12,000ドルで、その見返りとして6%を投資しました。これは公平でなければなりませんでしたが、それは私たち自身が取った取引の2倍の利益だったからです。さらに、最初の夏は本当に暑かったので、ジェシカは創業者に無料のエアコンを持ってきました。[16]
+スタートアップのための契約は、ジュリアンとの契約（10％で10,000ドル）と、ロバートの言うところのMITの大学院生が夏の間に稼ぐ金額（6,000ドル）の組み合わせで決めました。創業者1人につき6,000ドルの投資、つまりよくある2人創業者の場合は12,000ドルで、見返りは6%です。これはフェアなものだったはずです。私たち自身が得た契約より2倍もいい契約なのですから。さらに、最初の夏は本当に暑かったので、ジェシカは創業者に無料のエアコンを持ってきました。[16]
 
 
 Fairly quickly I realized that we had stumbled upon the way to scale startup funding. Funding startups in batches was more convenient for us, because it meant we could do things for a lot of startups at once, but being part of a batch was better for the startups too. It solved one of the biggest problems faced by founders: the isolation. Now you not only had colleagues, but colleagues who understood the problems you were facing and could tell you how they were solving them.
 
-スタートアップの資金調達の規模を拡大する方法につまずいたことがすぐに分かりました。一括でスタートアップに資金を提供することは、多くのスタートアップに一度に対応できるという意味で、私たちにとってはより便利でしたが、バッチの一部であることはスタートアップにとっても良いことでした。これにより、創業者が直面する最大の問題の一つである孤立感が解消されました。今、あなたは同僚だけでなく、あなたが直面している問題を理解し、どのように問題を解決しているのかを教えてくれる同僚を得ることができました。
+かなり早い段階で、スタートアップ支援の規模を拡大する方法を偶然見つけていたことが分かりました。一括でスタートアップに資金を提供することは、多くのスタートアップに一度に対応できるという意味で、私たちにとって便利なことでしたが、同期グループの一部であることはスタートアップにとっても良いことでした。これにより、創業者が直面する最大の問題の一つである孤立感が解消されます。スタートアップにとっては、ただ創業者仲間がいるというだけでなく、あなたが直面している問題を理解し、どのようにその問題を解決しているのかを教えてくれる創業者仲間ができることになります。
 
 
 As YC grew, we started to notice other advantages of scale. The alumni became a tight community, dedicated to helping one another, and especially the current batch, whose shoes they remembered being in. We also noticed that the startups were becoming one another's customers. We used to refer jokingly to the "YC GDP," but as YC grows this becomes less and less of a joke. Now lots of startups get their initial set of customers almost entirely from among their batchmates.
 
-YCが成長するにつれ、私たちは規模の大きさの他の利点に気付き始めました。卒業生は互いに助け合うことに専念しており、緊密なコミュニティになっていました。また、スタートアップ企業がお互いの顧客になりつつあることにも気付きました。以前は冗談で「YCのGDP」と呼んでいましたが、YCが成長するにつれ、これは冗談ではなくなってきています。今では、多くのスタートアップ企業が最初の顧客をほぼすべてバッチメイトの中から獲得しています。
+YCが成長するにつれ、私たちは規模の大きさの他の利点に気付き始めました。卒業生、特に同じ立場にあった同期の卒業生同士は、互いに助け合う緊密なコミュニティになっていました。また、スタートアップ企業がお互いの顧客になりつつあることにも気付きました。以前は冗談で「YCのGDP」と呼んでいましたが、YCが成長するにつれ、これは冗談ではなくなってきています。今では、多くのスタートアップ企業が最初の顧客をほぼすべて同期の中から獲得しています。
 
 
 I had not originally intended YC to be a full-time job. I was going to do three things: hack, write essays, and work on YC. As YC grew, and I grew more excited about it, it started to take up a lot more than a third of my attention. But for the first few years I was still able to work on other things.
@@ -595,137 +595,137 @@ I had not originally intended YC to be a full-time job. I was going to do three 
 
 In the summer of 2006, Robert and I started working on a new version of Arc. This one was reasonably fast, because it was compiled into Scheme. To test this new Arc, I wrote Hacker News in it. It was originally meant to be a news aggregator for startup founders and was called Startup News, but after a few months I got tired of reading about nothing but startups. Plus it wasn't startup founders we wanted to reach. It was future startup founders. So I changed the name to Hacker News and the topic to whatever engaged one's intellectual curiosity.
 
-2006年の夏、ロバートと私は新しいバージョンのArcに取り組み始めました。これはSchemeにコンパイルされていたので、かなり高速に動作しました。この新しいArcをテストするために、私はHacker Newsを書いてみました。元々はスタートアップ創業者のためのニュースアグリゲータで、 Startup Newsという名前だったのですが、数ヶ月後にはスタートアップ以外のニュースを読むのに飽きてしまいました。しかも、私たちがリーチしたいのはスタートアップファウンダーではありませんでした。それは未来のスタートアップの創業者たちでした。そこで私は名前をハッカーニュースに変え、トピックを知的好奇心を刺激するものに変えました。
+2006年の夏、ロバートと私は新しいバージョンのArcに取り組み始めました。これはSchemeにコンパイルされていたので、かなり高速に動作しました。この新しいArcをテストするために、私はHacker Newsを書いてみました。元々はスタートアップ創業者のためのニュースアグリゲータで、 Startup Newsという名前だったのですが、数ヶ月後にはスタートアップのニュースだけを読むのに飽きてしまいました。また、私たちがリーチしたいのはスタートアップ創業者ではなく、未来のスタートアップ創業者たちでした。そこで私は名前をハッカーニュース（HN）に変え、トピックも知的好奇心を刺激するものなら何でもいいということにしました。
 
 
 HN was no doubt good for YC, but it was also by far the biggest source of stress for me. If all I'd had to do was select and help founders, life would have been so easy. And that implies that HN was a mistake. Surely the biggest source of stress in one's work should at least be something close to the core of the work. Whereas I was like someone who was in pain while running a marathon not from the exertion of running, but because I had a blister from an ill-fitting shoe. When I was dealing with some urgent problem during YC, there was about a 60% chance it had to do with HN, and a 40% chance it had do with everything else combined. [17]
 
-HNはYCにとっては間違いなく良いものでしたが、私にとっては圧倒的に最大のストレス源でもありました。もしも、私がしなければならなかったことが創業者の選定と支援だけだったら、人生はとても楽だったでしょう。そして、それはHNが間違いだったということを暗示しています。確かに、仕事における最大のストレス源は、少なくとも仕事の核心に近いものであるべきです。私がマラソンを走っているときに痛みを感じていたのは、走っているときの労苦からではなく、靴のサイズが合わずに水ぶくれができていたからだという人のようなものです。YC中に緊急の問題に対処していたとき、約60％の確率でHNと関係があり、40％の確率で他のすべてを合わせても関係があった。[17]
+HNはYCにとっては間違いなく良いものでしたが、私にとっては圧倒的に最大のストレス源でもありました。もしも、私がしなければならなかったことが創業者の選定と支援だけだったら、人生はとても楽だったでしょう。そう考えると、HNは間違いだったということになります。仕事における最大のストレス源は、少なくとも仕事の核心に近いものであるべきです。当時の私は、例えて言えば、マラソンを走っているときに、走ることそのものよりも、靴のサイズが合わずに水ぶくれができていることによって苦しんでいる人のようなものでした。YC中に緊急の問題に対処していたとき、それは約60％の確率でHN関係のもので、HN関係以外のことは全部合わせても40%でした。[17]
 
 
 As well as HN, I wrote all of YC's internal software in Arc. But while I continued to work a good deal in Arc, I gradually stopped working on Arc, partly because I didn't have time to, and partly because it was a lot less attractive to mess around with the language now that we had all this infrastructure depending on it. So now my three projects were reduced to two: writing essays and working on YC.
 
-HN と同様に、私は YC の内部ソフトウェアをすべて Arc で書いていました。しかし、Arc でそれなりの作業を続けていたのですが、時間がなかったこともあり、また、これだけのインフラがあるのにいじっていては言語をいじることに魅力を感じなくなってしまったこともあり、Arc での作業はだんだんとやめてしまいました。そのため、私の3つのプロジェクトは、エッセイを書くこととYCに取り組むことの2つに絞られてしまいました。
+HNと同様に、私はYCの内部ソフトウェアをすべてArcで書いていました。しかし、Arcでの作業はかなりの量を続けていたものの、Arcそのものに手を加えることはだんだん控えるようになりました。時間がなかったということもあり、また、これだけのインフラがすべて依存している言語をいじることに魅力を感じなくなってしまったということもありました。そういうわけで、私の3つのプロジェクトは、エッセイを書くこととYCに取り組むことの2つに絞られてしまいました。
 
 
 YC was different from other kinds of work I've done. Instead of deciding for myself what to work on, the problems came to me. Every 6 months there was a new batch of startups, and their problems, whatever they were, became our problems. It was very engaging work, because their problems were quite varied, and the good founders were very effective. If you were trying to learn the most you could about startups in the shortest possible time, you couldn't have picked a better way to do it.
 
-YCは、これまでやってきた他の仕事とは違いました。何をやるかを自分で決めるのではなく、問題が自分に降りかかってきた。半年ごとに新しいスタートアップが出てきて、彼らの問題が何であれ、私たちの問題になりました。彼らの問題は非常に多様で、優秀なファウンダーは非常に効果的だったので、非常に魅力的な仕事でした。可能な限り短い時間でスタートアップについてできる限りのことを学ぼうとしていたのであれば、これ以上の方法はありませんでした。
+YCは、これまでやってきた他の仕事とは違いました。何をやるかを自分で決めるのではなく、問題のほうからこちらに降りかかってきました。半年ごとにスタートアップの新入生が現れ、彼らの問題が何であれ、それは私たちの問題になりました。彼らの問題は非常に多様で、優秀な創業者たちは非常に有能だったので、非常に魅力的な仕事でした。可能な限り短い時間でスタートアップについてできる限りのことを学ぼうとしていたのであれば、これ以上の方法はありませんでした。
 
 
 There were parts of the job I didn't like. Disputes between cofounders, figuring out when people were lying to us, fighting with people who maltreated the startups, and so on. But I worked hard even at the parts I didn't like. I was haunted by something Kevin Hale once said about companies: "No one works harder than the boss." He meant it both descriptively and prescriptively, and it was the second part that scared me. I wanted YC to be good, so if how hard I worked set the upper bound on how hard everyone else worked, I'd better work very hard.
 
-この仕事には好きではない部分もありました。コファウンダー同士の喧嘩、嘘をついている人の見破り、スタートアップを荒らした人との喧嘩などなど。でも、嫌なことでも頑張りました。かつてケビン・ヘイルが企業について言っていた言葉が心に残っています。"ボスよりも一生懸命働く人はいない "と。彼はそれを描写的にも規定的にも意味していて、私を怖がらせたのは2番目の部分でした。私はYCを良くしたいと思っていたので、自分の頑張りが他の人の頑張りの上限を決めるのであれば、自分も頑張らないといけないと思っていました。
+この仕事には好きではない部分もありました。創業仲間同士の喧嘩、嘘を見抜くこと、スタートアップを荒らした人との喧嘩などなど。でも、嫌なことでも頑張りました。かつてケビン・ヘイルが企業について言っていた、「ボスよりも一生懸命働く人はいない」という言葉が脳裏から離れませんでした。彼はこの言葉を「ボスは誰よりも一生懸命働いている」と「ボスは誰よりも一生懸命働くべきだ」という両方の意味で使っていて、私が恐れたのは後者でした。私はYCを良くしたいと思っていたので、自分の頑張りが他の人の頑張りの上限になるのであれば、自分が頑張らないといけないと思っていました。
 
 
 One day in 2010, when he was visiting California for interviews, Robert Morris did something astonishing: he offered me unsolicited advice. I can only remember him doing that once before. One day at Viaweb, when I was bent over double from a kidney stone, he suggested that it would be a good idea for him to take me to the hospital. That was what it took for Rtm to offer unsolicited advice. So I remember his exact words very clearly. "You know," he said, "you should make sure Y Combinator isn't the last cool thing you do."
 
-2010年のある日、彼がインタビューのためにカリフォルニアを訪れていたとき、ロバート・モリスは驚くべきことをしました。彼がそんなことをしたのは、それまでに一度だけしか覚えていない。ある日、Viawebで、私が腎臓結石で二重に屈んでいたとき、彼は私を病院に連れて行ったほうがいいと提案したのです。それが、Rtmが勝手なアドバイスをするために必要なことだったのです。だから、彼の正確な言葉をはっきりと覚えています。"Y Combinatorが最後のクールな事ではない事を 確認した方がいい "と言った
+2010年のある日、ロバート・モリスがインタビューのためにカリフォルニアを訪れていたとき、驚くべき行動に出ました。求められてもいないのに、私にアドバイスをしたのです。私が覚えている限りでは、彼がそんなことをしたのは、それまでに一度だけです。ある日、Viawebで、私が腎臓結石で床に屈んでいたとき、彼が私を見て、病院に連れて行ってやろうかと提案してくれたのです。Rtmが求められていないアドバイスをするには、それだけの事態が必要だったのです。そういうわけで、そのときの彼の正確な言葉をはっきりと覚えています。「なあ、クールなことをしたのはY Combinatorが最後だった、ということにならないように気をつけたほうがいいんじゃないか」。
 
 
 At the time I didn't understand what he meant, but gradually it dawned on me that he was saying I should quit. This seemed strange advice, because YC was doing great. But if there was one thing rarer than Rtm offering advice, it was Rtm being wrong. So this set me thinking. It was true that on my current trajectory, YC would be the last thing I did, because it was only taking up more of my attention. It had already eaten Arc, and was in the process of eating essays too. Either YC was my life's work or I'd have to leave eventually. And it wasn't, so I would.
 
-その時は何を言っているのか理解できませんでしたが、次第に彼が言っているのは辞めろと言っているのだと理解できました。YCは絶好調だったので、変なアドバイスだと思いました。しかし、ＲＴＭのアドバイスよりも珍しいことがあるとすれば、ＲＴＭが間違っているということです。そこで考えてみたんだ。確かに、今の私の軌道では、YCは私の注意力を奪うだけだったから、最後にすることになるだろう。YCはすでにArcを食べてしまっていて、エッセイも食べようとしていた。YCが私のライフワークであるか、いずれは辞めなければならないかのどちらかだった。そうではなかったから、私はそうする。
+その時は彼がそれをどういうつもりで言ったのか理解できませんでしたが、次第に、それは辞めたほうがいいという意味だとわかってきました。変なアドバイスだと思いました。YCは絶好調だったのですから。しかし、Rtmが間違っているなんて、Rtmがアドバイスをすることよりももっとありそうもないことです。そこで考えてみました。確かに、今の私の路線のままで行くと、私がやった最後のことはYCだったということになるでしょう。というのは、YCは私の関心のほとんどを占めていたからです。YCはすでにArcを押しのけていて、エッセイも押しのけつつありました。YCが私のライフワークでないのであれば、いつかは辞めなければなりません。そして、YCは私のライフワークではありませんでした。つまり、いつかは辞めるということです。
 
 
 In the summer of 2012 my mother had a stroke, and the cause turned out to be a blood clot caused by colon cancer. The stroke destroyed her balance, and she was put in a nursing home, but she really wanted to get out of it and back to her house, and my sister and I were determined to help her do it. I used to fly up to Oregon to visit her regularly, and I had a lot of time to think on those flights. On one of them I realized I was ready to hand YC over to someone else.
 
-2012年の夏、母は脳梗塞で倒れ、原因は大腸がんによる血栓と判明しました。脳卒中でバランスを崩してしまい、老人ホームに入れられてしまいましたが、母はどうしても退院して家に帰りたいと言っていたので、姉と私はその手助けをしたいと思っていました。私は定期的にオレゴン州まで飛行機で彼女を訪ねていましたが、飛行機の中では考える時間がたくさんありました。そのうちの1回、私はYCを他の人に譲る準備ができていることに気がつきました。
+2012年の夏、母は脳梗塞で倒れ、原因は大腸がんによる血栓と判明しました。脳卒中でバランスを崩してしまい、老人ホームに入れられてしまいましたが、母はどうしても退院して家に帰りたいと言っていたので、姉と私はその手助けをしたいと思っていました。私は定期的にオレゴン州まで飛行機で彼女を訪ねていましたが、飛行機の中では考える時間がたくさんありました。そのうちの中の1回で、私はYCを他の人に譲る準備ができていることに気がつきました。
 
 
 I asked Jessica if she wanted to be president, but she didn't, so we decided we'd try to recruit Sam Altman. We talked to Robert and Trevor and we agreed to make it a complete changing of the guard. Up till that point YC had been controlled by the original LLC we four had started. But we wanted YC to last for a long time, and to do that it couldn't be controlled by the founders. So if Sam said yes, we'd let him reorganize YC. Robert and I would retire, and Jessica and Trevor would become ordinary partners.
 
-私はジェシカに社長になりたいかどうか尋ねましたが、彼女はそうではなかったので、サム・アルトマンを採用することにしました。ロバートとトレバーと話し合って、完全な衛兵交代をすることに合意しました。それまでYCは、私たち4人が始めた元々のLLCに支配されていましたが、私たちはYCを長く存続させたかったのです。しかし、私たちはYCを長く存続させたいと考えていましたが、そのためには創業者が管理することはできませんでした。だからサムがイエスと言ったら、YCの再編成を彼に任せることにしたのです。ロバートと私は引退し、ジェシカとトレバーは普通のパートナーになる。
+私はジェシカに社長になりたいかどうか尋ねましたが、彼女は断ったので、サム・アルトマンに声をかけてみることにしました。ロバートとトレバーと話し合って、完全な政権交代をすることに合意しました。それまでYCは、私たち4人が始めた元々の有限責任会社に支配されていました。しかし、私たちはYCを長く存続させたいと考えていたので、そのためには創業者が管理し続けるわけにはいきませんでした。だから、サムがイエスと言ったら、YCの再編成を彼に任せることにしたのです。ロバートと私は引退し、ジェシカとトレバーは普通のパートナーになることになります。
 
 
 When we asked Sam if he wanted to be president of YC, initially he said no. He wanted to start a startup to make nuclear reactors. But I kept at it, and in October 2013 he finally agreed. We decided he'd take over starting with the winter 2014 batch. For the rest of 2013 I left running YC more and more to Sam, partly so he could learn the job, and partly because I was focused on my mother, whose cancer had returned.
 
-サムにYCの社長になりたいかどうか尋ねた時、最初はノーと言っていました。彼は原子炉を作るために起業したいと言っていました。しかし、私はそれを続け、2013年10月に彼は最終的に同意しました。私たちは、2014年冬のバッチから彼が引き継ぐことを決めました。2013年の残りの期間、私はYCの運営をどんどんサムに任せていましたが、これはサムが仕事を覚えられるようにするためと、癌が再発した母のことを考えていたからです。
+サムにYCの社長になりたいかどうか尋ねた時、最初はノーと言っていました。彼は原子炉を作るために起業したいと言っていました。しかし、私は勧誘を続け、2013年10月に彼は最終的に同意しました。私たちは、2014年冬期から彼が引き継ぐことを決めました。2013年の残りの期間、私はYCの運営を徐々にサムに任せていっていましたが、これはサムが仕事を覚えられるようにするためと、癌が再発した母のことを考えていたからです。
 
 
 She died on January 15, 2014. We knew this was coming, but it was still hard when it did.
 
-母は2014年1月15日に亡くなりました。私たちはこれが来ることを知っていましたが、それが起こったとき、それはまだ辛かったです。
+母は2014年1月15日に亡くなりました。いずれこうなることはわかっていましたが、それでもつらいことでした。
 
 
 I kept working on YC till March, to help get that batch of startups through Demo Day, then I checked out pretty completely. (I still talk to alumni and to new startups working on things I'm interested in, but that only takes a few hours a week.)
 
-私は3月までYCで働き続け、デモデイを経てスタートアップのそのバッチを取得するのを支援し、その後、私はかなり完全にチェックアウトしました。その後は完全にチェックアウトしました（今でも卒業生や興味のあることに取り組んでいる新しいスタートアップには話をしていますが、それは週に数時間しかかかりません）。
+私は3月までYCで働き続け、その期のスタートアップがデモデイを乗り切るのを支援し、その後、私はほぼ完全に身を引きました。（今でも卒業生や、私の興味のあることに取り組んでいる新しいスタートアップとは話をしていますが、それは週に数時間だけです）。
 
 
 What should I do next? Rtm's advice hadn't included anything about that. I wanted to do something completely different, so I decided I'd paint. I wanted to see how good I could get if I really focused on it. So the day after I stopped working on YC, I started painting. I was rusty and it took a while to get back into shape, but it was at least completely engaging. [18]
 
-次は何をすればいいんだろう？Rtmのアドバイスには、そのようなことは何も書かれていませんでした。全く違うことをしたいと思っていたので、絵を描くことにしました。本気でやったらどれだけ上手くなるか見てみたかったんです。それでYCをやめた翌日から絵を描き始めました。私は錆びていたし、形を取り戻すのに時間がかかったが、少なくとも完全に夢中になった。[18]
+さて、次は何をすればいいのでしょうか？Rtmのアドバイスには、そのようなことは何も含まれていませんでした。私は全く違うことをしたいと思っていたので、絵を描くことにしました。本気でやったらどれだけ上手くなるか見てみたかったのです。それで、YCをやめた翌日から絵を描き始めました。私の腕は錆びついていたし、またさまになるようになるには時間がかかりましたが、少なくとも完全に集中していました。[18]
 
 
 I spent most of the rest of 2014 painting. I'd never been able to work so uninterruptedly before, and I got to be better than I had been. Not good enough, but better. Then in November, right in the middle of a painting, I ran out of steam. Up till that point I'd always been curious to see how the painting I was working on would turn out, but suddenly finishing this one seemed like a chore. So I stopped working on it and cleaned my brushes and haven't painted since. So far anyway.
 
-2014年の残りの時間のほとんどを絵を描くことに費やしました。こんなに途切れることなく仕事ができるようになったのは初めてでしたが、私はそれまでの私よりも上手になることができました。十分ではないが、より良い。そして11月、絵を描いている最中に、私は蒸気を使い果たしました。それまでは自分が描いている絵がどんな風になるのか気になっていたのですが、この絵を仕上げるのが急に面倒に思えてきたんです。だから、それをやめて筆をきれいにして、それ以来描いていません。今のところは。
+2014年の残りの時間のほとんどを絵を描くことに費やしました。こんなに途切れることなく作業ができるようになったのは初めてで、昔よりも上手になることができました。十分とは言えませんが、うまくはなったのです。そして11月、絵を描いている最中に、私はやる気を使い果たしました。それまでは自分が描いている絵がどんな風になるのかいつも待ちきれない思いだったのですが、この絵を仕上げるのが急に単純作業のように思えてきたのです。だから、それをやめて筆を洗って、それ以来絵は描いていません。少なくとも、これまでのところは。
 
 
 I realize that sounds rather wimpy. But attention is a zero sum game. If you can choose what to work on, and you choose a project that's not the best one (or at least a good one) for you, then it's getting in the way of another project that is. And at 50 there was some opportunity cost to screwing around.
 
-なんか弱気な感じがしますよね。でも、注意力はゼロサムゲームです。あなたが何に取り組むかを選択することができ、あなたにとって最高のものではない（または少なくとも良いものではない）プロジェクトを選択した場合、それは別のプロジェクトである別のプロジェクトの邪魔になっています。そして50歳になると、ふざけたことをする機会費用が発生していた。
+なんだか根性なしな感じがしますよね。でも、関心はゼロサムゲームです。あなたが何に取り組むかを選択することができ、そこであなたが自分にとって最高のものではない（または少なくとも良いものではない）プロジェクトを選んだとしたら、それは最高のプロジェクトの邪魔になるということです。それに、私はもう50歳で、やんちゃをするにも機会費用がかかります。
 
 
 I started writing essays again, and wrote bunch of new ones over the next few months. I even wrote a couple that weren't about startups. Then in March 2015 I started working on Lisp again.
 
-私は再びエッセイを書き始め、数ヶ月の間に新しいエッセイをたくさん書きました。スタートアップに関するものではないものもいくつか書きました。そして2015年3月、私は再びLispに取り組み始めました。
+私は再びエッセイを書き始め、それから数か月の間に新しいエッセイをたくさん書きました。スタートアップに関するものではないものもいくつか書きました。そして2015年3月、私は再びLispに取り組み始めました。
 
 
 The distinctive thing about Lisp is that its core is a language defined by writing an interpreter in itself. It wasn't originally intended as a programming language in the ordinary sense. It was meant to be a formal model of computation, an alternative to the Turing machine. If you want to write an interpreter for a language in itself, what's the minimum set of predefined operators you need? The Lisp that John McCarthy invented, or more accurately discovered, is an answer to that question. [19]
 
-Lispの特徴的なところは、そのコアがそれ自体がインタプリタを書くことで定義された言語であるということです。元々は普通の意味でのプログラミング言語として意図されたものではありませんでした。チューリングマシンの代替となる計算の形式的なモデルとして意図されていたのです。言語自体のインタプリタを書きたいと思ったら、必要最低限の定義済み演算子のセットは何でしょうか？ジョン・マッカーシーが発明したLispが、より正確にはその答えです。[19]
+Lispの特徴的なところは、そのコアがそれ自体がインタプリタを書くことで定義された言語であるということです。元々は普通の意味でのプログラミング言語として意図されたものではありませんでした。チューリングマシンの代替となる計算の形式的なモデルとして意図されていたのです。ある言語で、その言語自体のインタプリタを書きたいと思ったら、必要最低限の定義済み演算子のセットはどのようなものになるでしょうか？ ジョン・マッカーシーが発明し、というよりも発見したLispが、その質問への答えです。[19]
 
 
 McCarthy didn't realize this Lisp could even be used to program computers till his grad student Steve Russell suggested it. Russell translated McCarthy's interpreter into IBM 704 machine language, and from that point Lisp started also to be a programming language in the ordinary sense. But its origins as a model of computation gave it a power and elegance that other languages couldn't match. It was this that attracted me in college, though I didn't understand why at the time.
 
-マッカーシーは、彼の大学院生であるスティーブ・ラッセルが提案するまで、このLispがコンピュータのプログラミングにも使えることを知りませんでした。ラッセルはマッカーシーのインタプリタをIBM 704の機械語に翻訳し、その時点からLispは普通の意味でのプログラミング言語としても使われるようになりました。しかし、計算のモデルとしてのその起源は、他の言語には真似のできない力強さと優雅さを与えてくれました。このことに惹かれて大学に入ったのですが、当時はその理由がよくわかりませんでした。
+マッカーシーは、彼の大学院生であるスティーブ・ラッセルが提案するまで、このLispがコンピュータのプログラミングにも使えることに気づきませんでした。ラッセルはマッカーシーのインタプリタをIBM 704の機械語に翻訳し、その時点からLispは普通の意味でのプログラミング言語としても使われるようになりました。しかし、計算のモデルとしてのその起源は、他の言語には真似のできない力強さと優雅さを与えてくれました。私はこのことに惹かれて大学に入ったのですが、当時はその理由がよくわかりませんでした。
 
 
 McCarthy's 1960 Lisp did nothing more than interpret Lisp expressions. It was missing a lot of things you'd want in a programming language. So these had to be added, and when they were, they weren't defined using McCarthy's original axiomatic approach. That wouldn't have been feasible at the time. McCarthy tested his interpreter by hand-simulating the execution of programs. But it was already getting close to the limit of interpreters you could test that way — indeed, there was a bug in it that McCarthy had overlooked. To test a more complicated interpreter, you'd have had to run it, and computers then weren't powerful enough.
 
-マッカーシーの1960年のLispは、Lispの式を解釈するだけのものでした。それはプログラミング言語に必要な多くのものが欠けていました。そのため、これらを追加しなければならなかったのですが、追加したとしても、McCarthyの元々の公理的アプローチでは定義されていませんでした。当時はそれは実現不可能だったでしょう。McCarthyはプログラムの実行を手でシミュレーションすることでインタプリタをテストしました。しかし、この方法でテストできるインタプリタの限界にはすでに近づいていました。もっと複雑なインタプリタをテストするには、それを実行する必要があり、当時のコンピュータは十分な性能を持っていませんでした。
+マッカーシーの1960年のLispは、Lispの式を解釈するだけのものでした。それはプログラミング言語に必要な多くのものが欠けていました。そのため、それらは追加される必要がありました。しかし、その後追加されたものは、マッカーシーの元々の公理的アプローチで定義されていませんでした。当時はそれは実現不可能だったでしょう。マッカーシーはプログラムの実行を手でシミュレーションすることでインタプリタをテストしていました。しかし、この方法でテストできるインタプリタの限界にはすでに近づいていました。実際、そのインタプリタにはマッカーシーが見逃していたバグがありました。もっと複雑なインタプリタをテストするには、それを実行する必要があり、当時のコンピュータは十分な性能を持っていませんでした。
 
 
 Now they are, though. Now you could continue using McCarthy's axiomatic approach till you'd defined a complete programming language. And as long as every change you made to McCarthy's Lisp was a discoveredness-preserving transformation, you could, in principle, end up with a complete language that had this quality. Harder to do than to talk about, of course, but if it was possible in principle, why not try? So I decided to take a shot at it. It took 4 years, from March 26, 2015 to October 12, 2019. It was fortunate that I had a precisely defined goal, or it would have been hard to keep at it for so long.
 
-今はそうだが これで、完全なプログラミング言語を定義するまで、マッカーシーの公理主義的アプローチを使い続けることができるようになりました。マッカーシーのLispに加えたすべての変更が発見性を維持する変換である限り、原理的にはこのような品質を持つ完全な言語を完成させることができます。もちろん、話をするよりも実行する方が難しいのですが、原理的に可能であるならば、試してみてはどうでしょうか？ということで、私は挑戦してみることにしました。2015年3月26日から2019年10月12日までの4年間でした。正確に目標が決まっていたのが幸いしたのか、これだけ長く続けるのは大変だったでしょう。
+今では、コンピューターには十分な性能があります。つまり、マッカーシーの公理主義的アプローチを維持したまま、完全なプログラミング言語を定義できるわけです。マッカーシーのLispに加えたすべての変更が発見性を維持する変換である限り、原理的にはこのような品質を持つ完全な言語を完成させることができます。もちろん、言うは易しというものなのですが、原理的に可能なんだったら、やってみてもいいんじゃないでしょうか？ ということで、私は挑戦してみることにしました。2015年3月26日から2019年10月12日まで、4年かかりました。正確に目標が決まっていたのが幸いでした。そうでなければ、これだけ長く続けるのは大変だったでしょう。
 
 
 I wrote this new Lisp, called Bel, in itself in Arc. That may sound like a contradiction, but it's an indication of the sort of trickery I had to engage in to make this work. By means of an egregious collection of hacks I managed to make something close enough to an interpreter written in itself that could actually run. Not fast, but fast enough to test.
 
-私はこの新しいLispであるBelというLispを、それ自体はArcで書きました。これは矛盾しているように聞こえるかもしれませんが、これは私がこの作品を作るために、どのような策略を用いなければならなかったかを示しています。酷いハックの数々を駆使して、それ自身で書かれたインタプリタに近いものを実際に動作させることに成功しました。高速ではありませんが、テストには十分な速度です。
+私はこの新しいLispであるBelを、それ自体はArcで書きました。これは矛盾しているように聞こえるかもしれませんが、これは私がこれを動かすために、どのような策略を用いなければならなかったかを示しています。ひどいハックの数々を駆使することによって、実際に動作する、自分自身で書かれたインタプリタというものに十分近いものを作ることに成功しました。高速ではありませんが、テストには十分な速度です。
 
 
 I had to ban myself from writing essays during most of this time, or I would never have finished. In late 2015 I spent 3 months writing essays, and when I went back to working on Bel I could barely understand the code. Not so much because it was badly written as because the problem is so convoluted. When you're working on an interpreter written in itself, it's hard to keep track of what's happening at what level, and errors can be practically encrypted by the time you get them.
 
-この期間のほとんどの間、私はエッセイを書くことを禁止しなければなりませんでした。2015年後半、私は3ヶ月間エッセイを書いていましたが、Belの作業に戻ったとき、私はコードをほとんど理解することができませんでした。下手に書いたからというよりも、問題が非常に複雑だからです。インタプリタ自体が書かれている場合、どのレベルで何が起こっているのかを追跡するのは難しいし、エラーを発見するまでには実質的に暗号化されている可能性がある。
+この期間のほとんどの間、私はエッセイを書くことを自分に禁じなければなりませんでした。2015年後半、私は3か月間エッセイを書いていましたが、Belの作業に戻ったとき、私はコードをほとんど理解することができませんでした。コードの書き方が悪かったからというよりも、問題が非常に複雑だからです。自分自身で書かれたインタプリタについて作業していると、どのレベルで何が起こっているのかを追跡するのは難しいし、エラーを捕捉した時点では実質的に暗号のようになっているかもしれません。
 
 
 So I said no more essays till Bel was done. But I told few people about Bel while I was working on it. So for years it must have seemed that I was doing nothing, when in fact I was working harder than I'd ever worked on anything. Occasionally after wrestling for hours with some gruesome bug I'd check Twitter or HN and see someone asking "Does Paul Graham still code?"
 
-だから、Belが終わるまでエッセイはもう書くなと言った。でも、作業中はほとんどの人にベルのことを話していました。何年も何もしていないように 思われていただろうが- 実際は今までにないほど 懸命に働いていた 時折、何時間も恐ろしいバグと格闘した後、TwitterやHNをチェックすると、誰かが「ポール・グラハムはまだコードを書いているのか」と尋ねているのを目にすることがありました。
+だから、Belが終わるまでエッセイはお預けにしました。でも、Belの作業をしていた間は、ほとんど誰にもそれについて話しませんでした。そういうわけで、その時期は何年も何もしていないように思われていたかもしれません。実際は、かつてなかったほど熱中して作業していたのですが。時折、何時間も恐ろしいバグと格闘した後、TwitterやHNをチェックすると、「ポール・グラハムってまだプログラミングしてるの？」と誰かが尋ねているのを目にすることがありました。
 
 
 Working on Bel was hard but satisfying. I worked on it so intensively that at any given time I had a decent chunk of the code in my head and could write more there. I remember taking the boys to the coast on a sunny day in 2015 and figuring out how to deal with some problem involving continuations while I watched them play in the tide pools. It felt like I was doing life right. I remember that because I was slightly dismayed at how novel it felt. The good news is that I had more moments like this over the next few years.
 
-Belでの作業は大変でしたが、満足のいくものでした。私はそれに集中して取り組んだので、いつでも頭の中にコードの塊があって、そこにもっと書くことができました。2015年の晴れた日に子供たちを海岸に連れて行き、潮溜まりで遊ぶ子供たちを見ながら、連続性を含むいくつかの問題を処理する方法を考え出したことを覚えています。それは私が正しい人生をしているように感じました。私はそれがどのように斬新に感じたかにわずかに落胆していたので、それを覚えています。良かったことは、その後数年の間にこんな瞬間が増えたことです。
+Belの作業は大変でしたが、満足のいくものでした。私はそれに集中して取り組んだので、いつでも頭の中にある程度のコードの塊があって、そこに書き加えていくことができました。2015年の晴れた日に子供たちを海岸に連れて行き、潮溜まりで遊ぶ子供たちを見ながら、継続に関わるいくつかの問題を処理する方法を思いついたことを覚えています。人生がうまくいっているように感じました。これを覚えているのは、それまでずっとそういう経験をしてこなかったということに気づいて、ショックだったからです。しかし、幸いなことに、その後数年間はそういう経験が何度もありました。
 
 
 In the summer of 2016 we moved to England. We wanted our kids to see what it was like living in another country, and since I was a British citizen by birth, that seemed the obvious choice. We only meant to stay for a year, but we liked it so much that we still live there. So most of Bel was written in England.
 
-2016年の夏、私たちはイギリスに引っ越しました。私たちは子供たちに他の国での生活がどのようなものであるかを見てみたいと思っていましたし、私は生まれつきイギリス国籍を持っていたので、それは当然の選択であるように思えました。私たちは1年だけの滞在を意味したが、私たちはまだそこに住んでいるほど気に入っていた。だから『Bel』のほとんどはイギリスで書かれた。
+2016年の夏、私たちはイギリスに引っ越しました。私たちは子供たちに他の国での生活がどのようなものであるかを見てほしいと思っていましたし、私は生まれつきイギリス国籍を持っていたので、それは当然の選択であるように思えました。最初は1年だけのつもりでしたが、イギリスが気に入ったので今でも私たちはそこに住んでいます。だからBelのほとんどはイギリスで書かれたことになります。
 
 
 In the fall of 2019, Bel was finally finished. Like McCarthy's original Lisp, it's a spec rather than an implementation, although like McCarthy's Lisp it's a spec expressed as code.
 
-2019年の秋、ついに『ベル』は完成した。マッカーシーの元祖Lispのように、実装というよりは仕様をコードで表現したものですが。
+2019年の秋、ついにBelは完成しました。マッカーシーの元祖Lisp同様、実装というよりは仕様に近いものです。しかし、マッカーシーのLispのように、それは仕様をコードとして表現したものなのです。
 
 
 Now that I could write essays again, I wrote a bunch about topics I'd had stacked up. I kept writing essays through 2020, but I also started to think about other things I could work on. How should I choose what to do? Well, how had I chosen what to work on in the past? I wrote an essay for myself to answer that question, and I was surprised how long and messy the answer turned out to be. If this surprised me, who'd lived it, then I thought perhaps it would be interesting to other people, and encouraging to those with similarly messy lives. So I wrote a more detailed version for others to read, and this is the last sentence of it.
 
-またエッセイが書けるようになったので、積み重なっていたトピックをまとめて書きました。2020年までエッセイを書き続けましたが、それ以外にも取り組めることを考えるようになりました。何をどうやって選べばいいのか？さて、過去の私はどうやって取り組むべきものを選んでいたのでしょうか？その疑問に答えるために自分のためにエッセイを書いたのですが、その答えがあまりにも長くて雑なものになってしまったことに驚きました。もしこれが、それを生きてきた私を驚かせたのなら、おそらく他の人にも興味を持ってもらえるだろうし、同じようにめちゃくちゃな人生を送っている人たちの励みになるだろうと思ったのです。そこで、他の人にも読んでもらえるように、もっと詳しいバージョンを書いてみました。
+またエッセイが書けるようになったので、積み重なっていたトピックをまとめて書きました。2020年までエッセイを書き続けてきましたが、それ以外にも取り組めそうなことについて考えるようになりました。何をどうやって選べばいいのでしょうか。さて、過去の私はどうやって取り組むべきものを選んでいたのでしょうか？ その疑問に答えるために自分のためにエッセイを書いたのですが、その答えがあまりにも長くてめちゃくちゃなものになってしまったことに驚きました。この人生を経験してきた自分でさえ驚くのだから、おそらく他の人にも興味を持ってもらえるだろうし、同じようにめちゃくちゃな人生を送っている人たちの励みになるのではないでしょうか。そこで、他の人にも読んでもらえるように、もっと詳しいバージョンを書いてみることにしました。それがこのエッセイです。
 
 
 Notes
@@ -735,12 +735,12 @@ Notes
 
 [1] My experience skipped a step in the evolution of computers: time-sharing machines with interactive OSes. I went straight from batch processing to microcomputers, which made microcomputers seem all the more exciting.
 
-[1] 私の経験は、コンピュータの進化の一歩をスキップした：対話型OSを搭載したタイムシェアリングマシン。私はバッチ処理からマイクロコンピュータに直行したので、マイクロコンピュータがよりエキサイティングに感じられました。
+[1] 私の経験は、コンピュータの進化の段階をひとつスキップしています：対話型OSを搭載したタイムシェアリングマシンです。私はバッチ処理からマイクロコンピュータに直接移ったので、マイクロコンピュータがよりエキサイティングに感じられました。
 
 
 [2] Italian words for abstract concepts can nearly always be predicted from their English cognates (except for occasional traps like polluzione). It's the everyday words that differ. So if you string together a lot of abstract concepts with a few simple verbs, you can make a little Italian go a long way.
 
-[2] 抽象的な概念を表すイタリア語の単語は、ほぼ常に英語の語義から予測することができます（polluzioneのようなトラップはたまにありますが）。異なるのは日常的な単語です。だから、抽象的な概念をいくつかの簡単な動詞と組み合わせれば、少しのイタリア語でもかなりの効果を発揮することができる。
+[2] 抽象的な概念を表すイタリア語の単語は、ほぼ常に英語の同源語から予測することができます（たまに、polluzioneのような罠がありますが）。異なるのは日常的な単語です。だから、抽象的な概念をいくつかの簡単な動詞と組み合わせれば、少しのイタリア語でもけっこううまくやっていけます。
 
 
 [3] I lived at Piazza San Felice 4, so my walk to the Accademia went straight down the spine of old Florence: past the Pitti, across the bridge, past Orsanmichele, between the Duomo and the Baptistery, and then up Via Ricasoli to Piazza San Marco. I saw Florence at street level in every possible condition, from empty dark winter evenings to sweltering summer days when the streets were packed with tourists.
@@ -750,52 +750,52 @@ Notes
 
 [4] You can of course paint people like still lives if you want to, and they're willing. That sort of portrait is arguably the apex of still life painting, though the long sitting does tend to produce pained expressions in the sitters.
 
-[4] もちろん、その気になれば人物を静物のように描くこともできますし、彼らもその気になってくれます。長く座っていると、座っている人の表情が痛々しいものになりがちだが、そういう肖像画は静物画の頂点と言ってもいいだろう。
+[4] もちろん、あなたがその気になれば、またモデルの協力が得られれば、人物を静物のように描くこともできます。そういう肖像画は静物画の頂点と言ってもいいでしょう。長く座っていると、座っている人の表情が痛々しいものになりがちですが。
 
 
 [5] Interleaf was one of many companies that had smart people and built impressive technology, and yet got crushed by Moore's Law. In the 1990s the exponential growth in the power of commodity (i.e. Intel) processors rolled up high-end, special-purpose hardware and software companies like a bulldozer.
 
-[5] インターリーフは、スマートな人材を擁し、印象的な技術を構築していたにもかかわらず、ムーアの法則に押しつぶされてしまった多くの企業の 1 つである。1990年代には、コモディティ(すなわちインテル)プロセッサのパワーが指数関数的に成長したことで、ハイエンドの特殊用途のハードウェアとソフトウェアの会社がブルドーザーのように巻き上げられた[6]。
+[5] インターリーフは、頭のいい人材を擁し、印象的な技術を構築していたにもかかわらず、ムーアの法則に押しつぶされてしまった多くの企業のひとつです。1990年代には、コモディティ（すなわちインテル）プロセッサのパワーが指数関数的に成長したことで、ハイエンドの特殊用途のハードウェアとソフトウェアの会社をブルドーザーのように押しつぶしてしまいました。
 
 
 [6] The signature style seekers at RISD weren't specifically mercenary. In the art world, money and coolness are tightly coupled. Anything expensive comes to be seen as cool, and anything seen as cool will soon become equally expensive.
 
-[6] RISDのシグネチャースタイルを求める者たちは、特に傭兵的なものではなかった。芸術の世界では、お金とカッコよさは密接に結びついている。高価なものはクールとみなされるようになり、クールとみなされるものはすぐに同じように高価になる。
+[6] RISDのシグネチャースタイルを追求する人たちは、特に金目当てでそうしていたというわけではありませんでした。芸術の世界では、お金とクールさは密接に結びついています。高価なものはクールとみなされるようになり、クールとみなされるものはすぐ同様に高価になります。
 
 
 [7] Technically the apartment wasn't rent-controlled but rent-stabilized, but this is a refinement only New Yorkers would know or care about. The point is that it was really cheap, less than half market price.
 
-[7] 技術的には、このアパートは家賃管理ではなく家賃安定化されていましたが、これはニューヨーカーだけが知っている、あるいは気にしている洗練されたものです。ポイントは、市場価格の半額以下で本当に安かったということです。
+[7] 厳密には、このアパートはレントコントロールではなくレントスタビライズドというものです。この点を知っている、あるいは気にするのはニューヨーカーぐらいでしょうけど。いずれにせよ、市場価格の半額以下で、本当に安かったということです。
 
 
 [8] Most software you can launch as soon as it's done. But when the software is an online store builder and you're hosting the stores, if you don't have any users yet, that fact will be painfully obvious. So before we could launch publicly we had to launch privately, in the sense of recruiting an initial set of users and making sure they had decent-looking stores.
 
-[8] ほとんどのソフトウェアは、完成すればすぐに立ち上げることができる。しかし、そのソフトウェアがオンラインストアビルダーであり、あなたがストアをホストしている場合、もしあなたにまだユーザーがいなければ、その事実は痛いほど明らかになるでしょう。ですから、私たちが公に立ち上げる前に、最初のユーザーを募集して、彼らがきちんとした店舗を持っていることを確認するという意味で、私たちは個人的に立ち上げなければなりませんでした。
+[8] ほとんどのソフトウェアは、完成すればすぐに立ち上げることができます。しかし、そのソフトウェアがオンラインストアビルダーで、あなたがストアをホストしていて、またあなたにまだ誰もユーザーがいないという状況であれば、その様子が痛々しいぐらいに明らかになっていまます。それで、公開する前に、まずは内輪で立ち上げることにしました。初期ユーザーを募集して、彼らの店がちゃんとした見た目になるようにしたのです。
 
 
 [9] We'd had a code editor in Viaweb for users to define their own page styles. They didn't know it, but they were editing Lisp expressions underneath. But this wasn't an app editor, because the code ran when the merchants' sites were generated, not when shoppers visited them.
 
-[9] 私たちはViawebにユーザーが独自のページスタイルを定義するためのコードエディタを持っていました。彼らはそれを知らずに、その下でLisp式を編集していました。しかし、これはアプリエディタではありませんでした。なぜなら、コードはマーチャントのサイトが生成されたときに実行され、買い物客がサイトを訪問したときに実行されるのではなかったからです。
+[9] Viawebにはコードエディタがあり、ユーザーが独自のページスタイルを定義することができました。ユーザーは意識していませんでしたが、裏ではLisp式を編集していたのです。しかし、これはアプリエディタではありませんでした。なぜなら、コードが実行されるのはマーチャントのサイトが生成されるときであり、買い物客がサイトを訪問したときに実行されるのではなかったからです。
 
 
 [10] This was the first instance of what is now a familiar experience, and so was what happened next, when I read the comments and found they were full of angry people. How could I claim that Lisp was better than other languages? Weren't they all Turing complete? People who see the responses to essays I write sometimes tell me how sorry they feel for me, but I'm not exaggerating when I reply that it has always been like this, since the very beginning. It comes with the territory. An essay must tell readers things they don't already know, and some people dislike being told such things.
 
-[10] これは、今ではおなじみの経験の最初の例であり、次に起こったこともそうでした。どうやってLispが他の言語より優れていると主張することができるのでしょうか? 全部Turingで完結していたのではないのか？私が書いたエッセイへの反応を見ている人たちは、私に同情するように言われることがありますが、私は誇張しているわけではなく、最初からずっとこうだったと答えています。それはテリトリーに伴うものだ。エッセイは、読者がすでに知らないことを伝えなければならないし、そのようなことを言われるのを嫌う人もいる。
+[10] これは、今ではおなじみとなった経験の最初の一回で、次に起こったこともそうでした。コメントを読むと、怒っている人がいっぱいいたのです。どうしてLispが他の言語より優れているなんて言えるんだ？ 全部チューリング完全なんじゃないのか？ 私が書いたエッセイへの反応を見ている人たちは、私に同情することがありますが、そういうときは誇張でなく、最初からずっとこうだったと答えています。これはエッセイを書く以上避けられないことです。エッセイは、読者がまだ知らないことを伝えるべきなのですが、そういうことを言われるのを嫌う人もいるのです。
 
 
 [11] People put plenty of stuff on the internet in the 90s of course, but putting something online is not the same as publishing it online. Publishing online means you treat the online version as the (or at least a) primary version.
 
-[11] 90年代には、もちろんインターネットにたくさんのものを載せていましたが、何かをオンラインにすることと、オンラインで公開することは同じではありません。オンラインで公開するということは、オンライン版を（少なくとも）一次版として扱うことを意味します。
+[11] 90年代には、もちろん人々はインターネットにたくさんのものを載せていましたが、何かをオンラインにすることと、オンラインで公開することは同じではありません。オンラインで公開するというのは、オンライン版を正式版（少なくとも、正式版のひとつ）として扱うということです。
 
 
 [12] There is a general lesson here that our experience with Y Combinator also teaches: Customs continue to constrain you long after the restrictions that caused them have disappeared. Customary VC practice had once, like the customs about publishing essays, been based on real constraints. Startups had once been much more expensive to start, and proportionally rare. Now they could be cheap and common, but the VCs' customs still reflected the old world, just as customs about writing essays still reflected the constraints of the print era.
 
-[12] ここには、Y Combinatorでの経験が教えてくれる一般的な教訓があります。習慣は、その原因となった制限がなくなった後も、長い間、あなたを制約し続けるということです。VCの慣習は、かつては、エッセイの出版に関する慣習のように、実際の制約に基づいていた。スタートアップは、かつては、スタートアップを始めるのにはるかに高価で、それに比例してレアなものだった。今では、スタートアップは安くて普通のものになりましたが、VCの慣習は、エッセイを書く慣習が印刷時代の制約をまだ反映していたのと同じように、古い世界をまだ反映していました。
+[12] ここには、Y Combinatorでの経験が教えてくれる一般的な教訓があります。習慣は、その原因となった制約がなくなった後も、長い間、あなたを縛り続けるということです。VCの慣習は、かつては、エッセイの出版に関する慣習のように、実際の制約に基づいていました。スタートアップは、かつては今よりもはるかにお金がかかるもので、その分だけ希少なものでした。今では、スタートアップは安くて普通のものになりましたが、VCの慣習は古い世界を反映したままでした。それは、エッセイを書く慣習が印刷時代の制約をまだ反映していたのと同じようなことです。
 
 
 Which in turn implies that people who are independent-minded (i.e. less influenced by custom) will have an advantage in fields affected by rapid change (where customs are more likely to be obsolete).
 
-つまり、独立心の強い（つまり慣習の影響を受けにくい）人は、急速な変化の影響を受ける分野（慣習が時代遅れになる可能性が高い）では有利になるということを意味しています。
+これは、自分の頭で考えられる（つまり、慣習の影響を受けにくい）人は、急速な変化の影響を受ける分野（慣習が時代遅れになりやすい）では有利になるということです。
 
 
 Here's an interesting point, though: you can't always predict which fields will be affected by rapid change. Obviously software and venture capital will be, but who would have predicted that essay writing would be?
@@ -805,47 +805,47 @@ Here's an interesting point, though: you can't always predict which fields will 
 
 [13] Y Combinator was not the original name. At first we were called Cambridge Seed. But we didn't want a regional name, in case someone copied us in Silicon Valley, so we renamed ourselves after one of the coolest tricks in the lambda calculus, the Y combinator.
 
-13] Y Combinatorは元々の名前ではありませんでした。最初はケンブリッジ・シードと呼ばれていました。しかし、シリコンバレーで誰かが私たちをコピーした場合に備えて、地域的な名前をつけたくなかったので、ラムダ計算で最もクールなトリックの一つであるYコンビネーターにちなんで、自分たちの名前を変更しました。
+[13] Y Combinatorは元々の名前ではありませんでした。最初はケンブリッジ・シードと呼ばれていました。しかし、シリコンバレーで誰かが私たちをコピーした場合に備えて、地域に由来する名前をつけたくなかったので、ラムダ計算で最もクールなトリックの一つであるYコンビネーターにちなんで名前を変更したのです。
 
 
 I picked orange as our color partly because it's the warmest, and partly because no VC used it. In 2005 all the VCs used staid colors like maroon, navy blue, and forest green, because they were trying to appeal to LPS, not founders. The YC logo itself is an inside joke: the Viaweb logo had been a white V on a red circle, so I made the YC logo a white Y on an orange square.
 
-オレンジ色にしたのは、オレンジが一番暖かいからと、VCが使っていなかったからです。2005年には、すべてのVCがマルーン、ネイビーブルー、フォレストグリーンなどの地味な色を使っていました。YCのロゴ自体は内輪のジョークである。Viawebのロゴは赤丸に白のVだったので、YCのロゴをオレンジ色の四角に白のYにした。
+オレンジ色にしたのは、オレンジが一番暖かい色であるのと、VCがどこも使っていなかったからです。2005年には、VCはどこも、マルーン、ネイビーブルー、フォレストグリーンなどの地味な色を使っていました。それは、VCが見ていたのが出資者で、起業家ではなかったからです。YCのロゴ自体はある種の内輪ネタです。Viawebのロゴは赤丸に白のVだったので、YCのロゴはオレンジ色の四角に白のYにしたのです。
 
 
 [14] YC did become a fund for a couple years starting in 2009, because it was getting so big I could no longer afford to fund it personally. But after Heroku got bought we had enough money to go back to being self-funded.
 
-[14] YCは2009年から数年間ファンドになっていましたが、あまりにも大きくなりすぎて、個人的に資金を提供する余裕がなくなったからです。しかし、ヘロクが買収された後は自己資金に戻るのに十分な資金があった。
+[14] YCは2009年から数年間ファンドになっていました。あまりにも大きくなりすぎて、自己資金ではやっていけなくなったからです。しかし、Herokuが買収されて十分な資金を得たので、また自己資金に戻りました。
 
 
 [15] I've never liked the term "deal flow," because it implies that the number of new startups at any given time is fixed. This is not only false, but it's the purpose of YC to falsify it, by causing startups to be founded that would not otherwise have existed.
 
-15] 私は「ディールフロー」という言葉が好きではありません。これは虚偽であるだけでなく、そうでなければ存在しなかったであろうスタートアップを設立させることによって、それを改竄するのがYCの目的である。
+15] 私は「ディールフロー」という言葉が好きではありません。これは、ある時点における新規スタートアップの数は一定であるということが前提になっているからです。これは正しくありません。また、YCの目的は、YCがなければ存在しなかったであろうスタートアップを設立させることによって、この前提を正しくないものにすることにあります。
 
 
 [16] She reports that they were all different shapes and sizes, because there was a run on air conditioners and she had to get whatever she could, but that they were all heavier than she could carry now.
 
-[16] 彼女は、エアコンが不足していて、彼女が手に入るものは何でも手に入れなければならなかったので、それらはすべて形も大きさも違っていたと報告しているが、それらはすべて彼女が今持っているよりも重いものだったという。
+[16] 彼女によると、エアコンはすべて形も大きさも違うものだったそうです。エアコンが不足していて、手に入るものは何でも手に入れなければならなかったということです。しかし、それらはすべて、彼女にはすぐに運べないほど重いものだったそうです。
 
 
 [17] Another problem with HN was a bizarre edge case that occurs when you both write essays and run a forum. When you run a forum, you're assumed to see if not every conversation, at least every conversation involving you. And when you write essays, people post highly imaginative misinterpretations of them on forums. Individually these two phenomena are tedious but bearable, but the combination is disastrous. You actually have to respond to the misinterpretations, because the assumption that you're present in the conversation means that not responding to any sufficiently upvoted misinterpretation reads as a tacit admission that it's correct. But that in turn encourages more; anyone who wants to pick a fight with you senses that now is their chance.
 
-[17] HNのもう一つの問題は、エッセイを書くときとフォーラムを運営するときの両方で発生する奇妙なエッジケースでした。フォーラムを運営する場合、すべての会話ではなくても、少なくともあなたが関わるすべての会話を見ていると想定されます。そして、あなたがエッセイを書くと、人々はそれを非常に想像力豊かに誤った解釈でフォーラムに投稿します。この2つの現象は個別には面倒だが耐えられるものだが、その組み合わせは悲惨なものだ。なぜなら、あなたが会話に参加しているという前提があるため、十分に支持された誤訳に反応しないことは、それが正しいことを黙認しているように読めるからです。あなたと喧嘩をしたい人は、今がチャンスだと感じているのです。
+[17] HNのもう一つの問題は、エッセイを書きつつフォーラムを運営するときに発生する奇妙なエッジケースでした。フォーラムを運営していると、すべての会話ではないにしても、少なくともあなたに関わるすべての会話はあなたが見ているだろうと参加者に思われます。そして、エッセイを書くと、人々はそれに関する非常に想像力豊かな誤解をフォーラムに投稿します。この二つの現象は個別には面倒ながらも耐えられるものですが、その組み合わせは悲惨なものとなります。こうなると、それらの誤解に反応しないわけにはいかなくなります。というのは、あなたが会話に参加しているという前提があるので、Upvoteがたくさんついた誤解に反応しないでいると、暗黙のうちにそれが正しいと認めているように見えるからです。それだけではありません。あなたに喧嘩を売りたいと思っている人は、今がチャンスだと感じることになります。
 
 
 [18] The worst thing about leaving YC was not working with Jessica anymore. We'd been working on YC almost the whole time we'd known each other, and we'd neither tried nor wanted to separate it from our personal lives, so leaving was like pulling up a deeply rooted tree.
 
-YCを辞めて最悪だったのは ジェシカと仕事ができなくなったことです 私たちはお互いを知っている間、ほぼずっとYCに取り組んできたし、私生活からYCを切り離そうともしなかったし、切り離したいとも思わなかったので、去ることは根深い木を引っ張り上げるようなものでした。
+YCを辞めて最悪だったのは、ジェシカと仕事ができなくなったことです。私たちは知り合ってからほぼずっとYCに取り組んできましたし、私生活からYCを切り離そうともしなかったし、切り離したいとも思わなかったので、辞めることは根深い木を引っ張り上げるようなものでした。
 
 
 [19] One way to get more precise about the concept of invented vs discovered is to talk about space aliens. Any sufficiently advanced alien civilization would certainly know about the Pythagorean theorem, for example. I believe, though with less certainty, that they would also know about the Lisp in McCarthy's 1960 paper.
 
-[19] 発明対発見の概念についてより正確に知るための1つの方法は、宇宙人について話すことである。どんな十分に進んだ異星人文明でも、例えばピタゴラスの定理については確かに知っているだろう。私は、より確実ではありませんが、マッカーシーの1960年の論文にあるLispについても知っていると信じています。
+[19] 発明対発見の概念についてより正確に知るための1つの方法は、宇宙人について考えてみることです。十分に進んだ異星人文明であれば、どんな文明でも、例えばピタゴラスの定理については確実に知っているはずです。そのレベルの自信はありませんが、十分に進んだ異星人文明は、マッカーシーの1960年の論文にあるLispについても知っていると私は信じています。
 
 
 But if so there's no reason to suppose that this is the limit of the language that might be known to them. Presumably aliens need numbers and errors and I/O too. So it seems likely there exists at least one path out of McCarthy's Lisp along which discoveredness is preserved.
 
-しかし、もしそうだとしたら、これが彼らが知っているかもしれない言語の限界だと考える理由はありません。おそらく宇宙人は数字とエラーとI/Oも必要としています。ですから、マッカーシーのLispの中には、発見されたことが保存されている道が少なくとも一つはあるように思われます。
+しかし、もしそうだとしたら、これが彼らが知っているかもしれない言語の限界だと考える理由はありません。おそらく宇宙人は数字とエラーとI/Oも必要としているでしょう。ですから、マッカーシーのLispから、その発見性はそのままに、発展していく道が少なくとも一つはあるように思われます。
 
 
 Thanks to Trevor Blackwell, John Collison, Patrick Collison, Daniel Gackle, Ralph Hazell, Jessica Livingston, Robert Morris, and Harj Taggar for reading drafts of this.
