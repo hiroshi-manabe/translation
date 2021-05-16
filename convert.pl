@@ -5,9 +5,10 @@ use strict;
 use open IO => ":utf8", ":std";
 
 use File::Basename;
+use File::Spec;
 
 sub main {
-    my $file_dir = dirname(__FILE__);
+    my $file_dir = File::Spec->rel2abs(dirname(__FILE__));
     my @files = map { $_ =~ s{[\r\n]*$}{}r; } `git -C $file_dir ls-tree -r main --name-only`;
     
     for my $in_file(@files) {
@@ -15,7 +16,7 @@ sub main {
         my $out_dir = "$file_dir/".($in_file =~ s{\.txt$}{}r);
         print "$out_dir\n";
         mkdir $out_dir or die if not -d $out_dir;
-        my @commits = map { s{[\r\n]*$}{}r; } `git -C $file_dir log --pretty=format:"%H"`;
+        my @commits = map { s{[\r\n]*$}{}r; } `git -C $file_dir log --pretty=format:"%H" $in_file`;
         print "$_\n" for @commits;
 
         for my $commit(@commits) {
@@ -49,7 +50,7 @@ HEAD
             close OUT;
             system("git -C $file_dir add $out_dir/$commit.html");
         }
-        system("ln -nfs $out_dir/$commits[0].html $out_dir/index.html");
+        system("ln -nfs ./$commits[0].html $out_dir/index.html");
         system("git -C $file_dir add $out_dir/index.html");
         system(qq{git -C $file_dir commit -m "Generated HTML files."});
     }
