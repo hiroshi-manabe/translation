@@ -8,9 +8,10 @@ use File::Basename;
 
 sub main {
     my $file_dir = dirname(__FILE__);
-    my @files = map { $_ =~ s{[\r\n]*$}{}r; } `git -C $file_dir diff-tree --no-commit-id --name-only -r HEAD`;
+    my @files = map { $_ =~ s{[\r\n]*$}{}r; } `git -C $file_dir ls-tree -r main --name-only`;
     
     for my $in_file(@files) {
+        next if $in_file !~ m{\.txt$};
         my $out_dir = "$file_dir/".($in_file =~ s{\.txt$}{}r);
         print "$out_dir\n";
         mkdir $out_dir or die if not -d $out_dir;
