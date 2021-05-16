@@ -730,7 +730,7 @@ Now that I could write essays again, I wrote a bunch about topics I'd had stacke
 
 Notes
 
-注意事項
+脚注
 
 
 [1] My experience skipped a step in the evolution of computers: time-sharing machines with interactive OSes. I went straight from batch processing to microcomputers, which made microcomputers seem all the more exciting.
