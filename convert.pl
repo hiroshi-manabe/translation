@@ -13,7 +13,7 @@ sub main {
     
     for my $in_file(@files) {
         next if $in_file !~ m{\.txt$};
-        my $out_dir = "$file_dir/".($in_file =~ s{\.txt$}{}r);
+        my $out_dir = "$file_dir/".($in_file =~ s{(?:_en_ja)?\.txt$}{}r);
         print "$out_dir\n";
         mkdir $out_dir or die if not -d $out_dir;
         my @commits = map { s{[\r\n]*$}{}r; } `git -C $file_dir log --pretty=format:"%H" $in_file`;
