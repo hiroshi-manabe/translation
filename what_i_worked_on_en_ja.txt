@@ -220,7 +220,7 @@ The good part was that I got paid huge amounts of money, especially by art stude
 
 I learned some useful things at Interleaf, though they were mostly about what not to do. I learned that it's better for technology companies to be run by product people than sales people (though sales is a real skill and people who are good at it are really good at it), that it leads to bugs when code is edited by too many people, that cheap office space is no bargain if it's depressing, that planned meetings are inferior to corridor conversations, that big, bureaucratic customers are a dangerous source of money, and that there's not much overlap between conventional office hours and the optimal time for hacking, or conventional offices and the optimal place for it.
 
-インターリーフでは、いくつかの有益なことを学びました。といっても、ほとんどは「何をやってはいけないか」ということでした。テクノロジー企業は営業よりも製品担当者が経営している方が良いということ（営業はちゃんとしたスキルであり、それが得意な人は本当に得意なのですが）、コードに関わる人が多すぎるとバグを招くこと、気が滅入るようなオフィススペース、たとえ安かったとしても避けたほうがいいということ、計画的な会議よりも廊下での雑談のほうが役に立つということ、官僚的な大口顧客は危険な資金源であること、そして、従来の勤務時間とハッキングに最適な時間帯の間、また従来のオフィスとハッキングに最適な場所との間には大きなずれがあるということを学びました。
+インターリーフでは、いくつかの有益なことを学びました。といっても、ほとんどは「何をやってはいけないか」ということでした。テクノロジー企業は営業よりも製品担当者が経営している方が良いということ（営業はちゃんとしたスキルであり、それが得意な人は本当に得意なのですが）、コードに関わる人が多すぎるとバグを招くこと、気が滅入るようなオフィススペースはたとえ安かったとしても避けたほうがいいということ、計画的な会議よりも廊下での雑談のほうが役に立つということ、官僚的な大口顧客は危険な資金源であること、そして、従来の勤務時間とハッキングに最適な時間帯の間、また従来のオフィスとハッキングに最適な場所との間には大きなずれがあるということを学びました。
 
 
 But the most important thing I learned, and which I used in both Viaweb and Y Combinator, is that the low end eats the high end: that it's good to be the "entry level" option, even though that will be less prestigious, because if you're not, someone else will be, and will squash you against the ceiling. Which in turn means that prestige is a danger sign.
