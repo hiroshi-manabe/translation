@@ -145,7 +145,7 @@ I didn't see a way out of this situation. I didn't want to drop out of grad scho
 
 Then one day in April 1990 a crack appeared in the wall. I ran into professor Cheatham and he asked if I was far enough along to graduate that June. I didn't have a word of my dissertation written, but in what must have been the quickest bit of thinking in my life, I decided to take a shot at writing one in the 5 weeks or so that remained before the deadline, reusing parts of On Lisp where I could, and I was able to respond, with no perceptible delay "Yes, I think so. I'll give you something to read in a few days."
 
-そして1990年4月のある日、救いの手が現れました。私はチーサム教授に出くわし、彼は私がその6月に卒業するのに十分なレベルにあるかどうかを尋ねました。私はまだ一文字も論文を書いていなかったのですが、人生で一番頭の回転が速かったのでしょう、その瞬間に、締め切りまでに残った5週間ほどの間にOn Lispの一部を再利用して論文を書いてみることに決めて、ほぼ間を置かずに「はい、大丈夫です。いま書いているものを数日後にお見せします。」と答えることができました。
+そして1990年4月のある日、転機が訪れました。私はチーサム教授に出くわし、彼は私がその6月に卒業するのに十分なレベルにあるかどうかを尋ねました。私はまだ一文字も論文を書いていなかったのですが、人生で一番頭の回転が速かったのでしょう、その瞬間に、締め切りまでに残った5週間ほどの間にOn Lispの一部を再利用して論文を書いてみることに決めて、ほぼ間を置かずに「はい、大丈夫です。いま書いているものを数日後にお見せします。」と答えることができました。
 
 
 I picked applications of continuations as the topic. In retrospect I should have written about macros and embedded languages. There's a whole world there that's barely been explored. But all I wanted was to get out of grad school, and my rapidly written dissertation sufficed, just barely.
