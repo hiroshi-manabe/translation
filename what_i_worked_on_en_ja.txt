@@ -15,7 +15,7 @@ Before college the two main things I worked on, outside of school, were writing 
 
 The first programs I tried writing were on the IBM 1401 that our school district used for what was then called "data processing." This was in 9th grade, so I was 13 or 14. The school district's 1401 happened to be in the basement of our junior high school, and my friend Rich Draves and I got permission to use it. It was like a mini Bond villain's lair down there, with all these alien-looking machines — CPU, disk drives, printer, card reader — sitting up on a raised floor under bright fluorescent lights.
 
-私が最初に書こうとしたプログラムは、学区が当時「データ処理」と呼ばれていたことに使っていたIBM 1401のものでした。それは9年生の時ですから、私は13歳か14歳でした。学区の1401はたまたま中学校の地下にあり、友人のリッチ・ドレイブスと私はそれを使う許可を得ました。そこはまるでボンドの悪役の隠れ家のようで、CPU、ディスクドライブ、プリンタ、カードリーダーなどのエイリアンのような機械が、明るい蛍光灯の下、OAフロアの上に鎮座していました。
+私が最初に書こうとしたプログラムは、学区が当時「データ処理」と呼ばれていたことに使っていたIBM 1401のものでした。それは9年生のときですから、私は13歳か14歳でした。学区の1401はたまたま中学校の地下にあり、友人のリッチ・ドレイブスと私はそれを使う許可を得ました。そこはまるでボンドの悪役の隠れ家のようで、CPU、ディスクドライブ、プリンタ、カードリーダーなどのエイリアンのような機械が、明るい蛍光灯の下、OAフロアの上に鎮座していました。
 
 
 The language we used was an early version of Fortran. You had to type programs on punch cards, then stack them in the card reader and press a button to load the program into memory and run it. The result would ordinarily be to print something on the spectacularly loud printer.
@@ -40,7 +40,7 @@ The first of my friends to get a microcomputer built it himself. It was sold as 
 
 Computers were expensive in those days and it took me years of nagging before I convinced my father to buy one, a TRS-80, in about 1980. The gold standard then was the Apple II, but a TRS-80 was good enough. This was when I really started programming. I wrote simple games, a program to predict how high my model rockets would fly, and a word processor that my father used to write at least one book. There was only room in memory for about 2 pages of text, so he'd write 2 pages at a time and then print them out, but it was a lot better than a typewriter.
 
-当時のコンピュータは高価で、1980年頃に父を説得してTRS-80を購入するまで、私は何年も口うるさくせがみ続けました。当時の金字塔はApple IIでしたが、TRS-80でも十分でした。私が本格的にプログラミングを始めたのはこの時です。簡単なゲームを書いたり、模型ロケットの飛ぶ高さを予測するプログラムを書いたり、ワープロを書いたりしました。そのワープロを使って、父は少なくとも1冊の本を書きました。メモリには2ページ分のテキストを書けるスペースしかなかったので、父は一度に2ページずつ書いて印刷していましたが、タイプライターよりはずっとましだったのです。
+当時のコンピュータは高価で、1980年頃に父を説得してTRS-80を購入するまで、私は何年も口うるさくせがみ続けました。当時の金字塔はApple IIでしたが、TRS-80でも十分でした。私が本格的にプログラミングを始めたのはこのときです。簡単なゲームを書いたり、模型ロケットの飛ぶ高さを予測するプログラムを書いたり、ワープロを書いたりしました。そのワープロを使って、父は少なくとも1冊の本を書きました。メモリには2ページ分のテキストを書けるスペースしかなかったので、父は一度に2ページずつ書いて印刷していましたが、タイプライターよりはずっとましだったのです。
 
 
 Though I liked programming, I didn't plan to study it in college. In college I was going to study philosophy, which sounded much more powerful. It seemed, to my naive high school self, to be the study of the ultimate truths, compared to which the things studied in other fields would be mere domain knowledge. What I discovered when I got to college was that the other fields took up so much of the space of ideas that there wasn't much left for these supposed ultimate truths. All that seemed left for philosophy were edge cases that people in other fields felt could safely be ignored.
@@ -50,7 +50,7 @@ Though I liked programming, I didn't plan to study it in college. In college I w
 
 I couldn't have put this into words when I was 18. All I knew at the time was that I kept taking philosophy courses and they kept being boring. So I decided to switch to AI.
 
-18歳の時には、このことを言葉にすることはできませんでした。その時にわかったのは、哲学の授業を受け続けていて、つまらなかったということだけでした。そこで私はAIに転向することにしました。
+18歳のときには、このことを言葉にすることはできませんでした。そのときにわかったのは、哲学の授業を受け続けていて、つまらなかったということだけでした。そこで私はAIに転向することにしました。
 
 
 AI was in the air in the mid 1980s, but there were two things especially that made me want to work on it: a novel by Heinlein called The Moon is a Harsh Mistress, which featured an intelligent computer called Mike, and a PBS documentary that showed Terry Winograd using SHRDLU. I haven't tried rereading The Moon is a Harsh Mistress, so I don't know how well it has aged, but when I read it I was drawn entirely into its world. It seemed only a matter of time before we'd have Mike, and when I saw Winograd using SHRDLU, it seemed like that time would be a few years at most. All you had to do was teach SHRDLU more words.
@@ -140,7 +140,7 @@ So now I was in a PhD program in computer science, yet planning to be an artist,
 
 I didn't see a way out of this situation. I didn't want to drop out of grad school, but how else was I going to get out? I remember when my friend Robert Morris got kicked out of Cornell for writing the internet worm of 1988, I was envious that he'd found such a spectacular way to get out of grad school.
 
-この状況からどう抜け出せばいいかわかりませんでした。大学院を中退したくはありませんでしたが、それ以外でどうやって抜け出せばいいのでしょうか？友人のロバート・モリスが1988年にインターネットワームを書いたことでコーネル大学を追い出されたとき、私は彼が大学院を出るための素晴らしい方法を見つけたことをうらやましく思ったのを覚えています。
+この状況からどう抜け出せばいいかわかりませんでした。大学院を中退したくはありませんでしたが、それ以外でどうやって抜け出せばいいのでしょうか？ 友人のロバート・モリスが1988年にインターネットワームを書いたことでコーネル大学を追い出されたとき、私は彼が大学院を出るための素晴らしい方法を見つけたことをうらやましく思ったのを覚えています。
 
 
 Then one day in April 1990 a crack appeared in the wall. I ran into professor Cheatham and he asked if I was far enough along to graduate that June. I didn't have a word of my dissertation written, but in what must have been the quickest bit of thinking in my life, I decided to take a shot at writing one in the 5 weeks or so that remained before the deadline, reusing parts of On Lisp where I could, and I was able to respond, with no perceptible delay "Yes, I think so. I'll give you something to read in a few days."
@@ -190,7 +190,7 @@ While I was a student at the Accademia I started painting still lives in my bedr
 
 I liked painting still lives because I was curious about what I was seeing. In everyday life, we aren't consciously aware of much we're seeing. Most visual perception is handled by low-level processes that merely tell your brain "that's a water droplet" without telling you details like where the lightest and darkest points are, or "that's a bush" without telling you the shape and position of every leaf. This is a feature of brains, not a bug. In everyday life it would be distracting to notice every leaf on every bush. But when you have to paint something, you have to look more closely, and when you do there's a lot to see. You can still be noticing new things after days of trying to paint something people usually take for granted, just as you can still be noticing new things after days of trying to write an essay about something people usually take for granted.
 
-静物を描くのが好きだったのは、自分が見ているものに興味があったからです。日常生活の中では、私たちは見ているものの多くを意識しないでいます。ほとんどの視覚知覚は低レベルの処理によって処理されていて、「これは水滴だ」と脳に伝えるだけで、明点と暗点がどこにあるのかは伝えなかったり、「これは茂みだ」と伝えるだけで、すべての葉っぱの形や位置を教えてくれなかったりします。これは脳の特徴であって、バグではありません。日常生活では、すべての茂みの葉っぱに意識を向けていては気が散ってしまいます。しかし、何かを描かなければならない時には、もっとよく見なければならないし、よく見れば見るべきものがたくさんあります。人が当たり前だと思っているものを何日もかけて描いてみても、新しいことに気づくことができます。それは、人が当たり前だと思っていることについて何日もエッセイを書いてみても、新しいことに気づくことができるのと同じです。
+静物を描くのが好きだったのは、自分が見ているものに興味があったからです。日常生活の中では、私たちは見ているものの多くを意識しないでいます。ほとんどの視覚知覚は低レベルの処理によって処理されていて、「これは水滴だ」と脳に伝えるだけで、明点と暗点がどこにあるのかは伝えなかったり、「これは茂みだ」と伝えるだけで、すべての葉っぱの形や位置を教えてくれなかったりします。これは脳の特徴であって、バグではありません。日常生活では、すべての茂みの葉っぱに意識を向けていては気が散ってしまいます。しかし、何かを描かなければならないときには、もっとよく見なければならないし、よく見れば見るべきものがたくさんあります。人が当たり前だと思っているものを何日もかけて描いてみても、新しいことに気づくことができます。それは、人が当たり前だと思っていることについて何日もエッセイを書いてみても、新しいことに気づくことができるのと同じです。
 
 
 This is not the only way to paint. I'm not 100% sure it's even a good way to paint. But it seemed a good enough bet to be worth trying.
@@ -215,7 +215,7 @@ Interleaf had done something pretty bold. Inspired by Emacs, they'd added a scri
 
 The good part was that I got paid huge amounts of money, especially by art student standards. In Florence, after paying my part of the rent, my budget for everything else had been $7 a day. Now I was getting paid more than 4 times that every hour, even when I was just sitting in a meeting. By living cheaply I not only managed to save enough to go back to RISD, but also paid off my college loans.
 
-良いところは、特に美大生の基準で考えると、大金をもらっていたことです。フィレンツェでは、家賃を払った後、それ以外のすべての予算は1日7ドルでした。今では、会議で座っているだけの時でさえ、1時間ごとにその4倍以上の給料をもらっていました。生活費を抑えることで、RISDに戻るのに十分なお金を貯めることができただけでなく、大学のローンも完済することができました。
+良いところは、特に美大生の基準で考えると、大金をもらっていたことです。フィレンツェでは、家賃を払った後、それ以外のすべての予算は1日7ドルでした。今では、会議で座っているだけのときでさえ、1時間ごとにその4倍以上の給料をもらっていました。生活費を抑えることで、RISDに戻るのに十分なお金を貯めることができただけでなく、大学のローンも完済することができました。
 
 
 I learned some useful things at Interleaf, though they were mostly about what not to do. I learned that it's better for technology companies to be run by product people than sales people (though sales is a real skill and people who are good at it are really good at it), that it leads to bugs when code is edited by too many people, that cheap office space is no bargain if it's depressing, that planned meetings are inferior to corridor conversations, that big, bureaucratic customers are a dangerous source of money, and that there's not much overlap between conventional office hours and the optimal time for hacking, or conventional offices and the optimal place for it.
@@ -270,7 +270,7 @@ The best thing about New York for me was the presence of Idelle and Julian Weber
 
 She liked to paint on big, square canvases, 4 to 5 feet on a side. One day in late 1994 as I was stretching one of these monsters there was something on the radio about a famous fund manager. He wasn't that much older than me, and was super rich. The thought suddenly occurred to me: why don't I become rich? Then I'll be able to work on whatever I want.
 
-彼女は一辺が一メートル半ぐらいある四角い大きなキャンバスに絵を描くのが好きでした。1994年末のある日、私がそんな巨大キャパスの一枚を広げていたとき、ラジオから有名なファンドマネージャーの話が流れてきました。彼は私よりもそれほど年上ではなく、超金持ちでした。その時、ふと思いついたのです。自分が金持ちになってみてもいいんじゃないか？ そうすれば、何でも好きなことに取り組めるはずだ。
+彼女は一辺が一メートル半ぐらいある四角い大きなキャンバスに絵を描くのが好きでした。1994年末のある日、私がそんな巨大キャパスの一枚を広げていたとき、ラジオから有名なファンドマネージャーの話が流れてきました。彼は私よりもそれほど年上ではなく、超金持ちでした。そのとき、ふと思いついたのです。自分が金持ちになってみてもいいんじゃないか？ そうすれば、何でも好きなことに取り組めるはずだ。
 
 
 Meanwhile I'd been hearing more and more about this new thing called the World Wide Web. Robert Morris showed it to me when I visited him in Cambridge, where he was now in grad school at Harvard. It seemed to me that the web would be a big deal. I'd seen what graphical user interfaces had done for the popularity of microcomputers. It seemed like the web would do the same for the internet.
@@ -295,7 +295,7 @@ So in the summer of 1995, after I submitted the camera-ready copy of ANSI Common
 
 We were working out of Robert's apartment in Cambridge. His roommate was away for big chunks of time, during which I got to sleep in his room. For some reason there was no bed frame or sheets, just a mattress on the floor. One morning as I was lying on this mattress I had an idea that made me sit up like a capital L. What if we ran the software on the server, and let users control it by clicking on links? Then we'd never have to write anything to run on users' computers. We could generate the sites on the same server we'd serve them from. Users wouldn't need anything more than a browser.
 
-私たちはケンブリッジのロバートのアパートで仕事をしていました。彼のルームメイトは長い間留守にすることが多かったので、そういう時期は私は彼の部屋で寝ることになりました。なぜかベッドフレームもシーツもなく、床にマットレスが敷かれていました。ある朝、このマットレスの上に横たわっていたとき、私はあるアイデアを思いついて、L字型に起き上がりました。ソフトウェアをサーバー上で動かして、ユーザーにリンクをクリックさせて操作させたらどうだろう？そうすれば、ユーザーのコンピュータ上で実行するものを書く必要はありません。そのソフトウェアと同じサーバー上でサイトを生成することもできます。ユーザーに必要なのはブラウザーだけです。
+私たちはケンブリッジのロバートのアパートで仕事をしていました。彼のルームメイトは長い間留守にすることが多かったので、そういう時期は私は彼の部屋で寝ることになりました。なぜかベッドフレームもシーツもなく、床にマットレスが敷かれていました。ある朝、このマットレスの上に横たわっていたとき、私はあるアイデアを思いついて、L字型に起き上がりました。ソフトウェアをサーバー上で動かして、ユーザーにリンクをクリックさせて操作させたらどうだろう？ そうすれば、ユーザーのコンピュータ上で実行するものを書く必要はありません。そのソフトウェアと同じサーバー上でサイトを生成することもできます。ユーザーに必要なのはブラウザーだけです。
 
 
 This kind of software, known as a web app, is common now, but at the time it wasn't clear that it was even possible. To find out, we decided to try making a version of our store builder that you could control through the browser. A couple days later, on August 12, we had one that worked. The UI was horrible, but it proved you could build a whole store through the browser, without any client software or typing anything into the command line on the server.
@@ -400,7 +400,7 @@ Yahoo had given us a lot of options when they bought us. At the time I thought Y
 
 When I said I was leaving, my boss at Yahoo had a long conversation with me about my plans. I told him all about the kinds of pictures I wanted to paint. At the time I was touched that he took such an interest in me. Now I realize it was because he thought I was lying. My options at that point were worth about $2 million a month. If I was leaving that kind of money on the table, it could only be to go and start some new startup, and if I did, I might take people with me. This was the height of the Internet Bubble, and Yahoo was ground zero of it. My boss was at that moment a billionaire. Leaving then to start a new startup must have seemed to him an insanely, and yet also plausibly, ambitious plan.
 
-辞めると言ったら、私の今後の計画についてヤフーの上司と長い時間話すことになりました。私はどんな絵を描きたいかを全部話しました。その時は、私にそんなに興味を持ってくれているんだなと感動したものです。今にして思えば、私は嘘をついていると思われていたのでしょう。その時の私のストックオプションは月に200万ドルくらいの価値がありました。そんな大金を捨てて出て行くとしたら、何か新しいスタートアップを始めるために決まっているし、そうなればスタッフを引き抜くかもしれない、というわけです。この頃はインターネットバブルの絶頂期で、ヤフーはその震源地でした。上司は当時億万長者でした。そういう時期に退職して新しいスタートアップを立ち上げるというのは、彼には頭がおかしいぐらい野心的な計画に見えたはずですが、私はそういうことをやりかねないと思われていたのです。
+辞めると言ったら、私の今後の計画についてヤフーの上司と長い時間話すことになりました。私はどんな絵を描きたいかを全部話しました。そのときは、私にそんなに興味を持ってくれているんだなと感動したものです。今にして思えば、私は嘘をついていると思われていたのでしょう。そのときの私のストックオプションは月に200万ドルくらいの価値がありました。そんな大金を捨てて出て行くとしたら、何か新しいスタートアップを始めるために決まっているし、そうなればスタッフを引き抜くかもしれない、というわけです。この頃はインターネットバブルの絶頂期で、ヤフーはその震源地でした。上司は当時億万長者でした。そういう時期に退職して新しいスタートアップを立ち上げるというのは、彼には頭がおかしいぐらい野心的な計画に見えたはずですが、私はそういうことをやりかねないと思われていたのです。
 
 
 But I really was quitting to paint, and I started immediately. There was no time to lose. I'd already burned 4 years getting rich. Now when I talk to founders who are leaving after selling their companies, my advice is always the same: take a vacation. That's what I should have done, just gone off somewhere and done nothing for a month or two, but the idea never occurred to me.
@@ -460,7 +460,7 @@ The subset I would build as an open source project was the new Lisp, whose paren
 
 The following spring, lightning struck. I was invited to give a talk at a Lisp conference, so I gave one about how we'd used Lisp at Viaweb. Afterward I put a postscript file of this talk online, on paulgraham.com, which I'd created years before using Viaweb but had never used for anything. In one day it got 30,000 page views. What on earth had happened? The referring urls showed that someone had posted it on Slashdot. [10]
 
-翌年の春、衝撃的なことがありました。私はLispのカンファレンスに呼ばれ、ViawebでどのようにLispを使ったかについて話しました。その後、私はこの講演のPostScriptファイルを paulgraham.com にオンラインで公開しました。このサイトを作ったのはViawebを使い始める数年前でしたが、特に何にも使っていませんでした。そのファイルは一日で30,000ページビューを記録しました。一体何が起こったのでしょうか? 参照元のURLを見ると、誰かがそれをSlashdotに投稿したようでした。[10]
+翌年の春、衝撃的なことがありました。私はLispのカンファレンスに呼ばれ、ViawebでどのようにLispを使ったかについて話しました。その後、私はこの講演のPostScriptファイルを paulgraham.com にオンラインで公開しました。このサイトを作ったのはViawebを使い始める数年前でしたが、特に何にも使っていませんでした。そのファイルは一日で30,000ページビューを記録しました。一体何が起こったのでしょうか？ 参照元のURLを見ると、誰かがそれをSlashdotに投稿したようでした。[10]
 
 
 Wow, I thought, there's an audience. If I write something and put it on the web, anyone can read it. That may seem obvious now, but it was surprising then. In the print era there was a narrow channel to readers, guarded by fierce monsters known as editors. The only way to get an audience for anything you wrote was to get it published as a book, or in a newspaper or magazine. Now anyone could publish anything.
@@ -480,7 +480,7 @@ In the print era, the channel for publishing essays had been vanishingly small. 
 
 I've worked on several different things, but to the extent there was a turning point where I figured out what to work on, it was when I started publishing essays online. From then on I knew that whatever else I did, I'd always write essays too.
 
-今までいくつかの仕事をしてきましたが、何に取り組むかについてわかるようになる転機があったとしたら、それはエッセイをネットで公開し始めた時でした。その時から、他に何をするにしても、必ずエッセイも書くことにしました。
+今までいくつかの仕事をしてきましたが、何に取り組むかについてわかるようになる転機があったとしたら、それはエッセイをネットで公開し始めたときでした。そのときから、他に何をするにしても、必ずエッセイも書くことにしました。
 
 
 I knew that online essays would be a marginal medium at first. Socially they'd seem more like rants posted by nutjobs on their GeoCities sites than the genteel and beautifully typeset compositions published in The New Yorker. But by this point I knew enough to find that encouraging instead of discouraging.
@@ -625,7 +625,7 @@ One day in 2010, when he was visiting California for interviews, Robert Morris d
 
 At the time I didn't understand what he meant, but gradually it dawned on me that he was saying I should quit. This seemed strange advice, because YC was doing great. But if there was one thing rarer than Rtm offering advice, it was Rtm being wrong. So this set me thinking. It was true that on my current trajectory, YC would be the last thing I did, because it was only taking up more of my attention. It had already eaten Arc, and was in the process of eating essays too. Either YC was my life's work or I'd have to leave eventually. And it wasn't, so I would.
 
-その時は彼がそれをどういうつもりで言ったのか理解できませんでしたが、次第に、それは辞めたほうがいいという意味だとわかってきました。変なアドバイスだと思いました。YCは絶好調だったのですから。しかし、Rtmが間違っているなんて、Rtmがアドバイスをすることよりももっとありそうもないことです。そこで考えてみました。確かに、今の私の路線のままで行くと、私がやった最後のことはYCだったということになるでしょう。というのは、YCは私の関心のほとんどを占めていたからです。YCはすでにArcを押しのけていて、エッセイも押しのけつつありました。YCが私のライフワークでないのであれば、いつかは辞めなければなりません。そして、YCは私のライフワークではありませんでした。つまり、いつかは辞めるということです。
+そのときは彼がそれをどういうつもりで言ったのか理解できませんでしたが、次第に、それは辞めたほうがいいという意味だとわかってきました。変なアドバイスだと思いました。YCは絶好調だったのですから。しかし、Rtmが間違っているなんて、Rtmがアドバイスをすることよりももっとありそうもないことです。そこで考えてみました。確かに、今の私の路線のままで行くと、私がやった最後のことはYCだったということになるでしょう。というのは、YCは私の関心のほとんどを占めていたからです。YCはすでにArcを押しのけていて、エッセイも押しのけつつありました。YCが私のライフワークでないのであれば、いつかは辞めなければなりません。そして、YCは私のライフワークではありませんでした。つまり、いつかは辞めるということです。
 
 
 In the summer of 2012 my mother had a stroke, and the cause turned out to be a blood clot caused by colon cancer. The stroke destroyed her balance, and she was put in a nursing home, but she really wanted to get out of it and back to her house, and my sister and I were determined to help her do it. I used to fly up to Oregon to visit her regularly, and I had a lot of time to think on those flights. On one of them I realized I was ready to hand YC over to someone else.
@@ -640,7 +640,7 @@ I asked Jessica if she wanted to be president, but she didn't, so we decided we'
 
 When we asked Sam if he wanted to be president of YC, initially he said no. He wanted to start a startup to make nuclear reactors. But I kept at it, and in October 2013 he finally agreed. We decided he'd take over starting with the winter 2014 batch. For the rest of 2013 I left running YC more and more to Sam, partly so he could learn the job, and partly because I was focused on my mother, whose cancer had returned.
 
-サムにYCの社長になりたいかどうか尋ねた時、最初はノーと言っていました。彼は原子炉を作るために起業したいと言っていました。しかし、私は勧誘を続け、2013年10月に彼は最終的に同意しました。私たちは、2014年冬期から彼が引き継ぐことを決めました。2013年の残りの期間、私はYCの運営を徐々にサムに任せていっていましたが、これはサムが仕事を覚えられるようにするためと、癌が再発した母のことを考えていたからです。
+サムにYCの社長になりたいかどうか尋ねたとき、最初はノーと言っていました。彼は原子炉を作るために起業したいと言っていました。しかし、私は勧誘を続け、2013年10月に彼は最終的に同意しました。私たちは、2014年冬期から彼が引き継ぐことを決めました。2013年の残りの期間、私はYCの運営を徐々にサムに任せていっていましたが、これはサムが仕事を覚えられるようにするためと、癌が再発した母のことを考えていたからです。
 
 
 She died on January 15, 2014. We knew this was coming, but it was still hard when it did.
@@ -655,7 +655,7 @@ I kept working on YC till March, to help get that batch of startups through Demo
 
 What should I do next? Rtm's advice hadn't included anything about that. I wanted to do something completely different, so I decided I'd paint. I wanted to see how good I could get if I really focused on it. So the day after I stopped working on YC, I started painting. I was rusty and it took a while to get back into shape, but it was at least completely engaging. [18]
 
-さて、次は何をすればいいのでしょうか？Rtmのアドバイスには、そのようなことは何も含まれていませんでした。私は全く違うことをしたいと思っていたので、絵を描くことにしました。本気でやったらどれだけ上手くなるか見てみたかったのです。それで、YCをやめた翌日から絵を描き始めました。私の腕は錆びついていたし、またさまになるようになるには時間がかかりましたが、少なくとも完全に集中していました。[18]
+さて、次は何をすればいいのでしょうか。Rtmのアドバイスには、そのようなことは何も含まれていませんでした。私は全く違うことをしたいと思っていたので、絵を描くことにしました。本気でやったらどれだけ上手くなるか見てみたかったのです。それで、YCをやめた翌日から絵を描き始めました。私の腕は錆びついていたし、またさまになるようになるには時間がかかりましたが、少なくとも完全に集中していました。[18]
 
 
 I spent most of the rest of 2014 painting. I'd never been able to work so uninterruptedly before, and I got to be better than I had been. Not good enough, but better. Then in November, right in the middle of a painting, I ran out of steam. Up till that point I'd always been curious to see how the painting I was working on would turn out, but suddenly finishing this one seemed like a chore. So I stopped working on it and cleaned my brushes and haven't painted since. So far anyway.
