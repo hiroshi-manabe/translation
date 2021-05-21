@@ -705,7 +705,7 @@ I had to ban myself from writing essays during most of this time, or I would nev
 
 So I said no more essays till Bel was done. But I told few people about Bel while I was working on it. So for years it must have seemed that I was doing nothing, when in fact I was working harder than I'd ever worked on anything. Occasionally after wrestling for hours with some gruesome bug I'd check Twitter or HN and see someone asking "Does Paul Graham still code?"
 
-だから、Belが終わるまでエッセイはお預けにしました。でも、Belの作業をしていた間は、ほとんど誰にもそれについて話しませんでした。そういうわけで、その時期は何年も何もしていないように思われていたかもしれません。実際は、かつてなかったほど熱中して作業していたのですが。時折、何時間も恐ろしいバグと格闘した後、TwitterやHNをチェックすると、「ポール・グラハムってまだプログラミングしてるの？」と誰かが尋ねているのを目にすることがありました。
+だから、Belが終わるまでエッセイはお預けにしました。でも、Belの作業をしていた間は、ほとんど誰にもそれについて話しませんでした。そういうわけで、その時期は何年も何もしていないように思われていたかもしれません。実際は、かつてなかったほど熱中して作業していたのですが。時折、何時間も恐ろしいバグと格闘した後、TwitterやHNをチェックすると、「ポール・グレアムってまだプログラミングしてるの？」と誰かが尋ねているのを目にすることがありました。
 
 
 Working on Bel was hard but satisfying. I worked on it so intensively that at any given time I had a decent chunk of the code in my head and could write more there. I remember taking the boys to the coast on a sunny day in 2015 and figuring out how to deal with some problem involving continuations while I watched them play in the tide pools. It felt like I was doing life right. I remember that because I was slightly dismayed at how novel it felt. The good news is that I had more moments like this over the next few years.
