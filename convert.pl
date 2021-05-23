@@ -32,7 +32,7 @@ sub main {
     <style>
     body {
       background-color: white;
-      font-size: small;
+      font-size: medium;
     }
     a {
       color: #dddddd;
