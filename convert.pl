@@ -32,7 +32,8 @@ sub main {
     <style>
     body {
       background-color: white;
-      font-size: medium;
+      font-size: small;
+      width: 435px;
     }
     a {
       color: #dddddd;
