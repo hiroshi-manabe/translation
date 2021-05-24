@@ -32,6 +32,7 @@ sub main {
     <style>
     body {
       background-color: white;
+      font-family: sans-serif;
       font-size: small;
       width: 435px;
     }
