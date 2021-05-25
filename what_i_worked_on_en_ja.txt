@@ -70,7 +70,7 @@ For my undergraduate thesis, I reverse-engineered SHRDLU. My God did I love work
 
 I had gotten into a program at Cornell that didn't make you choose a major. You could take whatever classes you liked, and choose whatever you liked to put on your degree. I of course chose "Artificial Intelligence." When I got the actual physical diploma, I was dismayed to find that the quotes had been included, which made them read as scare-quotes. At the time this bothered me, but now it seems amusingly accurate, for reasons I was about to discover.
 
-私はコーネル大学のプログラムに入っていたのですが、そのプログラムでは専攻を選択する必要はありませんでした。好きなクラスを何でも履修でき、学位につける名前も好きなものを何でも選ぶことができました。私はもちろん“人工知能”にしました。実際に物理的な卒業証書を手にしたとき、学位に引用符まで含まれてしまっていることに気づき、がっかりしました。それは皮肉の引用符のように見えたからです。当時は嫌な気持ちになっていましたが、今では面白いほど正確に思えます。それにはいくつかの理由があるのですが、当時の私もそれらに気づき始めていたところでした。
+私はコーネル大学のプログラムに入っていたのですが、そのプログラムでは専攻を選択する必要はありませんでした。好きなクラスを何でも履修でき、学位につける名前も好きなものを何でも選ぶことができました。私はもちろん“人工知能”にしました。実際に物理的な卒業証書を手にしたとき、学位に引用符まで含まれてしまっていることに気づき、がっかりしました。それは皮肉の引用符のように見えたからです。当時は嫌な気持ちになっていましたが、今では面白いほど正確に思えます。それにはいくつかの理由があるのですが、当時の私ももうすぐそれらに気がつくことになります。
 
 
 I applied to 3 grad schools: MIT and Yale, which were renowned for AI at the time, and Harvard, which I'd visited because Rich Draves went there, and was also home to Bill Woods, who'd invented the type of parser I used in my SHRDLU clone. Only Harvard accepted me, so that was where I went.
